@@ -18,12 +18,16 @@ const config: Config = {
   url: "https://GowtamPaul5120.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/platformnx-docs/",
+  // baseUrl: "/platformnx-docs/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "GowtamPaul5120", // Usually your GitHub org/user name.
-  projectName: "platformnx-docs", // Usually your repo name.
+  projectName: "GowtamPaul5120.github.io", // Usually your repo name.
+
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
   // Custom fields for search API
   customFields: {
@@ -49,7 +53,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/your-username/platformnx-docs/tree/main/",
+            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/tree/main/",
         },
         blog: {
           showReadingTime: true,
@@ -60,7 +64,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/your-username/platformnx-docs/tree/main/blog",
+            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/tree/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -94,7 +98,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/your-username/platformnx-docs",
+          href: "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io",
           label: "GitHub",
           position: "right",
         },
