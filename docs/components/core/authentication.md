@@ -2,18 +2,18 @@
 title: Authentication
 sidebar_position: 1
 ---
-
 # Authentication System
 
-PlatformNX provides a comprehensive, secure, and flexible authentication system that supports multiple authentication methods, role-based access control, and advanced security features.
+Koodisi provides a comprehensive, secure, and flexible authentication system that supports multiple authentication methods, role-based access control, and advanced security features.
 
 ## 🔐 Overview
 
 The authentication system is built around these core principles:
-- **Security First**: Industry-standard encryption and best practices
-- **Flexibility**: Multiple authentication providers and methods
-- **Scalability**: Designed to handle millions of users
-- **Developer Friendly**: Easy to integrate and customize
+
+* **Security First**: Industry-standard encryption and best practices
+* **Flexibility**: Multiple authentication providers and methods
+* **Scalability**: Designed to handle millions of users
+* **Developer Friendly**: Easy to integrate and customize
 
 ## 🚀 Quick Setup
 
@@ -291,8 +291,8 @@ const generateTokens = (user) => {
   
   const accessToken = jwt.sign(payload, process.env.JWT_SECRET, {
     expiresIn: '15m',
-    issuer: 'platformnx',
-    audience: 'platformnx-users'
+    issuer: 'koodisi',
+    audience: 'koodisi-users'
   });
   
   const refreshToken = jwt.sign(
@@ -439,8 +439,8 @@ const qrcode = require('qrcode');
 
 const setupMFA = async (userId) => {
   const secret = speakeasy.generateSecret({
-    name: `PlatformNX (${userId})`,
-    issuer: 'PlatformNX',
+    name: `Koodisi (${userId})`,
+    issuer: 'Koodisi',
     length: 32
   });
   
@@ -712,13 +712,13 @@ authManager.registerProvider('custom', new CustomAuthProvider({
 }));
 ```
 
----
+- - -
 
 ## 📚 Next Steps
 
-- **[Authorization](./authorization)** - Learn about advanced authorization patterns
-- **[Security Best Practices](../security)** - Security guidelines and recommendations
-- **[API Reference](../../api/authentication)** - Complete API documentation
-- **[Troubleshooting](../troubleshooting)** - Common issues and solutions
+* **[Authorization](./authorization)** - Learn about advanced authorization patterns
+* **[Security Best Practices](../security)** - Security guidelines and recommendations
+* **[API Reference](../../api/authentication)** - Complete API documentation
+* **[Troubleshooting](../troubleshooting)** - Common issues and solutions
 
 > **🔐 Security Tip**: Always use HTTPS in production and keep your JWT secrets secure. Regularly rotate secrets and monitor for suspicious activity.
