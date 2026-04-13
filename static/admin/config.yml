@@ -11,11 +11,12 @@ public_folder: /img
 collections:
   - name: docs
     label: Documentation
-    label_singular: Doc
     folder: docs
     create: true
     extension: md
     format: frontmatter
+    nested:
+      depth: 5
     fields:
       - { label: Title, name: title, widget: string }
       - {
@@ -28,7 +29,6 @@ collections:
 
   - name: blog
     label: Blog
-    label_singular: Post
     folder: blog
     create: true
     extension: md
