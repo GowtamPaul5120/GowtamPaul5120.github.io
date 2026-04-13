@@ -40,7 +40,7 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
           editUrl:
-            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/tree/main/docs/",
+            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/edit/development/docs/",
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config: Config = {
             xslt: true,
           },
           editUrl:
-            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/tree/main/blog/",
+            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/edit/development/blog/",
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
