@@ -152,6 +152,16 @@ const config: Config = {
       },
     },
   } satisfies Preset.ThemeConfig,
+
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "algolia-site-verification",
+        content: "E96C57BD169CC212",
+      },
+    },
+  ],
 };
 
 export default config;
