@@ -2,6 +2,8 @@ backend:
   name: github
   repo: GowtamPaul5120/GowtamPaul5120.github.io
   branch: development
+  base_url: https://platformnx-cms-auth.gowtampaul16.workers.dev
+  auth_endpoint: /auth
 
 media_folder: static/img
 public_folder: /img
