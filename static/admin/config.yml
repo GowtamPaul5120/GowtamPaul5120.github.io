@@ -1,0 +1,38 @@
+backend:
+  name: github
+  repo: GowtamPaul5120/GowtamPaul5120.github.io
+  branch: development
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: docs
+    label: Documentation
+    label_singular: Doc
+    folder: docs
+    create: true
+    extension: md
+    format: frontmatter
+    fields:
+      - { label: Title, name: title, widget: string }
+      - {
+          label: Sidebar Position,
+          name: sidebar_position,
+          widget: number,
+          required: false,
+        }
+      - { label: Body, name: body, widget: markdown }
+
+  - name: blog
+    label: Blog
+    label_singular: Post
+    folder: blog
+    create: true
+    extension: md
+    format: frontmatter
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Authors, name: authors, widget: string, required: false }
+      - { label: Tags, name: tags, widget: list, required: false }
+      - { label: Body, name: body, widget: markdown }
