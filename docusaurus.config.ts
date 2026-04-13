@@ -2,42 +2,32 @@ import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
 const config: Config = {
   title: "PlatformNX Documentation",
   tagline: "Complete platform documentation with AI-powered search",
   favicon: "img/favicon.ico",
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
-  url: "https://GowtamPaul5120.github.io",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: "https://gowtampaul5120.github.io",
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "GowtamPaul5120", // Usually your GitHub org/user name.
-  projectName: "GowtamPaul5120.github.io", // Usually your repo name.
+  organizationName: "GowtamPaul5120",
+  projectName: "GowtamPaul5120.github.io",
 
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
-  // Custom fields for search API
   customFields: {
     searchEndpoint: "http://localhost:3001/api/search",
+    editUrl:
+      "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/edit/development/",
   },
 
   onBrokenLinks: "ignore",
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -49,10 +39,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/tree/main/",
+            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/edit/development/docs/",
         },
         blog: {
           showReadingTime: true,
@@ -60,11 +48,8 @@ const config: Config = {
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/tree/main/",
-          // Useful options to enforce blogging best practices
+            "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/edit/development/blog/",
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
@@ -77,11 +62,12 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
+
     colorMode: {
       respectPrefersColorScheme: true,
     },
+
     navbar: {
       title: "PlatformNX",
       logo: {
@@ -103,6 +89,7 @@ const config: Config = {
         },
       ],
     },
+
     footer: {
       style: "dark",
       links: [
@@ -141,13 +128,14 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/your-username/platformnx-docs",
+              href: "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io",
             },
           ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} PlatformNX. Built with Docusaurus.`,
     },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
