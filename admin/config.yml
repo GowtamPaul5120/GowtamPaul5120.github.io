@@ -5,6 +5,8 @@ backend:
   base_url: https://platformnx-cms-auth.gowtampaul16.workers.dev
   auth_endpoint: /auth
 
+publish_mode: editorial_workflow
+
 media_folder: static/img
 public_folder: /img
 
@@ -16,15 +18,15 @@ collections:
     extension: md
     format: frontmatter
     nested:
-      depth: 5
+      depth: 10
+      summary: "{{title}}"
+    meta:
+      path:
+        widget: string
+        label: "File Path"
+        index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
-      - {
-          label: Sidebar Position,
-          name: sidebar_position,
-          widget: number,
-          required: false,
-        }
       - { label: Body, name: body, widget: markdown }
 
   - name: blog
