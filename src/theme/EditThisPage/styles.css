@@ -1,0 +1,83 @@
+.platformnx-edit-this-page {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: var(--platformnx-sidebar-bg);
+  border: 1px solid var(--platformnx-sidebar-border);
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.platformnx-edit-this-page:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.edit-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0.75rem 1.25rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.edit-button:hover {
+  background: var(--ifm-color-primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+}
+
+.edit-button:active {
+  transform: translateY(0);
+}
+
+.edit-icon {
+  flex-shrink: 0;
+}
+
+.edit-instructions {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--platformnx-sidebar-border);
+}
+
+.edit-instructions p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.5;
+}
+
+.edit-instructions strong {
+  color: var(--ifm-color-emphasis-900);
+}
+
+/* Dark mode adjustments */
+html[data-theme='dark'] .platformnx-edit-this-page {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+html[data-theme='dark'] .platformnx-edit-this-page:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Mobile responsive */
+@media screen and (max-width: 768px) {
+  .platformnx-edit-this-page {
+    margin: 1rem -1rem 0 -1rem;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+  }
+  
+  .edit-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
