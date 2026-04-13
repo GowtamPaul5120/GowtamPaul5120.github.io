@@ -3,7 +3,7 @@ title: Introduction
 sidebar_position: 1
 ---
 
-# Welcome to PlatformNX Documentation
+# Welcome to PlatformNX Documentation Page
 
 ![PlatformNX Logo](/img/logo.svg)
 
