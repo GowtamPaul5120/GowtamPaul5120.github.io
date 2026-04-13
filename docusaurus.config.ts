@@ -22,6 +22,8 @@ const config: Config = {
 
   customFields: {
     searchEndpoint: "http://localhost:3001/api/search",
+    editUrl:
+      "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io/edit/development/",
   },
 
   onBrokenLinks: "ignore",
