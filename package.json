@@ -21,6 +21,7 @@
     "preview": "npm run build && wrangler dev"
   },
   "dependencies": {
+    "@docsearch/react": "^4.6.2",
     "@docusaurus/core": "3.10.0",
     "@docusaurus/faster": "3.10.0",
     "@docusaurus/plugin-content-docs": "^3.10.0",
