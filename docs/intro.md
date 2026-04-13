@@ -1,6 +1,6 @@
 ---
 title: Introduction
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Welcome to PlatformNX Documentation.
@@ -31,16 +31,19 @@ PlatformNX is a comprehensive platform documentation system built with modern we
 This documentation is organized into several key sections:
 
 ### Getting Started
+
 - [What is PlatformNX?](./getting-started/what-is-platformnx)
 - [Installation Guide](./getting-started/installation)
 - [Quick Start Tutorial](./getting-started/quick-start)
 
 ### Components
+
 - [Core Components](./components/core/authentication)
 - [UI Components](./components/ui/forms)
 - [Integration Components](./components/integrations/payment-gateways)
 
 ### Advanced Topics
+
 - [Development Setup](./advanced/development/environment-setup)
 - [System Architecture](./advanced/architecture/system-design)
 - [API Reference](./api/overview)
@@ -77,7 +80,7 @@ We welcome contributions from the community! Here's how you can help:
 - **Issues**: Report bugs or request features on GitHub
 - **Email**: Contact our support team for direct assistance
 
----
+***
 
 ## Next Steps
 
