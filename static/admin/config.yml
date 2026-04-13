@@ -19,12 +19,12 @@ collections:
       depth: 5
     fields:
       - { label: Title, name: title, widget: string }
-      - {
-          label: Sidebar Position,
-          name: sidebar_position,
-          widget: number,
-          required: false,
-        }
+      - label: Sidebar Position
+        name: sidebar_position
+        widget: number
+        required: false
+        hint: "Leave empty to auto-order"
+        default: 99
       - { label: Body, name: body, widget: markdown }
 
   - name: blog
