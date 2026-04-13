@@ -8,7 +8,7 @@
     "start:search": "node search-api/server.js & npm start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "deploy": "npm run build && wrangler deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
@@ -17,7 +17,8 @@
     "lint": "echo 'Linting not configured yet'",
     "lint:fix": "echo 'Linting not configured yet'",
     "search:dev": "node search-api/server.js",
-    "predeploy": "npm run build"
+    "predeploy": "npm run build",
+    "preview": "npm run build && wrangler dev"
   },
   "dependencies": {
     "@docsearch/react": "^4.6.2",
@@ -40,7 +41,8 @@
     "@docusaurus/tsconfig": "3.10.0",
     "@docusaurus/types": "3.10.0",
     "@types/react": "^19.0.0",
-    "typescript": "~6.0.2"
+    "typescript": "~6.0.2",
+    "wrangler": "^4.81.1"
   },
   "browserslist": {
     "production": [
