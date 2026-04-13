@@ -27,13 +27,6 @@ collections:
         index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
-      - {
-          label: Sidebar Position,
-          name: sidebar_position,
-          widget: number,
-          required: false,
-          default: 1,
-        }
       - { label: Body, name: body, widget: markdown }
 
   - name: blog
