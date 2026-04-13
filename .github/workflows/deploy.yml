@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "18"
           cache: npm
 
       - name: Install dependencies
@@ -29,10 +29,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          npx docusaurus deploy
-        env:
-          GIT_USER: github-actions[bot]
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
