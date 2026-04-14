@@ -44,14 +44,14 @@ html[data-theme="dark"] {
   font-weight: 800;
   background: var(--platformnx-gradient);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
   background-clip: text;
   margin-bottom: 1.5rem;
 }
 
 .hero__subtitle {
   font-size: 1.25rem;
-  color: var(--ifm-color-emphasis-700);
+  color: white;
   margin-bottom: 2rem;
 }
 
