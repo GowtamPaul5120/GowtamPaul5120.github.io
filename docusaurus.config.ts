@@ -74,65 +74,10 @@ const config: Config = {
         alt: "PlatformNX Logo",
         src: "img/logo.svg",
       },
-      items: [
-        {
-          type: "docSidebar",
-          sidebarId: "platformSidebar",
-          position: "left",
-          label: "Documentation",
-        },
-        { to: "/blog", label: "Blog", position: "left" },
-        {
-          href: "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io",
-          label: "GitHub",
-          position: "right",
-        },
-      ],
     },
 
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "PlatformNX Docs",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "X",
-              href: "https://x.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/GowtamPaul5120/GowtamPaul5120.github.io",
-            },
-          ],
-        },
-      ],
       copyright: `Copyright © ${new Date().getFullYear()} PlatformNX. Built with Docusaurus.`,
     },
 
