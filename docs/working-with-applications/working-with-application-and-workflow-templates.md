@@ -1,0 +1,43 @@
+# Working with Application and Workflow Templates
+
+The **Application and Workflow Template** feature simplifies the creation and management of applications and workflows by enabling users to save existing configurations as reusable templates. These templates allow for quick replication and customization, reducing setup time and maintaining consistency across projects. By leveraging this feature, teams can automate repetitive tasks, ensure standardization, and improve overall efficiency in managing applications and workflows.
+
+***
+
+### Use Application Template
+
+Using an application template allows you to build new applications based on pre-configured settings, saving time and ensuring consistency across projects.
+
+**Steps**
+
+1. **Navigate to Library**
+   * From the main dashboard, go to the **Library** section and click on **Segment – Templates** to access stored application templates.
+2. **Choose an Application Template**
+   * Browse the list of available templates and select the one you want to use (e.g., _Vendor Relationship Manager_).
+   * Depending on the scenario
+     * **Case 1:** If using the template for the first time, click **Use Application Template**.
+     * **Case 2:** If the template has been used before, rename the application and then click **Create Application**.
+3. **Confirmation**
+   * A success message will confirm the application has been created based on the template. The new application will appear in your workspace, ready for customization.
+
+***
+
+## Workflow Template
+
+### Use Workflow Template
+
+Workflow templates enable quick implementation of pre-configured workflows in your applications, ensuring consistency and saving time.
+
+**Steps**
+
+1. **Navigate to Library**
+   * Go to the **Library** section and select **Segment – Templates** to access available workflow templates.
+2. **Choose a Workflow Template**
+   * Select the desired workflow template from the list (e.g., _Team Goal Alignment Workflow_).
+   * Click **Use Workflow Template** to start using it.
+3. **Add Workflow to Application**
+   * Choose the application where the workflow will be added (e.g., _Demo Application_).
+   * If needed, make minor adjustments to align with the application’s specific requirements.
+4. **Confirmation**
+   * A success message will confirm that the workflow has been added to the application. It will now be ready for testing or deployment.
+

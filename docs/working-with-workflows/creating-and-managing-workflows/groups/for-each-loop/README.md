@@ -1,0 +1,21 @@
+# For Each Loop
+
+The For Each loop iterates over variables in an array. The array to iterate over is specified in the 'Iterate On' field of the group configuration and can be sourced from any activity’s output prior to the start of the loop. This loop is ideal for operations where each item in a collection needs to be processed individually.
+
+> Usage: Use the For Each loop when you need to execute a block of activities for each variable in a specified array.
+
+#### Configuration Options
+
+- Variable Naming: Assign a name to each variable within the array to be used in subsequent activities.&#x20;
+
+#### Configuration Table
+
+<table><thead><tr><th width="211">Field </th><th width="135">Required </th><th>Description </th></tr></thead><tbody><tr><td>Iterate On</td><td>Yes</td><td>Specifies the array from which variables are derived.</td></tr><tr><td>Variable Name</td><td>Yes</td><td>Name assigned to each iterated variable.</td></tr><tr><td>Index</td><td>Yes</td><td>Specifies the position of current item.</td></tr><tr><td>Start Index</td><td>Yes</td><td>Starting position of loop.</td></tr><tr><td>Step</td><td>Yes</td><td>Increment of loop.</td></tr></tbody></table>
+
+#### Configuration Example
+
+![For Each Loop Configuration](../../../../../assets/images/image (28).png)
+
+#### Mapping Example
+
+![For Each Loop Mapping](../../../../../assets/images/image (29).png)

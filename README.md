@@ -1,4 +1,4 @@
-# PlatformNX Documentation
+# Koodisi Documentation
 
 A modern, comprehensive documentation website built with Docusaurus v3, featuring AI-powered search, collaborative editing workflows, and responsive design.
 
@@ -42,7 +42,7 @@ A modern, comprehensive documentation website built with Docusaurus v3, featurin
 ## 📁 Project Structure
 
 ```
-platformnx-docs/
+koodisi-docs/
 ├── docs/                          # Documentation content
 │   ├── getting-started/          # Getting started guides
 │   ├── components/               # Component documentation
@@ -87,8 +87,8 @@ platformnx-docs/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/platformnx-docs.git
-   cd platformnx-docs
+   git clone https://github.com/your-username/koodisi-docs.git
+   cd koodisi-docs
    ```
 
 2. **Install dependencies**
@@ -139,14 +139,14 @@ The main configuration is in `docusaurus.config.ts`:
 
 ```typescript
 const config = {
-  title: "PlatformNX Documentation",
+  title: "Koodisi Documentation",
   tagline: "Complete platform documentation with AI-powered search",
-  url: "https://your-username.github.io/platformnx-docs",
+  url: "https://your-username.github.io/koodisi-docs",
   baseUrl: "/",
 
   // GitHub integration
   organizationName: "your-username",
-  projectName: "platformnx-docs",
+  projectName: "koodisi-docs",
 
   // Custom fields
   customFields: {
@@ -186,7 +186,7 @@ const sidebars = {
       collapsible: true,
       collapsed: false,
       items: [
-        "getting-started/what-is-platformnx",
+        "getting-started/what-is-koodisi",
         "getting-started/installation",
         "getting-started/quick-start",
       ],
@@ -314,9 +314,9 @@ The site uses custom CSS variables defined in `src/css/custom.css`:
 ```css
 :root {
   --ifm-color-primary: #2563eb;
-  --platformnx-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  --platformnx-sidebar-bg: #f8fafc;
-  --platformnx-sidebar-border: #e2e8f0;
+  --koodisi-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --koodisi-sidebar-bg: #f8fafc;
+  --koodisi-sidebar-border: #e2e8f0;
 }
 ```
 
@@ -458,15 +458,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/platformnx-docs/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/platformnx-docs/discussions)
-- **Email**: support@platformnx.com
+- **Issues**: [GitHub Issues](https://github.com/your-username/koodisi-docs/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/your-username/koodisi-docs/discussions)
+- **Email**: support@koodisi.com
 
 ---
 
 ## 🎯 Quick Links
 
-- **[Live Demo](https://your-username.github.io/platformnx-docs)** - View the deployed site
+- **[Live Demo](https://your-username.github.io/koodisi-docs)** - View the deployed site
 - **[Documentation](./docs/intro.md)** - Start reading the docs
 - **[API Reference](./docs/api/overview.md)** - Explore the API
 - **[Contributing Guide](./CONTRIBUTING.md)** - Learn how to contribute

@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "PlatformNX Documentation",
+  title: "Koodisi Documentation",
   tagline: "Complete platform documentation with AI-powered search",
   favicon: "img/favicon.ico",
 
@@ -69,16 +69,16 @@ const config: Config = {
     },
 
     navbar: {
-      title: "PlatformNX",
+      title: "Koodisi",
       logo: {
-        alt: "PlatformNX Logo",
+        alt: "Koodisi Logo",
         src: "img/logo.svg",
       },
     },
 
     footer: {
       style: "dark",
-      copyright: `Copyright © ${new Date().getFullYear()} PlatformNX. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Koodisi. Built with Docusaurus.`,
     },
 
     prism: {

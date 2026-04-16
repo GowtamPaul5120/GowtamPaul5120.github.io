@@ -85,7 +85,7 @@ export default function SearchBar(): React.ReactElement {
   };
 
   return (
-    <div className="platformnx-search-bar">
+    <div className="koodisi-search-bar">
       <div className="search-input-wrapper">
         <input
           type="text"
