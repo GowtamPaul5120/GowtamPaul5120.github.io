@@ -20,7 +20,7 @@ export default function EditThisPage(): React.ReactElement {
   const handleEditClick = () => {
     // Check if user wants to show auth modal (optional)
     const shouldShowAuth =
-      localStorage.getItem("platformnx-auth-required") === "true";
+      localStorage.getItem("koodisi-auth-required") === "true";
 
     if (shouldShowAuth) {
       // Show authentication modal
@@ -35,7 +35,7 @@ export default function EditThisPage(): React.ReactElement {
   };
 
   return (
-    <div className="platformnx-edit-this-page">
+    <div className="koodisi-edit-this-page">
       <button
         onClick={handleEditClick}
         className="edit-button"

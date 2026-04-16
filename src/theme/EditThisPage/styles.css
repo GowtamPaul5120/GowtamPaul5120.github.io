@@ -1,13 +1,13 @@
-.platformnx-edit-this-page {
+.koodisi-edit-this-page {
   margin-top: 2rem;
   padding: 1.5rem;
-  background: var(--platformnx-sidebar-bg);
-  border: 1px solid var(--platformnx-sidebar-border);
+  background: var(--koodisi-sidebar-bg);
+  border: 1px solid var(--koodisi-sidebar-border);
   border-radius: 8px;
   transition: all 0.2s ease;
 }
 
-.platformnx-edit-this-page:hover {
+.koodisi-edit-this-page:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
@@ -44,7 +44,7 @@
 .edit-instructions {
   margin-top: 1rem;
   padding-top: 1rem;
-  border-top: 1px solid var(--platformnx-sidebar-border);
+  border-top: 1px solid var(--koodisi-sidebar-border);
 }
 
 .edit-instructions p {
@@ -59,17 +59,17 @@
 }
 
 /* Dark mode adjustments */
-html[data-theme='dark'] .platformnx-edit-this-page {
+html[data-theme='dark'] .koodisi-edit-this-page {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-html[data-theme='dark'] .platformnx-edit-this-page:hover {
+html[data-theme='dark'] .koodisi-edit-this-page:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 /* Mobile responsive */
 @media screen and (max-width: 768px) {
-  .platformnx-edit-this-page {
+  .koodisi-edit-this-page {
     margin: 1rem -1rem 0 -1rem;
     border-radius: 0;
     border-left: none;

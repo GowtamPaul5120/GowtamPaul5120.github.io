@@ -1,5 +1,5 @@
 /**
- * Custom CSS for PlatformNX Documentation
+ * Custom CSS for Koodisi Documentation
  * Modern styling with dark/light mode support
  */
 
@@ -18,15 +18,15 @@
   --ifm-font-family-monospace:
     "JetBrains Mono", "Fira Code", Consolas, monospace;
 
-  --platformnx-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  --platformnx-sidebar-bg: #f8fafc;
-  --platformnx-sidebar-border: #e2e8f0;
+  --koodisi-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --koodisi-sidebar-bg: #f8fafc;
+  --koodisi-sidebar-border: #e2e8f0;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 html[data-theme="dark"] {
-  --platformnx-sidebar-bg: #1e293b;
-  --platformnx-sidebar-border: #334155;
+  --koodisi-sidebar-bg: #1e293b;
+  --koodisi-sidebar-border: #334155;
   --ifm-background-surface-color: #0f172a;
   --ifm-color-primary: #60a5fa;
   --ifm-color-primary-dark: #3b82f6;
@@ -42,7 +42,7 @@ html[data-theme="dark"] {
 .hero__title {
   font-size: 3.5rem;
   font-weight: 800;
-  background: var(--platformnx-gradient);
+  background: var(--koodisi-gradient);
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
   background-clip: text;
@@ -57,8 +57,8 @@ html[data-theme="dark"] {
 
 /* Enhanced sidebar styling */
 .sidebar {
-  background: var(--platformnx-sidebar-bg);
-  border-right: 1px solid var(--platformnx-sidebar-border);
+  background: var(--koodisi-sidebar-bg);
+  border-right: 1px solid var(--koodisi-sidebar-border);
 }
 
 .sidebar-item-title {
@@ -83,13 +83,13 @@ html[data-theme="dark"] {
 /* Nested accordion support */
 .menu__list .menu__list {
   margin-left: 0.5rem;
-  border-left: 2px solid var(--platformnx-sidebar-border);
+  border-left: 2px solid var(--koodisi-sidebar-border);
   padding-left: 0.75rem;
 }
 
 .menu__list .menu__list .menu__list {
   margin-left: 0.25rem;
-  border-left: 1px solid var(--platformnx-sidebar-border);
+  border-left: 1px solid var(--koodisi-sidebar-border);
   padding-left: 0.5rem;
 }
 
@@ -107,7 +107,7 @@ html[data-theme="dark"] {
 }
 
 .button--primary {
-  background: var(--platformnx-gradient);
+  background: var(--koodisi-gradient);
   border: none;
 }
 
@@ -118,8 +118,8 @@ html[data-theme="dark"] {
 
 /* Edit page button styling */
 .theme-edit-this-page {
-  background: var(--platformnx-sidebar-bg);
-  border: 1px solid var(--platformnx-sidebar-border);
+  background: var(--koodisi-sidebar-bg);
+  border: 1px solid var(--koodisi-sidebar-border);
   border-radius: 6px;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
@@ -135,8 +135,8 @@ html[data-theme="dark"] {
 /* Search bar styling */
 .DocSearch-Button {
   border-radius: 8px !important;
-  background: var(--platformnx-sidebar-bg) !important;
-  border: 1px solid var(--platformnx-sidebar-border) !important;
+  background: var(--koodisi-sidebar-bg) !important;
+  border: 1px solid var(--koodisi-sidebar-border) !important;
 }
 
 /* Responsive improvements */

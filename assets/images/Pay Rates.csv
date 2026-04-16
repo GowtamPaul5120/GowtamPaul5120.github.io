@@ -1,0 +1,5 @@
+Employee Type,Work Type,Pay Rate,Currency
+String,String,Decimal,String
+Yes,Yes,No,No
+No,No,Yes,No
+"The employment type of the employee (e.g., ""Full-Time"", ""Part-Time"", ""Consultant"")","The type of work performed (e.g., ""Regular"", ""Overtime"")",The hourly pay rate for the specified employee type and work type,"The currency in which the pay rate is defined (e.g., ""USD"", ""EUR"", ""INR"")"
