@@ -1,3 +1,6 @@
+---
+title: Managing Lookup Values
+---
 # Managing Lookup Values
 
 ## What is a lookup table?
