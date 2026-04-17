@@ -1,5 +1,5 @@
 ---
-title: Promoting Schemas to the Schema Registry
+title: "Promoting Schemas to the Schema Registry"
 ---
 
 

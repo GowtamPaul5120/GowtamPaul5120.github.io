@@ -1,5 +1,5 @@
 ---
-title: Working with Git Applications: Best Practices
+title: "Working with Git Applications: Best Practices"
 ---
 
 

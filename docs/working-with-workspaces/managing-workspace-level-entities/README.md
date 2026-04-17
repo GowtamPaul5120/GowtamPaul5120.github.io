@@ -1,5 +1,5 @@
 ---
-title: Managing Workspace-Level Entities
+title: "Managing Workspace-Level Entities"
 ---
 
 

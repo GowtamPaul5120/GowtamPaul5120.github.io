@@ -1,5 +1,5 @@
 ---
-title: Creating a Workflow Template
+title: "Creating a Workflow Template"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Azure Event Grid Setup Guide
+title: "Azure Event Grid Setup Guide"
 ---
 
 

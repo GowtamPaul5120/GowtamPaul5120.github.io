@@ -1,5 +1,5 @@
 ---
-title: What are Git-enabled applications?
+title: "What are Git-enabled applications?"
 ---
 
 

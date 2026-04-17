@@ -1,5 +1,5 @@
 ---
-title: Deleting a Lookup Table
+title: "Deleting a Lookup Table"
 ---
 
 

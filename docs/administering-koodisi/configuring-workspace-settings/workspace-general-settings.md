@@ -1,5 +1,5 @@
 ---
-title: Workspace General Settings
+title: "Workspace General Settings"
 ---
 
 

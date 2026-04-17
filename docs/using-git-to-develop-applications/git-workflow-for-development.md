@@ -1,5 +1,5 @@
 ---
-title: Git Workflow for Development
+title: "Git Workflow for Development"
 description: >-
   This guide explains how to use Git effectively within NX when working with
   flows and subflows. Following these guidelines will help you and your team

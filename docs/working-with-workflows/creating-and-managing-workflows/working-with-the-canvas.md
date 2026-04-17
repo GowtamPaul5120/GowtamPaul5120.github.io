@@ -1,5 +1,5 @@
 ---
-title: Working with the Canvas
+title: "Working with the Canvas"
 ---
 
 

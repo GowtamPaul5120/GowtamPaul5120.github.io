@@ -1,5 +1,5 @@
 ---
-title: Deleting a Workspace
+title: "Deleting a Workspace"
 ---
 
 

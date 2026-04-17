@@ -1,5 +1,5 @@
 ---
-title: Deleting API Collections
+title: "Deleting API Collections"
 ---
 
 

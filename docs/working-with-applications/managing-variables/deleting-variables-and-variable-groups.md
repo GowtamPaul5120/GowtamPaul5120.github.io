@@ -1,5 +1,5 @@
 ---
-title: Deleting Variables and Variable Groups
+title: "Deleting Variables and Variable Groups"
 ---
 
 

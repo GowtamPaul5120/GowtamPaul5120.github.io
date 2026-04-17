@@ -1,5 +1,5 @@
 ---
-title: Deleting Resources
+title: "Deleting Resources"
 ---
 
 

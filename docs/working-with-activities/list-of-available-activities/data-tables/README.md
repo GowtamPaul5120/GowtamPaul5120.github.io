@@ -1,5 +1,5 @@
 ---
-title: Data Tables
+title: "Data Tables"
 ---
 
 

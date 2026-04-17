@@ -1,5 +1,5 @@
 ---
-title: Configuring Source Control Settings
+title: "Configuring Source Control Settings"
 ---
 
 

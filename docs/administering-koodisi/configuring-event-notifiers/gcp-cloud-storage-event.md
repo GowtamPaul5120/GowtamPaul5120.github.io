@@ -1,5 +1,5 @@
 ---
-title: GCP Cloud Storage Event
+title: "GCP Cloud Storage Event"
 ---
 
 

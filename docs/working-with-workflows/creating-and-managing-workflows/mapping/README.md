@@ -1,5 +1,5 @@
 ---
-title: Setting up Activity Mapping
+title: "Setting up Activity Mapping"
 ---
 
 

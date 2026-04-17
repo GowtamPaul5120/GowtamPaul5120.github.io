@@ -1,5 +1,5 @@
 ---
-title: Decision Table
+title: "Decision Table"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Publishing API Collections
+title: "Publishing API Collections"
 ---
 
 

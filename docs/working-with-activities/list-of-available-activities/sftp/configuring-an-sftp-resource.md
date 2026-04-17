@@ -1,5 +1,5 @@
 ---
-title: Configuring an SFTP Resource
+title: "Configuring an SFTP Resource"
 ---
 
 

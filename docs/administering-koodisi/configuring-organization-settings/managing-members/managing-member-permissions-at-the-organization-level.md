@@ -1,5 +1,5 @@
 ---
-title: Managing Member Permissions at the Organization Level
+title: "Managing Member Permissions at the Organization Level"
 ---
 
 

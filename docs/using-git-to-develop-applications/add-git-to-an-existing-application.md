@@ -1,5 +1,5 @@
 ---
-title: Add Git to an Existing Application
+title: "Add Git to an Existing Application"
 ---
 
 

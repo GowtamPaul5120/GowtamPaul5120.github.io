@@ -1,5 +1,5 @@
 ---
-title: Deleting Git Applications
+title: "Deleting Git Applications"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Configuring an ABS (Azure Blob Storage) Resource
+title: "Configuring an ABS (Azure Blob Storage) Resource"
 ---
 
 

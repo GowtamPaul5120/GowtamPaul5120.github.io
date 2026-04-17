@@ -1,5 +1,5 @@
 ---
-title: Building Your First Workflow
+title: "Building Your First Workflow"
 ---
 
 

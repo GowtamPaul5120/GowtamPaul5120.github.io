@@ -1,5 +1,5 @@
 ---
-title: Working with the Schema Registry
+title: "Working with the Schema Registry"
 ---
 
 

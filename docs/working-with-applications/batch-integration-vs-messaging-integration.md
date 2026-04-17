@@ -1,5 +1,5 @@
 ---
-title: Batch Integration vs Messaging Integration
+title: "Batch Integration vs Messaging Integration"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Working with OpenAPI Specs
+title: "Working with OpenAPI Specs"
 ---
 
 

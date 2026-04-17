@@ -1,5 +1,5 @@
 ---
-title: Configuring Workspace Settings
+title: "Configuring Workspace Settings"
 ---
 
 

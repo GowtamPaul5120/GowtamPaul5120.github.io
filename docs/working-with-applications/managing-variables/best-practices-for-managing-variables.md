@@ -1,5 +1,5 @@
 ---
-title: Best Practices for Managing Variables
+title: "Best Practices for Managing Variables"
 ---
 
 

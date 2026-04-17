@@ -1,5 +1,5 @@
 ---
-title: Editing a Vault
+title: "Editing a Vault"
 ---
 
 

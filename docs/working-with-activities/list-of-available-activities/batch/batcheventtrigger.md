@@ -1,5 +1,5 @@
 ---
-title: Batch Event Trigger
+title: "Batch Event Trigger"
 ---
 
 

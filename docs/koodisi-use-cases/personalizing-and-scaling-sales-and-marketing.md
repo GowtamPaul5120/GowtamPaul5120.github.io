@@ -1,5 +1,5 @@
 ---
-title: Personalizing and Scaling Sales and Marketing
+title: "Personalizing and Scaling Sales and Marketing"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Configuring an S3 (Amazon Web Services) Resource
+title: "Configuring an S3 (Amazon Web Services) Resource"
 ---
 
 

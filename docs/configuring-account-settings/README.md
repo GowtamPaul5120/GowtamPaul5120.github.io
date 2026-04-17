@@ -1,5 +1,5 @@
 ---
-title: Configuring Account Settings
+title: "Configuring Account Settings"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting Guide
+title: "Troubleshooting Guide"
 description: >-
   This guide will help you resolve common Git issues while working with
   applications connected through Isomorphic Git.

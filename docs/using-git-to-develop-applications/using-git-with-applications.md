@@ -1,5 +1,5 @@
 ---
-title: Using Git with Applications
+title: "Using Git with Applications"
 ---
 
 

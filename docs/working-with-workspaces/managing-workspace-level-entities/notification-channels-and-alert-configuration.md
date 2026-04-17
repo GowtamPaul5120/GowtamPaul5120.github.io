@@ -1,5 +1,5 @@
 ---
-title: Notification Channels & Alert Configuration
+title: "Notification Channels & Alert Configuration"
 ---
 
 

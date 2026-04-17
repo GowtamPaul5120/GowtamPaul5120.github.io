@@ -1,5 +1,5 @@
 ---
-title: Importing Artifacts into an Application
+title: "Importing Artifacts into an Application"
 ---
 
 

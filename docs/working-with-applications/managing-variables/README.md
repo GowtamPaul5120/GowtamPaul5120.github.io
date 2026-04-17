@@ -1,5 +1,5 @@
 ---
-title: Managing Variables
+title: "Managing Variables"
 ---
 
 

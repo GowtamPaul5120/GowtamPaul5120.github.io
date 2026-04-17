@@ -1,5 +1,5 @@
 ---
-title: Data Table Delete
+title: "Data Table Delete"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: List of Available Activities
+title: "List of Available Activities"
 ---
 
 

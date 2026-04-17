@@ -1,5 +1,5 @@
 ---
-title: Managing Members
+title: "Managing Members"
 ---
 
 

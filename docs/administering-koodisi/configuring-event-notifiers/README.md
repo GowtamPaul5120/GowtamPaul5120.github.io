@@ -1,5 +1,5 @@
 ---
-title: Configuring Event Notifiers
+title: "Configuring Event Notifiers"
 ---
 
 

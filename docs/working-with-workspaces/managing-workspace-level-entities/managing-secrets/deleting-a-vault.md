@@ -1,5 +1,5 @@
 ---
-title: Deleting a Vault
+title: "Deleting a Vault"
 ---
 
 

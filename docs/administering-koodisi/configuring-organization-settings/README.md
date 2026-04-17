@@ -1,5 +1,5 @@
 ---
-title: Configuring Organization Settings
+title: "Configuring Organization Settings"
 ---
 
 
