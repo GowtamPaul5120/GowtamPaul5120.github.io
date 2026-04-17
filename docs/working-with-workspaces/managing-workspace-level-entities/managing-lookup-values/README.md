@@ -2,7 +2,6 @@
 title: Managing Lookup Values
 ---
 
-
 ## What is a lookup table?
 
 A lookup table stores data in a key-value format. It allows workflows to quickly retrieve data based on specific keys. Use lookup tables to manage static or reusable data for workflows.
