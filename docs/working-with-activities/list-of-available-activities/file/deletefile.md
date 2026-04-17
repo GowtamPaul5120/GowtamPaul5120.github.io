@@ -1,4 +1,7 @@
-# Delete File
+---
+title: Delete File
+---
+
 
 The **Delete File** activity deletes a specified file from the local file system.
 

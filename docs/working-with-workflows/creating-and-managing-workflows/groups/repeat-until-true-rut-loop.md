@@ -1,4 +1,7 @@
-# Repeat Until True (RUT) Loop
+---
+title: Repeat Until True (RUT) Loop
+---
+
 
 Similar to the While loop, the Repeat Until True loop executes at least once and continues until a specified true condition is met. This loop can also use outputs from activities within the group to evaluate the condition.
 

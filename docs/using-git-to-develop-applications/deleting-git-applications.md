@@ -1,4 +1,7 @@
-# Deleting Git Applications
+---
+title: Deleting Git Applications
+---
+
 
 The steps involved and implications of deleting Git applications can vary depending on whether the application belongs to a single-module or multi-module repository.&#x20;
 

@@ -1,4 +1,7 @@
-# O Auth
+---
+title: O Auth
+---
+
 
 The **OAuth** activity handles OAuth 2.0 authentication flows.
 

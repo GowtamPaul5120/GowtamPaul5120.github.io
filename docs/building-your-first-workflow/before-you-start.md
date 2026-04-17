@@ -1,4 +1,7 @@
-# Before You Start
+---
+title: Before You Start
+---
+
 
 When you log in, you automatically join a public workspace, where you can practice creating applications and workflows.
 

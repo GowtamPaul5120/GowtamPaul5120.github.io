@@ -1,4 +1,7 @@
-# Group And Compare
+---
+title: Group And Compare
+---
+
 
 The **Group and Compare** activity groups records and compares them across two datasets.
 

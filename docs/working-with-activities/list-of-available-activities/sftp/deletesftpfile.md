@@ -1,4 +1,7 @@
-# Delete SFTP File
+---
+title: Delete SFTP File
+---
+
 
 The **Delete SFTP File** activity deletes a specified file from a remote SFTP server.
 

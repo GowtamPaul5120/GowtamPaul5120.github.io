@@ -1,4 +1,7 @@
-# Adding a Vault
+---
+title: Adding a Vault
+---
+
 
 To add a vault in a workspace:
 

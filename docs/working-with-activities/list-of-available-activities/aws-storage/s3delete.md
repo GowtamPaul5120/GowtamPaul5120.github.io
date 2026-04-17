@@ -1,4 +1,7 @@
-# S3 Delete
+---
+title: S3 Delete
+---
+
 
 The **S3 Delete** activity deletes a specified file from an Amazon S3 bucket.
 

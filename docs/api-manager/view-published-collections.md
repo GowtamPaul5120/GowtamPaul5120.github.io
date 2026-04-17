@@ -1,4 +1,7 @@
-# View Published Collections
+---
+title: View Published Collections
+---
+
 
 &#x20;View Published Collections
 

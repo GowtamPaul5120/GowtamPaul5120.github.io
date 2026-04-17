@@ -1,4 +1,7 @@
-# Data Tables
+---
+title: Data Tables
+---
+
 
 ## Data Tables
 

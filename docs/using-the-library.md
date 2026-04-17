@@ -1,4 +1,7 @@
-# Using the Library
+---
+title: Using the Library
+---
+
 
 The **Library** is a centralized feature designed to manage and utilize reusable components, such as activities, templates, and configurations, in a structured manner. It allows users to create, install, and update custom activities, ensuring consistency and efficiency across workflows.
 

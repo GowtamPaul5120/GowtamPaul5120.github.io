@@ -1,4 +1,7 @@
-# Managing Variables
+---
+title: Managing Variables
+---
+
 
 Variables offer a centralized way to store and reuse data across workflows in an application, ensuring data consistency and simplifying maintenance by eliminating redundant data definitions.
 

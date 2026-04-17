@@ -1,4 +1,7 @@
-# Format
+---
+title: Format
+---
+
 
 The Format activity group provides activities for converting data between formats such as CSV, JSON, XML, and fixed-width.
 

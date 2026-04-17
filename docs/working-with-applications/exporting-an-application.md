@@ -1,4 +1,7 @@
-# Exporting an Application
+---
+title: Exporting an Application
+---
+
 
 Exporting an application creates a backup of its workflows, resources, schemas, and configurations.
 

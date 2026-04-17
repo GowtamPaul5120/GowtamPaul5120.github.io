@@ -1,4 +1,7 @@
-# Data Tables
+---
+title: Data Tables
+---
+
 
 Data Tables are lightweight, persistent, schema‑defined storage components built into Koodisi. They allow you to manage structured data without the need for external databases.
 

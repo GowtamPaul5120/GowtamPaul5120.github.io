@@ -1,4 +1,7 @@
-# Workspace General Settings
+---
+title: Workspace General Settings
+---
+
 
 The Workspace General Settings section enables you to:
 

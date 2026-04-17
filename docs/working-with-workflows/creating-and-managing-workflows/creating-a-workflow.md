@@ -1,4 +1,7 @@
-# Creating a Workflow
+---
+title: Creating a Workflow
+---
+
 
 To add a workflow to your application
 

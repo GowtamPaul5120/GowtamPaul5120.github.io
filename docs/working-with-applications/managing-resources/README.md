@@ -1,4 +1,7 @@
-# Managing Resources
+---
+title: Managing Resources
+---
+
 
 In Koodisi, resources are reusable configurations or services that support workflow execution. This means they can include items such as API connections and authentication settings among other reusable service configurations. Essentially, resources enable you to centralize and manage configurations that multiple workflows can reference, ensuring consistency and reducing the need for repetitive setup across your applications.
 

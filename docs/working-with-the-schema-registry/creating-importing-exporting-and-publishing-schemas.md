@@ -1,4 +1,7 @@
-# Creating, Importing, Exporting, and Publishing Schemas
+---
+title: Creating, Importing, Exporting, and Publishing Schemas
+---
+
 
 Koodisi organizes your schemas into schema collections to better organize, manage, and reuse data schemas across multiple applications or modules.
 

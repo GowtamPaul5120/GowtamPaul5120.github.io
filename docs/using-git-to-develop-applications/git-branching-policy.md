@@ -1,4 +1,7 @@
-# Git Branching Policy
+---
+title: Git Branching Policy
+---
+
 
 ### Table of Contents
 

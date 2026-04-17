@@ -1,4 +1,7 @@
-# Decision Table
+---
+title: Decision Table
+---
+
 
 The **Decision Table** activity evaluates input data against a rules table and returns the matching output.
 

@@ -1,4 +1,7 @@
-# Advanced Configuration
+---
+title: Advanced Configuration
+---
+
 
 **Output Step**: Select the Activity within the group whose output will be considered the result of the loop.
 

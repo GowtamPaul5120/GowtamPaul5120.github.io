@@ -1,4 +1,7 @@
-# Batch Event Trigger
+---
+title: Batch Event Trigger
+---
+
 
 The **Batch Event Trigger** activity starts a workflow when a batch event occurs.
 

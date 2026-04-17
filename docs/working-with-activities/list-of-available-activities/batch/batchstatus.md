@@ -1,4 +1,7 @@
-# Batch Status
+---
+title: Batch Status
+---
+
 
 The **Batch Status** activity retrieves the current status of a batch.
 

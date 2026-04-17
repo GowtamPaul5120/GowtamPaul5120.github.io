@@ -1,4 +1,7 @@
-# S3 Event Notifications - CloudFormation Template
+---
+title: S3 Event Notifications - CloudFormation Template
+---
+
 
 This CloudFormation template creates the necessary IAM resources for managing S3 event notifications with SNS topics.
 

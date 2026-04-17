@@ -1,4 +1,7 @@
-# Custom Code
+---
+title: Custom Code
+---
+
 
 The **Custom Code** activity executes custom JavaScript or Groovy code within the workflow.
 

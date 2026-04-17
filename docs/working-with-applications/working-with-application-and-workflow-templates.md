@@ -1,4 +1,7 @@
-# Working with Application and Workflow Templates
+---
+title: Working with Application and Workflow Templates
+---
+
 
 The **Application and Workflow Template** feature simplifies the creation and management of applications and workflows by enabling users to save existing configurations as reusable templates. These templates allow for quick replication and customization, reducing setup time and maintaining consistency across projects. By leveraging this feature, teams can automate repetitive tasks, ensure standardization, and improve overall efficiency in managing applications and workflows.
 

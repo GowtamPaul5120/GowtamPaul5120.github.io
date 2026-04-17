@@ -1,4 +1,7 @@
-# Managing Third-Party Account Credentials
+---
+title: Managing Third-Party Account Credentials
+---
+
 
 Koodisi enables you to store third-party account credentials, which you can use to log into git-provider platforms and store your applications.
 

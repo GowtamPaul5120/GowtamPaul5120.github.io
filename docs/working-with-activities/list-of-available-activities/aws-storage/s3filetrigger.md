@@ -1,4 +1,7 @@
-# S3 File Trigger
+---
+title: S3 File Trigger
+---
+
 
 The **S3 File Trigger** activity starts a workflow when a file event occurs in an Amazon S3 bucket.
 

@@ -1,4 +1,7 @@
-# Managing Schema Versions
+---
+title: Managing Schema Versions
+---
+
 
 A schema version tracks changes to the underlying structure of your workflows' data or the global schemas you use. It's vital because it ensures that as you evolve your applications, your data remains compatible, migrations are smooth, and the integrity of your hard work is always preserved.
 

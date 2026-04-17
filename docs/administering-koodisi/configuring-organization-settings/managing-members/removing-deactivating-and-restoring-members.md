@@ -1,4 +1,7 @@
-# Removing, Deactivating, and Restoring Members
+---
+title: Removing, Deactivating, and Restoring Members
+---
+
 
 ## Removing Users
 

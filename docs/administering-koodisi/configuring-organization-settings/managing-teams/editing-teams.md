@@ -1,4 +1,7 @@
-# Editing Teams
+---
+title: Editing Teams
+---
+
 
 To update the details associated with a team:
 

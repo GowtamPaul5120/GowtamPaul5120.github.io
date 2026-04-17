@@ -1,4 +1,7 @@
-# Write ABS File
+---
+title: Write ABS File
+---
+
 
 The **Write ABS File** activity writes data to a file in an Azure Blob Storage container.
 

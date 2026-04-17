@@ -1,4 +1,7 @@
-# Azure Storage
+---
+title: Azure Storage
+---
+
 
 The AzureStorage activity group provides activities for interacting with Azure Blob Storage (ABS). Use these activities to read, write, list, delete files, and retrieve file metadata from Azure Blob Storage containers.
 

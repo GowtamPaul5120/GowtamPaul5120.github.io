@@ -1,4 +1,7 @@
-# Editing a Vault
+---
+title: Editing a Vault
+---
+
 
 To edit a vault:
 

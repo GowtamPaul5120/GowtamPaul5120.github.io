@@ -1,4 +1,7 @@
-# Terminology
+---
+title: Terminology
+---
+
 
 
 

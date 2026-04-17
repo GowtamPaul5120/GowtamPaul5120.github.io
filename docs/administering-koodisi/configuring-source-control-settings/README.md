@@ -1,4 +1,7 @@
-# Configuring Source Control Settings
+---
+title: Configuring Source Control Settings
+---
+
 
 Use the Source Control settings to configure details associated with third-party source-control-enabled applications, such as Git.
 

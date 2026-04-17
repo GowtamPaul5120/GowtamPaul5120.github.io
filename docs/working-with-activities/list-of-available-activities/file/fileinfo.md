@@ -1,4 +1,7 @@
-# File Info
+---
+title: File Info
+---
+
 
 The **File Info** activity retrieves metadata information about a file on the local file system.
 

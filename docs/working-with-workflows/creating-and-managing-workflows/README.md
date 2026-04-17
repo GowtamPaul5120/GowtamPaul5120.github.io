@@ -1,4 +1,7 @@
-# Creating and Managing Workflows
+---
+title: Creating and Managing Workflows
+---
+
 
 ### **1. Create a Workflow**
 

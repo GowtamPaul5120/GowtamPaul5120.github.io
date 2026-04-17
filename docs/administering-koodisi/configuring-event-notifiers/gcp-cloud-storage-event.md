@@ -1,4 +1,7 @@
-# GCP Cloud Storage Event
+---
+title: GCP Cloud Storage Event
+---
+
 
 This guide will help you set up GCP Cloud Storage event notifications using Terraform Infrastructure as Code.
 

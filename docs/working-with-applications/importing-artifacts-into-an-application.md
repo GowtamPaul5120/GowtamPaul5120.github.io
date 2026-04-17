@@ -1,4 +1,7 @@
-# Importing Artifacts into an Application
+---
+title: Importing Artifacts into an Application
+---
+
 
 Koodisi enables you to import applications--or any of their components--into another application. Once you import an application or any of its components, you can modify it to suit your specific business requirements.
 

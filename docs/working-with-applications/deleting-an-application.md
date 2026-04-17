@@ -1,4 +1,7 @@
-# Deleting an Application
+---
+title: Deleting an Application
+---
+
 
 :::info
 Deleting an application permanently removes it along with all its workflows, resources, and schemas.

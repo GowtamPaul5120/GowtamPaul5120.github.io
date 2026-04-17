@@ -1,4 +1,7 @@
-# The Metrics Dashboard
+---
+title: The Metrics Dashboard
+---
+
 
 The Metrics Dashboard provides a centralized interface for monitoring and analyzing workflow executions and traces. It offers an aggregated view of execution metrics, including total requests, average duration, error counts, and latency percentiles. This tool enables users to ensure operational efficiency and traceability at the application, workflow, and execution levels through advanced visualizations and actionable insights.
 

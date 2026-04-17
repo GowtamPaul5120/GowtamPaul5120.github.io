@@ -1,4 +1,7 @@
-# Table Diff
+---
+title: Table Diff
+---
+
 
 The **Table Diff** activity computes the difference between two datasets.
 

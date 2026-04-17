@@ -1,4 +1,7 @@
-# Using Git with Applications
+---
+title: Using Git with Applications
+---
+
 
 This topic offers guidance on how you can perform key Git-related tasks while working with applications in Koodisi.
 

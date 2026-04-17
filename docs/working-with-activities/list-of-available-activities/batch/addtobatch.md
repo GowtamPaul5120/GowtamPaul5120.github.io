@@ -1,4 +1,7 @@
-# Add To Batch
+---
+title: Add To Batch
+---
+
 
 The **Add to Batch** activity adds a record to an existing batch.
 

@@ -1,4 +1,7 @@
-# Creating Client Profiles
+---
+title: Creating Client Profiles
+---
+
 
 &#x20; Create and Invite Clients
 

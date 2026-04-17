@@ -1,4 +1,7 @@
-# Editing Workflow Properties
+---
+title: Editing Workflow Properties
+---
+
 
 Use the configuration panel below the canvas to edit a workflow's properties.
 

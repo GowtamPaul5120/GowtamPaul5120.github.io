@@ -1,4 +1,7 @@
-# Managing Members
+---
+title: Managing Members
+---
+
 
 Use the Settings > Account > Members page to manage users in your organization.
 

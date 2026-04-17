@@ -1,4 +1,7 @@
-# Editing API Collections
+---
+title: Editing API Collections
+---
+
 
 To edit an API collection:
 

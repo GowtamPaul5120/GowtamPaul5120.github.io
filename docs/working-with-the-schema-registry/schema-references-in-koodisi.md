@@ -1,4 +1,7 @@
-# Schema References in Koodisi
+---
+title: Schema References in Koodisi
+---
+
 
 Schema references (or definitions) allow you to modularize and reuse JSON schema components within and across integrations in Koodisi.&#x20;
 

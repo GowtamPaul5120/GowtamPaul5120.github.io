@@ -1,4 +1,7 @@
-# REST Client
+---
+title: REST Client
+---
+
 
 The **REST Client** activity sends HTTP requests to external REST APIs and returns the response.
 

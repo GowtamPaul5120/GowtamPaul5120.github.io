@@ -1,4 +1,7 @@
-# Get App Config
+---
+title: Get App Config
+---
+
 
 The **Get App Config** activity retrieves application configuration values.
 

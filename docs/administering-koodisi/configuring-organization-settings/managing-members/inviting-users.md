@@ -1,4 +1,7 @@
-# Inviting Users
+---
+title: Inviting Users
+---
+
 
 To invite a user to join your organization:
 

@@ -1,4 +1,7 @@
-# Deactivating Applications
+---
+title: Deactivating Applications
+---
+
 
 In Koodisi, you create and configure applications in the Development environment, and deploy them in the Production environment. Ideally, the Applications panel in the Development environment should list only those applications under active configuration.&#x20;
 

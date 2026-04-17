@@ -1,4 +1,7 @@
-# Creating and Updating Variables and Variable Groups
+---
+title: Creating and Updating Variables and Variable Groups
+---
+
 
 ## Creating Variable Groups
 

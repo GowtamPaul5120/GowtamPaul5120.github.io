@@ -1,4 +1,7 @@
-# Configuring Single Sign-On Access
+---
+title: Configuring Single Sign-On Access
+---
+
 
 Implement SSO to let your organization's users log into Koodisi directly with their company credentials, simplifying access and enhancing security.
 

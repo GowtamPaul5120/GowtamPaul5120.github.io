@@ -1,4 +1,7 @@
-# Send To Engage
+---
+title: Send To Engage
+---
+
 
 The **Send to Engage** activity sends data to the Engage platform.
 

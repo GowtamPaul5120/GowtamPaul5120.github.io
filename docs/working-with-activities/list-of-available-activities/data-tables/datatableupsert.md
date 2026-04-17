@@ -1,4 +1,7 @@
-# Data Table Upsert
+---
+title: Data Table Upsert
+---
+
 
 The **Data Table Upsert** activity inserts or updates records in a data table.
 

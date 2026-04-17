@@ -1,4 +1,7 @@
-# Data Table Update
+---
+title: Data Table Update
+---
+
 
 The **Data Table Update** activity updates existing records in a data table.
 

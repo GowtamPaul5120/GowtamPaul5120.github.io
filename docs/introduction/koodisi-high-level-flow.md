@@ -1,4 +1,7 @@
-# Koodisi High-Level Flow
+---
+title: Koodisi High-Level Flow
+---
+
 
 Here's a graphic that illustrates the high-level flow that typical deployments of Koodisi follow. Review the content under the graphic for more details on the tasks outlined.
 

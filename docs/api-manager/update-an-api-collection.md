@@ -1,4 +1,7 @@
-# Update an API Collection
+---
+title: Update an API Collection
+---
+
 
 &#x20;Update the Collection&#x20;
 

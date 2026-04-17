@@ -1,4 +1,7 @@
-# Compress
+---
+title: Compress
+---
+
 
 The **Compress** activity compresses data using the specified compression format.
 

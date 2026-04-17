@@ -1,4 +1,7 @@
-# Creating Schemas
+---
+title: Creating Schemas
+---
+
 
 To create a schema:
 

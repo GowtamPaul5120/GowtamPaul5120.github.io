@@ -1,4 +1,7 @@
-# Creating a Git-Enabled Application
+---
+title: Creating a Git-Enabled Application
+---
+
 
 You can create a Git-enabled application by:
 

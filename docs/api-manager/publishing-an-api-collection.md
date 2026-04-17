@@ -1,4 +1,7 @@
-# Publishing an API Collection
+---
+title: Publishing an API Collection
+---
+
 
 View and Publish the Collection
 

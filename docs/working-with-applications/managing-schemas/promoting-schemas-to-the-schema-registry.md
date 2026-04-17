@@ -1,4 +1,7 @@
-# Promoting Schemas to the Schema Registry
+---
+title: Promoting Schemas to the Schema Registry
+---
+
 
 The Schema Registry maintains a copy of finalized schemas that can be shared across your organization, ensuring that users across teams have access to an approved set of defined schemas.
 

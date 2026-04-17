@@ -1,4 +1,7 @@
-# Creating a Custom Activity
+---
+title: Creating a Custom Activity
+---
+
 
 The **Custom Activity** feature allows you to create reusable activities tailored to your specific business needs. These activities can encapsulate custom logic, integrations, or data transformations, enabling efficient workflows and enhanced productivity. Custom activities can be simple or involve advanced integrations like subflows, resources, and lookups.
 

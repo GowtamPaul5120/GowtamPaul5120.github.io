@@ -1,4 +1,7 @@
-# Configuring Organization Settings
+---
+title: Configuring Organization Settings
+---
+
 
 This section offers guidance on how you can perform the following tasks:
 

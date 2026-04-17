@@ -1,4 +1,7 @@
-# Write Stream
+---
+title: Write Stream
+---
+
 
 The **Write Stream** activity writes data to a streaming destination.
 

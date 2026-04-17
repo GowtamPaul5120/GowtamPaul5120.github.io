@@ -1,4 +1,7 @@
-# Anonymous Array
+---
+title: Anonymous Array
+---
+
 
 The **Anonymous Array** feature allows users to toggle between an object and an array schema in the **Input** and **Output** tabs of a workflow. This flexibility ensures that workflows can handle dynamic data structures efficiently, adapting to scenarios where arrays are required instead of objects.
 

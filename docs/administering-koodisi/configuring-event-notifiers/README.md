@@ -1,4 +1,7 @@
-# Configuring Event Notifiers
+---
+title: Configuring Event Notifiers
+---
+
 
 Event Notifiers enable your workflows to receive real-time notifications when files are added, modified, or deleted in cloud storage (AWS S3, Azure Blob Storage, or Google Cloud Storage). Instead of continuously checking for new files (polling), your workflows are automatically triggered the moment a file event occurs.
 

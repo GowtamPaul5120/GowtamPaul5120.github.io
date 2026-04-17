@@ -1,4 +1,7 @@
-# Batch Iterator
+---
+title: Batch Iterator
+---
+
 
 The **Batch Iterator** activity iterates over all records in a batch.
 

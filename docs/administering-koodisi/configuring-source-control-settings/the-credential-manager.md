@@ -1,4 +1,7 @@
-# The Credential Manager
+---
+title: The Credential Manager
+---
+
 
 The Credential Manager provides a secure place for you to store and manage your Git-related credentials. It also provides a Local Datastore, which enables administrators and authorized users to manage application data.
 

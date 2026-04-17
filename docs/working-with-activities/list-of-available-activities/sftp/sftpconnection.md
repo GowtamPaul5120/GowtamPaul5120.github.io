@@ -1,4 +1,7 @@
-# SFTP Connection
+---
+title: SFTP Connection
+---
+
 
 The **SFTP Connection** resource defines the connection configuration for an SFTP server.
 

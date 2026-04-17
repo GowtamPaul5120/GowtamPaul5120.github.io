@@ -1,4 +1,7 @@
-# Configure Your Workflow
+---
+title: Configure Your Workflow
+---
+
 
 Before we get into how you can configure your workflow, let's talk about its basic structure.&#x20;
 

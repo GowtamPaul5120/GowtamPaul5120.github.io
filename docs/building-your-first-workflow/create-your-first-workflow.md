@@ -1,4 +1,7 @@
-# Create Your First Workflow
+---
+title: Create Your First Workflow
+---
+
 
 When you create an application, a page appears, where you can add various elements to your application as required. But we want to add a workflow.
 

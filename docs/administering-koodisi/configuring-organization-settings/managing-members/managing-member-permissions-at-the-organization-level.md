@@ -1,4 +1,7 @@
-# Managing Member Permissions at the Organization Level
+---
+title: Managing Member Permissions at the Organization Level
+---
+
 
 Koodisi enables you to manage user permissions at the organization and workspace levels to ensure streamlined operations and security.&#x20;
 

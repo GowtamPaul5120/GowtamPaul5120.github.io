@@ -1,4 +1,7 @@
-# Using Git to Develop Applications
+---
+title: Using Git to Develop Applications
+---
+
 
 Git integration enables you to manage your application’s source code in a Git repository. By enabling Git on your application, you can store your project locally in your browser (LocalDataStore) and push or pull changes to and from a remote repository.
 

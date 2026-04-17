@@ -1,4 +1,7 @@
-# Wait
+---
+title: Wait
+---
+
 
 The **Wait** activity pauses workflow execution for a specified duration before proceeding.
 

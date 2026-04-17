@@ -1,4 +1,7 @@
-# Koodisi Use Cases
+---
+title: Koodisi Use Cases
+---
+
 
 Koodisi is a robust low-code integration tool designed to automate workflows, connect systems, and optimize processes across diverse business functions. With its versatile capabilities, Koodisi empowers organizations to automate repetitive tasks, enhance data integration, and make informed decisions.
 

@@ -1,4 +1,7 @@
-# Building Your First Workflow
+---
+title: Building Your First Workflow
+---
+
 
 The workflow is at the root of any application that you create in Koodisi. In this exercise, you'll create your first workflow and learn how to publish, test, and deploy it.
 

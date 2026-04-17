@@ -1,4 +1,7 @@
-# Importing Schemas
+---
+title: Importing Schemas
+---
+
 
 You can import schemas into your application in any of the following ways:
 

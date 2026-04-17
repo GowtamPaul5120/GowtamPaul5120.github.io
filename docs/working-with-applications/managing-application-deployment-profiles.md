@@ -1,4 +1,7 @@
-# Managing Application Deployment Profiles
+---
+title: Managing Application Deployment Profiles
+---
+
 
 Deployment Profiles offer a structured and repeatable approach to application deployment across environments. These profiles act as configuration blueprints, encapsulating environment-specific settings, deployment methods, and pre/post-deployment actions. By leveraging profiles, teams can:
 

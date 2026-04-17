@@ -1,4 +1,7 @@
-# Configuring Workspace Settings
+---
+title: Configuring Workspace Settings
+---
+
 
 To configure a workspace, navigate to it using the Workspaces drop-down list at the top-right corner of the page. Then, click the **Settings** icon in the main menu to view the Settings page.
 

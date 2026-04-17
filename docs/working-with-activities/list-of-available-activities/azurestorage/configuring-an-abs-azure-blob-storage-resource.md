@@ -1,4 +1,7 @@
-# Configuring an ABS (Azure Blob Storage) Resource
+---
+title: Configuring an ABS (Azure Blob Storage) Resource
+---
+
 
 To add an ABS (Azure Blob Storage) connection resource:
 

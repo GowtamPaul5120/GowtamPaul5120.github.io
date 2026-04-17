@@ -1,4 +1,7 @@
-# Mapping Types and Usage
+---
+title: Mapping Types and Usage
+---
+
 
 The platform supports various mapping techniques to facilitate efficient data transformation and extraction from **JSON schemas**. The supported types include **Simple Path Access**, **Functions with Arguments**, **Relative Mapping**, **Filters**, and **Combined Expressions**.
 

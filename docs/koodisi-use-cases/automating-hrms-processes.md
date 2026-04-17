@@ -1,4 +1,7 @@
-# Automating HRMS Processes
+---
+title: Automating HRMS Processes
+---
+
 
 Automating HRMS processes with Koodisi enables you to streamline administrative tasks, freeing HR professionals to focus on strategic initiatives like talent development and employee engagement. This efficiency and focus can lead to improved productivity, reduced costs, and a more engaged workforce, all of which are critical for organizational success.
 

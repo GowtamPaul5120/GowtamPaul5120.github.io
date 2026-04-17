@@ -1,4 +1,7 @@
-# Data Table Truncate
+---
+title: Data Table Truncate
+---
+
 
 The **Data Table Truncate** activity removes all records from a data table.
 

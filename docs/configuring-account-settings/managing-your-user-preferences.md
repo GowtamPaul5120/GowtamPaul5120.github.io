@@ -1,4 +1,7 @@
-# Managing Your User Preferences
+---
+title: Managing Your User Preferences
+---
+
 
 Use the Settings > Account > Preferences page to manage preferences associated with your account and customize your experience of Koodisi.
 

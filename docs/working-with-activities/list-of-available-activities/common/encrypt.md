@@ -1,4 +1,7 @@
-# Encrypt
+---
+title: Encrypt
+---
+
 
 The **Encrypt** activity encrypts data using the specified algorithm and key.
 

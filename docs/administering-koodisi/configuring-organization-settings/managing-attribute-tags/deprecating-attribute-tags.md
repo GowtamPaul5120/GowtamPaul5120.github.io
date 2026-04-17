@@ -1,4 +1,7 @@
-# Deprecating Attribute Tags
+---
+title: Deprecating Attribute Tags
+---
+
 
 Deprecate an attribute tag to ensure that while it remains available for use in workflows, it will get automatically deleted after 90 days.
 

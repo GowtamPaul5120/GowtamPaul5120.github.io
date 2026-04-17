@@ -1,4 +1,7 @@
-# Working with the Canvas
+---
+title: Working with the Canvas
+---
+
 
 Use the canvas to design your workflow.&#x20;
 

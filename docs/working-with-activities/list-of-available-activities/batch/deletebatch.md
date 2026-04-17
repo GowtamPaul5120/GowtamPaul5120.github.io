@@ -1,4 +1,7 @@
-# Delete Batch
+---
+title: Delete Batch
+---
+
 
 The **Delete Batch** activity deletes a batch and all its records.
 

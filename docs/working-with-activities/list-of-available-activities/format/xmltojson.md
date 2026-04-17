@@ -1,4 +1,7 @@
-# Xml To Json
+---
+title: Xml To Json
+---
+
 
 The **XML to JSON** activity converts XML data into JSON format.
 

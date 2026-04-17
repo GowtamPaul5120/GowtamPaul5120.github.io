@@ -1,4 +1,7 @@
-# Editing Schemas
+---
+title: Editing Schemas
+---
+
 
 To edit a schema:
 

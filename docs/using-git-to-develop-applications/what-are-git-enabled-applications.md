@@ -1,4 +1,7 @@
-# What are Git-enabled applications?
+---
+title: What are Git-enabled applications?
+---
+
 
 A Git-enabled application is one where:
 

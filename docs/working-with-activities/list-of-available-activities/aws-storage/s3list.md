@@ -1,4 +1,7 @@
-# S3 List
+---
+title: S3 List
+---
+
 
 The **S3 List** activity lists files in an Amazon S3 bucket, with options for filtering by path prefix, pattern, and sorting.
 

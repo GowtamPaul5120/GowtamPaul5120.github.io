@@ -1,4 +1,7 @@
-# Introduction
+---
+title: Introduction
+---
+
 
 Welcome to Koodisi! This section introduces the application, illustrates its key features, and explains how you can make the best use of the application.
 

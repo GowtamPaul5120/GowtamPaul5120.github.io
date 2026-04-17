@@ -1,4 +1,7 @@
-# Lookup Upsert
+---
+title: Lookup Upsert
+---
+
 
 The **Lookup Upsert** activity inserts or updates a value in a lookup table.
 

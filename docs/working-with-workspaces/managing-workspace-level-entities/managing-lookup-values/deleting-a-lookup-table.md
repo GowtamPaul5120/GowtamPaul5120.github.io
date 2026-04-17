@@ -1,4 +1,7 @@
-# Deleting a Lookup Table
+---
+title: Deleting a Lookup Table
+---
+
 
 To delete a lookup table, right-click the lookup table in the Lookup Tables panel and select **Delete**.
 

@@ -1,4 +1,7 @@
-# Get Context
+---
+title: Get Context
+---
+
 
 The **Get Context** activity retrieves a value from the workflow execution context.
 

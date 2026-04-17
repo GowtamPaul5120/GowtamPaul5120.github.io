@@ -1,4 +1,7 @@
-# Stream
+---
+title: Stream
+---
+
 
 The Stream activity group provides activities for reading from and writing to data streams.
 

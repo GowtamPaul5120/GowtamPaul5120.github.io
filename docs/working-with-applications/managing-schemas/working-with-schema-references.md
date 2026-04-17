@@ -1,4 +1,7 @@
-# Working with Schema References
+---
+title: Working with Schema References
+---
+
 
 In Koodisi, schemas help define the structure and format of data that flows within workflows. Schema references are pointers to these schema definitions, ensuring that data handled across different activities and components follows the same consistent structure and format. This helps maintain data integrity and validation throughout your workflows.
 

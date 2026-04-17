@@ -1,4 +1,7 @@
-# Data Table Delete
+---
+title: Data Table Delete
+---
+
 
 The **Data Table Delete** activity deletes records from a data table.
 

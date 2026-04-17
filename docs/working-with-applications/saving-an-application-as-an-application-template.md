@@ -1,4 +1,7 @@
-# Saving an Application as an Application Template
+---
+title: Saving an Application as an Application Template
+---
+
 
 ## What's an application template?
 

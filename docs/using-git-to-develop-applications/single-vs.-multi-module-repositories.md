@@ -1,4 +1,7 @@
-# Single vs. Multi-Module Repositories
+---
+title: Single vs. Multi-Module Repositories
+---
+
 
 A **single-module repository** contains one application or service, usually managed in a single Git repository. It's straightforward and ideal for small projects with limited scope. All code, dependencies, and configurations reside in one place, simplifying builds, testing, and deployment.
 

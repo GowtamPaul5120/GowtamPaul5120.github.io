@@ -1,4 +1,7 @@
-# SFTP File Info
+---
+title: SFTP File Info
+---
+
 
 The **SFTP File Info** activity retrieves metadata about a file on a remote SFTP server.
 

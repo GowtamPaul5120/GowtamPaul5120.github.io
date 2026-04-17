@@ -1,4 +1,7 @@
-# Read File
+---
+title: Read File
+---
+
 
 The **Read File** activity reads a file from the local file system and returns its content.
 

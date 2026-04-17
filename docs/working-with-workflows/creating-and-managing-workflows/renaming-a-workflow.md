@@ -1,4 +1,7 @@
-# Renaming a Workflow
+---
+title: Renaming a Workflow
+---
+
 
 To rename a workflow:
 

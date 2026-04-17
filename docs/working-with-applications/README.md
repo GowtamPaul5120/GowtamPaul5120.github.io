@@ -1,4 +1,7 @@
-# Working with Applications
+---
+title: Working with Applications
+---
+
 
 ## What's an application?
 

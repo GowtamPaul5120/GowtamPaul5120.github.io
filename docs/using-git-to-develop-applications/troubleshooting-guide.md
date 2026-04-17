@@ -1,10 +1,10 @@
 ---
+title: Troubleshooting Guide
 description: >-
   This guide will help you resolve common Git issues while working with
   applications connected through Isomorphic Git.
 ---
 
-# Troubleshooting Guide
 
 ### 1. **Error: Cannot find `HEAD`**
 

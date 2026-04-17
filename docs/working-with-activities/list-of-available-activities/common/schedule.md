@@ -1,4 +1,7 @@
-# Schedule
+---
+title: Schedule
+---
+
 
 The **Schedule** activity triggers a workflow on a defined schedule using a cron expression.
 

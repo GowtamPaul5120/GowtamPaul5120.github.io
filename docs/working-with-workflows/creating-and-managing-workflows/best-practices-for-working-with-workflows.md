@@ -1,4 +1,7 @@
-# Best Practices for Working with Workflows
+---
+title: Best Practices for Working with Workflows
+---
+
 
 * **Export Before Deletion**: Always export workflows before deleting to ensure recoverability.
 * **Clear Naming Conventions**: Use descriptive names when renaming workflows for better identification.

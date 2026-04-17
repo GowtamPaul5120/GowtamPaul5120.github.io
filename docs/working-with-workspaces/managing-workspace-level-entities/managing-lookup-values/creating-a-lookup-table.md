@@ -1,4 +1,7 @@
-# Creating a Lookup Table
+---
+title: Creating a Lookup Table
+---
+
 
 Click the **Lookup Tables** menu item to access the Lookup Tables panel.
 

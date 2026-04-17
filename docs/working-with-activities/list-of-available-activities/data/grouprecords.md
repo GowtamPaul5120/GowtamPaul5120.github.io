@@ -1,4 +1,7 @@
-# Group Records
+---
+title: Group Records
+---
+
 
 The **Group Records** activity groups an array of records by one or more key fields.
 
