@@ -1,4 +1,7 @@
-# REST Service
+---
+title: REST Service
+---
+
 
 The **REST Service** activity exposes a REST endpoint that triggers the workflow when called.
 

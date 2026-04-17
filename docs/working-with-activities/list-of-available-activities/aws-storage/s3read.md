@@ -1,4 +1,7 @@
-# S3 Read
+---
+title: S3 Read
+---
+
 
 The **S3 Read** activity reads a file from an Amazon S3 bucket and returns its content for use in subsequent workflow steps.
 

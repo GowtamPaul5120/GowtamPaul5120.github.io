@@ -1,4 +1,7 @@
-# Fixed Width Format
+---
+title: Fixed Width Format
+---
+
 
 The **Fixed Width Format** activity parses or generates fixed-width format data.
 

@@ -1,4 +1,7 @@
-# List of Available Activities
+---
+title: List of Available Activities
+---
+
 
 This section contains the complete reference documentation for all available activities in Koodisi, organized by activity group.
 

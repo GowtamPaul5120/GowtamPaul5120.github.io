@@ -1,4 +1,7 @@
-# Using Lookup Tables
+---
+title: Using Lookup Tables
+---
+
 
 Lookup Tables can be dynamically used in workflows by directly dragging and dropping in Lookup Config screen. Here's how
 

@@ -1,4 +1,7 @@
-# API Manager
+---
+title: API Manager
+---
+
 
 The **API Manager** is a centralized tool for managing and distributing API collections across workspaces. It provides features for creating, publishing, and managing APIs, ensuring efficient access control, enhanced security, and streamlined client interactions.
 

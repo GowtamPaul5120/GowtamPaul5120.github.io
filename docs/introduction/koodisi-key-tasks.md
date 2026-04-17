@@ -1,4 +1,7 @@
-# Koodisi: Key Tasks
+---
+title: Koodisi: Key Tasks
+---
+
 
 This page lists the key tasks that typical users perform, in the order in which they perform it. Use this page to understand the overall process that Koodisi enables, and to understand dependencies in the application.
 

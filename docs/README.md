@@ -1,11 +1,11 @@
 ---
+title: Welcome to Koodisi
 description: >-
   Build and deploy workflows, interconnect systems, and make faster, smarter
   enterprise decisions.
 icon: bahai
 ---
 
-# Welcome to Koodisi
 
 ## Jump right in
 

@@ -1,4 +1,7 @@
-# Working with Workflows
+---
+title: Working with Workflows
+---
+
 
 A workflow is a sequence of activities and tasks designed to automate processes and manage data flow between various systems and services. It ensures streamlined, efficient, and consistent execution of business operations.
 

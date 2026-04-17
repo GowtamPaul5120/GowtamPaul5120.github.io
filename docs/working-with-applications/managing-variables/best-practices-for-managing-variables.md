@@ -1,4 +1,7 @@
-# Best Practices for Managing Variables
+---
+title: Best Practices for Managing Variables
+---
+
 
 **Here are a few best practices that you must keep in mind when working with variables.**
 

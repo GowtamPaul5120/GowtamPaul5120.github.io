@@ -1,4 +1,7 @@
-# Batch
+---
+title: Batch
+---
+
 
 The Batch activity group provides activities for batch processing workflows. Use these activities to initialize batches, add records, iterate, track status, and respond to batch events.
 

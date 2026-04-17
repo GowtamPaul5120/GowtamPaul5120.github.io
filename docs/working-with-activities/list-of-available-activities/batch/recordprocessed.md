@@ -1,4 +1,7 @@
-# Record Processed
+---
+title: Record Processed
+---
+
 
 The **Record Processed** activity marks a batch record as successfully processed.
 

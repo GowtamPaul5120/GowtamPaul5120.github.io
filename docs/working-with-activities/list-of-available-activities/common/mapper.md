@@ -1,4 +1,7 @@
-# Mapper
+---
+title: Mapper
+---
+
 
 The **Mapper** activity transforms and maps data between different schemas.
 

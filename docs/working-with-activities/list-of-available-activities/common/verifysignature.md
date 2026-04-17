@@ -1,4 +1,7 @@
-# Verify Signature
+---
+title: Verify Signature
+---
+
 
 The **Verify Signature** activity verifies a digital signature against a certificate.
 

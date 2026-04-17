@@ -1,4 +1,7 @@
-# Publish, Deploy, and Test the Workflow
+---
+title: Publish, Deploy, and Test the Workflow
+---
+
 
 Publishing, deploying, and testing are the final steps to make your workflows and applications ready for use.
 

@@ -1,4 +1,7 @@
-# Managing Teams
+---
+title: Managing Teams
+---
+
 
 Use the Settings > Organization > Teams page to manage teams in your organization. You can assign a unique set of permissions to every team in Koodisi, and all member of a team inherit those permissions.&#x20;
 

@@ -1,4 +1,7 @@
-# Decrypt
+---
+title: Decrypt
+---
+
 
 The **Decrypt** activity decrypts data using the specified algorithm and key.
 

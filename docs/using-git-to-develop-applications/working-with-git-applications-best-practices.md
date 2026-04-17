@@ -1,4 +1,7 @@
-# Working with Git Applications: Best Practices
+---
+title: Working with Git Applications: Best Practices
+---
+
 
 1. **Use Empty Repository for New Applications**
    * Create new Git-enabled applications only in empty repositories.

@@ -1,4 +1,7 @@
-# Creating and Using a Subflow
+---
+title: Creating and Using a Subflow
+---
+
 
 A **Subflow** is a modular and reusable workflow that operates as a component within a larger primary workflow. Subflows encapsulate specific tasks or processes, enabling streamlined management, reduced complexity, and improved maintainability of workflows. They allow data exchange and execution synchronization with the main workflow, supporting scalability and modular design in automation systems.
 

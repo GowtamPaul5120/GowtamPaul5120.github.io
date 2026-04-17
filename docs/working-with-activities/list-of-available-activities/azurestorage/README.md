@@ -1,4 +1,7 @@
-# AzureStorage
+---
+title: AzureStorage
+---
+
 
 Use AzureStorage activities to:
 

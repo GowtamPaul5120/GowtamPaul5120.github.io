@@ -1,4 +1,7 @@
-# Components of an Application
+---
+title: Components of an Application
+---
+
 
 Here's a graphic that illustrates the key components that make Koodisi work.
 

@@ -1,4 +1,7 @@
-# Creating a Workspace
+---
+title: Creating a Workspace
+---
+
 
 To create a workspace:
 

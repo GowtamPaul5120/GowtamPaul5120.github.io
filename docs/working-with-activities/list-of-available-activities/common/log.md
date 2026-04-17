@@ -1,4 +1,7 @@
-# Log
+---
+title: Log
+---
+
 
 The **Log** activity writes a message to the workflow execution log at a specified log level.
 

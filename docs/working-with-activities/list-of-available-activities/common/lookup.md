@@ -1,4 +1,7 @@
-# Lookup
+---
+title: Lookup
+---
+
 
 The **Lookup** activity retrieves a value from a lookup table by key.
 

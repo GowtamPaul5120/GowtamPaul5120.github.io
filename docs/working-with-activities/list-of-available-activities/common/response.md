@@ -1,4 +1,7 @@
-# Response
+---
+title: Response
+---
+
 
 The **Response** activity sends a response back to the caller of a triggered workflow.
 

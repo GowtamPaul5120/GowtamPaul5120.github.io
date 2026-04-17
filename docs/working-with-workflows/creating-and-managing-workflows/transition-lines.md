@@ -1,4 +1,7 @@
-# Configuring Transition Lines
+---
+title: Configuring Transition Lines
+---
+
 
 Transition conditions define how workflows transition between activities based on success or error states. Each condition has a **specific inverse condition** that must be used for complementary scenarios.
 

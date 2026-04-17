@@ -1,4 +1,7 @@
-# Encryption
+---
+title: Encryption
+---
+
 
 The **Encryption** activity applies encryption or decryption to data using configured keys.
 

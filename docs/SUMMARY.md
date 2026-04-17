@@ -1,4 +1,7 @@
-# Table of contents
+---
+title: Table of contents
+---
+
 
 - [Welcome to Koodisi](README.md)
 - [Introduction](introduction/README.md)

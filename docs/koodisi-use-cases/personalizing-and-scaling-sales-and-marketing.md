@@ -1,4 +1,7 @@
-# Personalizing and Scaling Sales and Marketing
+---
+title: Personalizing and Scaling Sales and Marketing
+---
+
 
 Automating sales and marketing processes allows you to personalize customer interactions at scale, leading to improved lead nurturing and higher conversion rates. This increased efficiency and effectiveness in reaching and engaging customers drives revenue growth and strengthens market position, both of which are vital for an organization's success.
 

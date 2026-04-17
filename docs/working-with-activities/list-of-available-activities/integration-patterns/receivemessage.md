@@ -1,4 +1,7 @@
-# Receive Message
+---
+title: Receive Message
+---
+
 
 The **Receive Message** activity receives a message from a messaging queue or topic.
 

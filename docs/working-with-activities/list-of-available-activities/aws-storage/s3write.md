@@ -1,4 +1,7 @@
-# S3 Write
+---
+title: S3 Write
+---
+
 
 The **S3 Write** activity writes data to a file in an Amazon S3 bucket, supporting multiple content types, compression, and encryption.
 

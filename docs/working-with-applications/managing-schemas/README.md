@@ -1,4 +1,7 @@
-# Managing Schemas
+---
+title: Managing Schemas
+---
+
 
 A **schema** is like a blueprint for your data. It defines how your data is organized, what type of data it contains, and the rules it must follow. In our application, schemas ensure that your workflows and operations run smoothly and consistently.
 

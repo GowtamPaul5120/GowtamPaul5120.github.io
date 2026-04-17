@@ -1,4 +1,7 @@
-# Common
+---
+title: Common
+---
+
 
 The Common activity group provides general-purpose activities used across all workflow types, including logging, context management, code execution, scheduling, and flow control.
 

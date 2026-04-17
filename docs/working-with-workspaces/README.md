@@ -1,4 +1,7 @@
-# Working with Workspaces
+---
+title: Working with Workspaces
+---
+
 
 ## What is a workspace?
 

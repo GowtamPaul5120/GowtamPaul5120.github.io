@@ -1,4 +1,7 @@
-# Managing Credentials
+---
+title: Managing Credentials
+---
+
 
 The Credential Manager securely stores your access credentials and enables you to create, edit, and delete them. Credentials saved in the Credential Manager are account-bound, and no one other than you can access your credentials.
 

@@ -1,4 +1,7 @@
-# Data Table Insert
+---
+title: Data Table Insert
+---
+
 
 The **Data Table Insert** activity inserts a new record into a data table.
 

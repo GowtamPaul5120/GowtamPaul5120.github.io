@@ -1,4 +1,7 @@
-# Update WF Variable
+---
+title: Update WF Variable
+---
+
 
 The **Update WF Variable** activity updates a workflow-level variable.
 

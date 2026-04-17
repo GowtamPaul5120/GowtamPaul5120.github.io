@@ -1,4 +1,7 @@
-# Retry Policy
+---
+title: Retry Policy
+---
+
 
 The **Retry Policy** activity configures retry behavior for a segment of the workflow.
 

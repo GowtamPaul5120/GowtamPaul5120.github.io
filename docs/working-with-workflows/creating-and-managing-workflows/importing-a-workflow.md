@@ -1,4 +1,7 @@
-# Importing a Workflow
+---
+title: Importing a Workflow
+---
+
 
 You can flexibly import a workflow directly at the Applications level, or in a Workflow folder inside an application, restoring its activities, configurations, and data mappings at the level at which you import it.
 

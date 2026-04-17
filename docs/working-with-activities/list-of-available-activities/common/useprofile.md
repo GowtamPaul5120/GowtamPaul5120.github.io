@@ -1,4 +1,7 @@
-# Use Profile
+---
+title: Use Profile
+---
+
 
 The **Use Profile** activity applies a configuration profile to the workflow context.
 

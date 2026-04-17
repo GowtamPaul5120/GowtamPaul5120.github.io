@@ -1,4 +1,7 @@
-# Crypto Utils
+---
+title: Crypto Utils
+---
+
 
 The **Crypto Utils** activity provides cryptographic utility operations such as hashing and key generation.
 

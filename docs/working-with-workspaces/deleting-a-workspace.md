@@ -1,4 +1,7 @@
-# Deleting a Workspace
+---
+title: Deleting a Workspace
+---
+
 
 To delete a workspace:
 

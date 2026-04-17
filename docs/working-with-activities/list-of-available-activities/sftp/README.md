@@ -1,4 +1,7 @@
-# SFTP
+---
+title: SFTP
+---
+
 
 The SFTP activity group provides activities for interacting with SFTP servers, including reading, writing, listing, and deleting files.
 

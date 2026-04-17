@@ -1,4 +1,7 @@
-# Data Table Query
+---
+title: Data Table Query
+---
+
 
 The **Data Table Query** activity queries a data table and returns matching records.
 

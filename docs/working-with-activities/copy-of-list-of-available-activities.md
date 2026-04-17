@@ -1,4 +1,7 @@
-# List of Available Activities
+---
+title: List of Available Activities
+---
+
 
 Activity groups in Koodisi are collections of related activities. For example, the AWSStorage activity group contains all activities that enable you to work with AWS storage.
 

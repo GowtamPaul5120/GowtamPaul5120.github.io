@@ -1,4 +1,7 @@
-# Managing Your Profile
+---
+title: Managing Your Profile
+---
+
 
 To view or update your profile, navigate to the Settings > Account > Profile page.
 

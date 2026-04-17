@@ -1,4 +1,7 @@
-# Manage Resource Context
+---
+title: Manage Resource Context
+---
+
 
 The **Manage Resource Context** activity manages resource context entries.
 

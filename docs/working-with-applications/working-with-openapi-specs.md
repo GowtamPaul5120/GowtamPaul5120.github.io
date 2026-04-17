@@ -1,4 +1,7 @@
-# Working with OpenAPI Specs
+---
+title: Working with OpenAPI Specs
+---
+
 
 OpenAPI integration lets you import API specifications into the Studio and use them to configure workflow activities automatically. Instead of entering endpoint URLs, headers, and schemas by hand, you point the Studio at an OpenAPI spec and it fills everything in for you.
 

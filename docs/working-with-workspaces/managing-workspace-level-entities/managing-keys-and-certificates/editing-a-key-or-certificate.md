@@ -1,4 +1,7 @@
-# Editing a Key or Certificate
+---
+title: Editing a Key or Certificate
+---
+
 
 Once a key or certificate is created, you can only update its description and modify the environments in which it's available.&#x20;
 

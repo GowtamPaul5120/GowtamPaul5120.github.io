@@ -1,4 +1,7 @@
-# Parallel For-Each Execution and Error Handling
+---
+title: Parallel For-Each Execution and Error Handling
+---
+
 
 This feature enhances **FOR-type groups** by providing configurable controls for:
 

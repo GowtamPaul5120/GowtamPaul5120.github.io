@@ -1,4 +1,7 @@
-# Managing Workspace-Level Entities
+---
+title: Managing Workspace-Level Entities
+---
+
 
 Koodisi enables you to manage relevant artifacts and tools at various levels, depending on the scope of their applicability. For instance, while secrets, keys, and certificates are shared at the workspace level, SSO settings and attribute tags are managed centrally across an organization.
 

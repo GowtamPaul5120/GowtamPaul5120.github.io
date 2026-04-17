@@ -1,4 +1,7 @@
-# Creating Teams
+---
+title: Creating Teams
+---
+
 
 To create a team:
 

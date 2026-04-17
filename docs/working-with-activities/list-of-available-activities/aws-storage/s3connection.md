@@ -1,4 +1,7 @@
-# S3 Connection
+---
+title: S3 Connection
+---
+
 
 The **S3 Connection** resource defines the connection configuration for Amazon S3, including authentication credentials.
 

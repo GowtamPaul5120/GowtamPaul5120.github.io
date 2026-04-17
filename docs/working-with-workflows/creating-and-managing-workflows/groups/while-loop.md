@@ -1,4 +1,7 @@
-# While Loop
+---
+title: While Loop
+---
+
 
 The While loop repeatedly executes a group of activities as long as a specified condition remains false. This condition can be dynamic and utilize the output of activities within the group.
 

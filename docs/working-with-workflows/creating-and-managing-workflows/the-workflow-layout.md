@@ -1,4 +1,7 @@
-# The Workflow Layout
+---
+title: The Workflow Layout
+---
+
 
 The Workflow Layout provides a visual representation of the workflow's logic and sequence, making it easy to design and configure processes.
 

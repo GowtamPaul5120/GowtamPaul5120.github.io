@@ -1,4 +1,7 @@
-# Ternary Operator
+---
+title: Ternary Operator
+---
+
 
 ## Using the Ternary Operator
 

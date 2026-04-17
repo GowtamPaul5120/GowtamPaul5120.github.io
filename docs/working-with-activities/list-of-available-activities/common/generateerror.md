@@ -1,4 +1,7 @@
-# Generate Error
+---
+title: Generate Error
+---
+
 
 The **Generate Error** activity throws a structured error to halt or redirect workflow execution.
 

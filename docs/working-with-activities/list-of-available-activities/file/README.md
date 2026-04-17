@@ -1,4 +1,7 @@
-# File
+---
+title: File
+---
+
 
 The File activity group provides activities for reading, writing, copying, deleting, and listing files on the local file system.
 

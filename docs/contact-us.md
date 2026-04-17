@@ -1,4 +1,7 @@
-# Contact Us
+---
+title: Contact Us
+---
+
 
 **Need Help? We're Listening!**
 

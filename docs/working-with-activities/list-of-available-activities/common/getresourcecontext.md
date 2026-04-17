@@ -1,4 +1,7 @@
-# Get Resource Context
+---
+title: Get Resource Context
+---
+
 
 The **Get Resource Context** activity retrieves a resource context entry.
 

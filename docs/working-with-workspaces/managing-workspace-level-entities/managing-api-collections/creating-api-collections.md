@@ -1,4 +1,7 @@
-# Creating API Collections
+---
+title: Creating API Collections
+---
+
 
 To create an API collection:
 

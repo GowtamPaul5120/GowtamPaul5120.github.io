@@ -1,4 +1,7 @@
-# Read Stream
+---
+title: Read Stream
+---
+
 
 The **Read Stream** activity reads data from a streaming source.
 

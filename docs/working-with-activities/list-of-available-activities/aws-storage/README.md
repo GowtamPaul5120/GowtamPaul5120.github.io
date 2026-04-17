@@ -1,4 +1,7 @@
-# AWS Storage
+---
+title: AWS Storage
+---
+
 
 The AWSStorage activity group provides activities for interacting with Amazon Web Services (AWS) Simple Storage Service (S3). Use these activities to read, write, list, and delete files in S3 buckets, as well as configure S3 connections.
 

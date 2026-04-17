@@ -1,4 +1,7 @@
-# CryptoUtils
+---
+title: CryptoUtils
+---
+
 
 Use activities in the CryptoUtils group to decrypt and verify the authenticity of content using cryptographic&#x20;methods.
 

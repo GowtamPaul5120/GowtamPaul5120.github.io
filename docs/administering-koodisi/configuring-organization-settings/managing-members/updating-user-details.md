@@ -1,4 +1,7 @@
-# Updating User Details
+---
+title: Updating User Details
+---
+
 
 To update a user's details:
 

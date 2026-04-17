@@ -1,4 +1,7 @@
-# Understanding the Koodisi UI
+---
+title: Understanding the Koodisi UI
+---
+
 
 Here's a graphic that illustrates key components of the Koodisi UI.
 

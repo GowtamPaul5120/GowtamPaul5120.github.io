@@ -1,4 +1,7 @@
-# Azure Event Grid Setup Guide
+---
+title: Azure Event Grid Setup Guide
+---
+
 
 This guide will help you set up Azure Event Grid for blob storage events using Terraform Infrastructure as Code.
 

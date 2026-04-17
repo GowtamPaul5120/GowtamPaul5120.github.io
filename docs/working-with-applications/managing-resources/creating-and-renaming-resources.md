@@ -1,4 +1,7 @@
-# Creating and Renaming Resources
+---
+title: Creating and Renaming Resources
+---
+
 
 You create resources within an application. Once the resource is created, it's available to all workflows in that application.
 

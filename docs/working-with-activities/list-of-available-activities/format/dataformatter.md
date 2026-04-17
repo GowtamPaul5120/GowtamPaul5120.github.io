@@ -1,4 +1,7 @@
-# Data Formatter
+---
+title: Data Formatter
+---
+
 
 The **Data Formatter** activity applies formatting rules to transform data fields.
 

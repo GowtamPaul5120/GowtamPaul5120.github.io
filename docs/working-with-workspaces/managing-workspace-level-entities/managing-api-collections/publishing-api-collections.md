@@ -1,4 +1,7 @@
-# Publishing API Collections
+---
+title: Publishing API Collections
+---
+
 
 After you create or update an API collection, you must publish it to the API Manager before you can start using it in workflows.&#x20;
 

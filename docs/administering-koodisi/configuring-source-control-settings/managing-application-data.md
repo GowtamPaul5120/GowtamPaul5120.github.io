@@ -1,4 +1,7 @@
-# Managing Application Data
+---
+title: Managing Application Data
+---
+
 
 :::info
 This is a very rarely used and highly restricted feature. We recommend only senior administrators be allowed access to this task.

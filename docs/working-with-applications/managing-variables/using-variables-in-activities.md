@@ -1,4 +1,7 @@
-# Using Variables in Activities
+---
+title: Using Variables in Activities
+---
+
 
 Use variables to specify reusable data in the following situations:
 

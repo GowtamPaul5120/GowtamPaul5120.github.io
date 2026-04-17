@@ -1,4 +1,7 @@
-# Cloning Git Applications
+---
+title: Cloning Git Applications
+---
+
 
 To clone a Git-enabled application:
 

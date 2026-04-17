@@ -1,4 +1,7 @@
-# Conditional Mapping
+---
+title: Conditional Mapping
+---
+
 
 Conditional mapping in the platform enables flexible and dynamic data processing for **JSON schemas**. By supporting robust mapping techniques, the platform simplifies complex operations and ensures seamless data transformations. The platform supports three types of conditional mappings
 

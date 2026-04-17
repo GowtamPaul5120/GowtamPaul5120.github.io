@@ -1,4 +1,7 @@
-# Creating and Managing Definitions
+---
+title: Creating and Managing Definitions
+---
+
 
 ## What are definitions?
 

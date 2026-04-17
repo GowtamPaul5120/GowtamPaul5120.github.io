@@ -1,4 +1,7 @@
-# Renaming an Application
+---
+title: Renaming an Application
+---
+
 
 To rename an application:
 

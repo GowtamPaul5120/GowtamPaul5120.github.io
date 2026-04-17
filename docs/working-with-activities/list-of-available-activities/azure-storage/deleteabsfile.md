@@ -1,4 +1,7 @@
-# Delete ABS File
+---
+title: Delete ABS File
+---
+
 
 The **Delete ABS File** activity deletes a specified file from an Azure Blob Storage container.
 

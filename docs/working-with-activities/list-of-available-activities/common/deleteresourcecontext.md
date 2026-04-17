@@ -1,4 +1,7 @@
-# Delete Resource Context
+---
+title: Delete Resource Context
+---
+
 
 The **Delete Resource Context** activity removes a resource context entry.
 

@@ -1,4 +1,7 @@
-# Setting up Activity Mapping
+---
+title: Setting up Activity Mapping
+---
+
 
 Mapping facilitates the seamless transfer of data from a **source** (e.g., activity output, REST service) to a **target** (e.g., activity input, response schema). It ensures accurate and efficient data flow between components.
 

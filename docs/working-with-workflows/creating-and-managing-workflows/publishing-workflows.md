@@ -1,4 +1,7 @@
-# Publishing Workflows
+---
+title: Publishing Workflows
+---
+
 
 ### **1. Publish**
 

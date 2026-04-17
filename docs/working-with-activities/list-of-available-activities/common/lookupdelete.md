@@ -1,4 +1,7 @@
-# Lookup Delete
+---
+title: Lookup Delete
+---
+
 
 The **Lookup Delete** activity removes an entry from a lookup table.
 

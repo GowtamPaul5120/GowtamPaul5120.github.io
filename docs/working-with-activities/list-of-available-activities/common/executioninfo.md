@@ -1,4 +1,7 @@
-# Execution Info
+---
+title: Execution Info
+---
+
 
 The **Execution Info** activity retrieves information about the current workflow execution.
 

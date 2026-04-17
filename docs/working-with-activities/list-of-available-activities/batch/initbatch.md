@@ -1,4 +1,7 @@
-# Init Batch
+---
+title: Init Batch
+---
+
 
 The **Init Batch** activity initializes a new batch processing session.
 

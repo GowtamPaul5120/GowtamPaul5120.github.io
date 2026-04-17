@@ -1,4 +1,7 @@
-# Copy File
+---
+title: Copy File
+---
+
 
 The **Copy File** activity copies a file from one location to another on the local file system.
 

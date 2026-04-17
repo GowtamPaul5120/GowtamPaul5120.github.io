@@ -1,4 +1,7 @@
-# Send Message
+---
+title: Send Message
+---
+
 
 The **Send Message** activity sends a message to a messaging queue or topic.
 

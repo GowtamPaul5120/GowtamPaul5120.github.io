@@ -1,4 +1,7 @@
-# Data Tables
+---
+title: Data Tables
+---
+
 
 The DataTables activity group provides activities for performing CRUD operations on data tables.
 

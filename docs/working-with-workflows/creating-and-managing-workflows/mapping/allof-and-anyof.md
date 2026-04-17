@@ -1,4 +1,7 @@
-# AllOf and AnyOf
+---
+title: AllOf and AnyOf
+---
+
 
 The platform supports **AllOf** and **AnyOf** operations to handle JSON schemas effectively. These features provide flexibility in schema design and mapping by combining or selecting schema properties based on specific conditions.
 

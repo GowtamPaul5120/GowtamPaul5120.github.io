@@ -1,4 +1,7 @@
-# Managing Secrets
+---
+title: Managing Secrets
+---
+
 
 Use the Secret Manager to safeguard sensitive information (such as API keys, passwords, and certificates) and ensure secure controlled access.&#x20;
 

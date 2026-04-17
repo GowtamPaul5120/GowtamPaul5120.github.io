@@ -1,4 +1,7 @@
-# Managing Keys and Certificates
+---
+title: Managing Keys and Certificates
+---
+
 
 Use the Settings > Workspace > Keys and Certificates page to manage encryption / authentication keys and certificates.
 

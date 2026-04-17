@@ -1,4 +1,7 @@
-# Using a Resource in a Workflow
+---
+title: Using a Resource in a Workflow
+---
+
 
 To use a resource in a workflow
 

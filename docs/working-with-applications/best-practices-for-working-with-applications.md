@@ -1,4 +1,7 @@
-# Best Practices for Working with Applications
+---
+title: Best Practices for Working with Applications
+---
+
 
 Here are a few best practices for working with applications in Koodisi"
 

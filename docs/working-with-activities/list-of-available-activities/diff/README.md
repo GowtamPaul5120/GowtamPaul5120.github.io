@@ -1,4 +1,7 @@
-# Diff
+---
+title: Diff
+---
+
 
 The Diff activity group provides activities for comparing and differencing datasets.
 

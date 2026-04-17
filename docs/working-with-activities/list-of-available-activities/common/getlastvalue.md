@@ -1,4 +1,7 @@
-# Get Last Value
+---
+title: Get Last Value
+---
+
 
 The **Get Last Value** activity retrieves the last stored value for a key.
 

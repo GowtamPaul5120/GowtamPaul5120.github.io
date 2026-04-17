@@ -1,4 +1,7 @@
-# NxAgent - User Guide
+---
+title: NxAgent - User Guide
+---
+
 
 > **NxAgent** is Koodisi's built-in AI assistant. Tell it what you want to build, investigate, or understand — it handles the rest. Chat. Design. Build.
 

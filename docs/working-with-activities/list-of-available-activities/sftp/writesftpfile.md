@@ -1,4 +1,7 @@
-# Write SFTP File
+---
+title: Write SFTP File
+---
+
 
 The **Write SFTP File** activity writes data to a file on a remote SFTP server.
 

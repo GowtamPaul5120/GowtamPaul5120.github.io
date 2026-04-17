@@ -1,4 +1,7 @@
-# CSV To Json
+---
+title: CSV To Json
+---
+
 
 The **CSV to JSON** activity converts CSV data into a JSON array.
 

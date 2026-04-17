@@ -1,4 +1,7 @@
-# ABS Connection
+---
+title: ABS Connection
+---
+
 
 The **ABS Connection** resource defines the connection configuration for Azure Blob Storage.
 

@@ -1,4 +1,7 @@
-# CSV Reader
+---
+title: CSV Reader
+---
+
 
 The **CSV Reader** activity parses CSV data and returns structured records.
 
