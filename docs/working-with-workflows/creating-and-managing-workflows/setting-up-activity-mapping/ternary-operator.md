@@ -1,5 +1,5 @@
 ---
-title: Ternary Operator
+title: "Ternary Operator"
 ---
 
 

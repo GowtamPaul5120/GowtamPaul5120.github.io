@@ -1,5 +1,5 @@
 ---
-title: Deactivating Applications
+title: "Deactivating Applications"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Managing Resources
+title: "Managing Resources"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Managing Your Profile
+title: "Managing Your Profile"
 ---
 
 

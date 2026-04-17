@@ -1,5 +1,5 @@
 ---
-title: AllOf and AnyOf
+title: "AllOf and AnyOf"
 ---
 
 

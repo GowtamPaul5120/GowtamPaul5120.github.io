@@ -1,5 +1,5 @@
 ---
-title: Deleting an Application
+title: "Deleting an Application"
 ---
 
 

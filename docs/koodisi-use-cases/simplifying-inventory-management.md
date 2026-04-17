@@ -1,5 +1,5 @@
 ---
-title: Simplifying Inventory Management
+title: "Simplifying Inventory Management"
 ---
 
 

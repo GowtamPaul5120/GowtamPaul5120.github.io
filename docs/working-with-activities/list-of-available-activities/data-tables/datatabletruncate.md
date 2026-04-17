@@ -1,5 +1,5 @@
 ---
-title: Data Table Truncate
+title: "Data Table Truncate"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Managing Schema Versions
+title: "Managing Schema Versions"
 ---
 
 

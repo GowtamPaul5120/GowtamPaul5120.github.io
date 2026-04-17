@@ -1,5 +1,5 @@
 ---
-title: Creating a Lookup Table
+title: "Creating a Lookup Table"
 ---
 
 

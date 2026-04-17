@@ -1,5 +1,5 @@
 ---
-title: Cloning Git Applications
+title: "Cloning Git Applications"
 ---
 
 

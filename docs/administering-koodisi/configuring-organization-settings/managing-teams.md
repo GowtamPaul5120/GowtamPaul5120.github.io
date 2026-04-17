@@ -1,5 +1,5 @@
 ---
-title: Managing Teams
+title: "Managing Teams"
 ---
 
 

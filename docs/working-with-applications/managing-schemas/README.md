@@ -1,5 +1,5 @@
 ---
-title: Managing Schemas
+title: "Managing Schemas"
 ---
 
 

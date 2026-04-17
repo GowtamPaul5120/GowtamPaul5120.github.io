@@ -1,5 +1,5 @@
 ---
-title: Git Branching Policy
+title: "Git Branching Policy"
 ---
 
 

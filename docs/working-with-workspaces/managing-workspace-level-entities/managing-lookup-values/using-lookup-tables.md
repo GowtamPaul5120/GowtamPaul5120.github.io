@@ -1,5 +1,5 @@
 ---
-title: Using Lookup Tables
+title: "Using Lookup Tables"
 ---
 
 

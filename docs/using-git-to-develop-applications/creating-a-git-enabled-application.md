@@ -1,5 +1,5 @@
 ---
-title: Creating a Git-Enabled Application
+title: "Creating a Git-Enabled Application"
 ---
 
 

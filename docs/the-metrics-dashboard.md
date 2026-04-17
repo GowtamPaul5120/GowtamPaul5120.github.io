@@ -1,5 +1,5 @@
 ---
-title: The Metrics Dashboard
+title: "The Metrics Dashboard"
 ---
 
 

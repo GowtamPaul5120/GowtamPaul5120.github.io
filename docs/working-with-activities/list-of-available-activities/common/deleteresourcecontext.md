@@ -1,5 +1,5 @@
 ---
-title: Delete Resource Context
+title: "Delete Resource Context"
 ---
 
 

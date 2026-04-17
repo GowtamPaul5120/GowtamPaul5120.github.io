@@ -1,5 +1,5 @@
 ---
-title: Integration Patterns
+title: "Integration Patterns"
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Delete SFTP File
+title: "Delete SFTP File"
 ---
 
 

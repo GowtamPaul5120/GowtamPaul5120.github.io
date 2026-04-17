@@ -1,5 +1,5 @@
 ---
-title: Best Practices for Working with Applications
+title: "Best Practices for Working with Applications"
 ---
 
 

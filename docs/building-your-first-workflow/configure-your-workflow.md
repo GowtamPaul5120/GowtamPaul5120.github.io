@@ -1,5 +1,5 @@
 ---
-title: Configure Your Workflow
+title: "Configure Your Workflow"
 ---
 
 

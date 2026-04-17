@@ -1,5 +1,5 @@
 ---
-title: NxAgent - User Guide
+title: "NxAgent - User Guide"
 ---
 
 

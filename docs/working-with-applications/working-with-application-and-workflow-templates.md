@@ -1,5 +1,5 @@
 ---
-title: Working with Application and Workflow Templates
+title: "Working with Application and Workflow Templates"
 ---
 
 

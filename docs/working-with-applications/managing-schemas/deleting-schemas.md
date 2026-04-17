@@ -1,5 +1,5 @@
 ---
-title: Deleting Schemas
+title: "Deleting Schemas"
 ---
 
 

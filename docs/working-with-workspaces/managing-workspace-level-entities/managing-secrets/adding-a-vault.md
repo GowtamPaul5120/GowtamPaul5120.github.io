@@ -1,5 +1,5 @@
 ---
-title: Adding a Vault
+title: "Adding a Vault"
 ---
 
 

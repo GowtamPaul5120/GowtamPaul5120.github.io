@@ -1,5 +1,5 @@
 ---
-title: View Published Collections
+title: "View Published Collections"
 ---
 
 

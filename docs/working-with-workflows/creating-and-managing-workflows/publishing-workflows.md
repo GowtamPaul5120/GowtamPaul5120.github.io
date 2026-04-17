@@ -1,5 +1,5 @@
 ---
-title: Publishing Workflows
+title: "Publishing Workflows"
 ---
 
 

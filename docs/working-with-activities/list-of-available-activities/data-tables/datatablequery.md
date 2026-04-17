@@ -1,5 +1,5 @@
 ---
-title: Data Table Query
+title: "Data Table Query"
 ---
 
 

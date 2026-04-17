@@ -1,5 +1,5 @@
 ---
-title: Renaming an Application
+title: "Renaming an Application"
 ---
 
 

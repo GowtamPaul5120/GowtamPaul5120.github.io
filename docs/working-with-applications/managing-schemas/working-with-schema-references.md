@@ -1,5 +1,5 @@
 ---
-title: Working with Schema References
+title: "Working with Schema References"
 ---
 
 

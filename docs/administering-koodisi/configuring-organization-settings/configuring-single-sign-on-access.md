@@ -1,5 +1,5 @@
 ---
-title: Configuring Single Sign-On Access
+title: "Configuring Single Sign-On Access"
 ---
 
 

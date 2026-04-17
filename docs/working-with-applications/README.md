@@ -1,5 +1,5 @@
 ---
-title: Working with Applications
+title: "Working with Applications"
 ---
 
 

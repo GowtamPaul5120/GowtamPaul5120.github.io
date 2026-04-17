@@ -1,5 +1,5 @@
 ---
-title: Managing Third-Party Account Credentials
+title: "Managing Third-Party Account Credentials"
 ---
 
 

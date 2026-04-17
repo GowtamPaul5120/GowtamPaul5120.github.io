@@ -1,5 +1,5 @@
 ---
-title: S3 Event Notifications - CloudFormation Template
+title: "S3 Event Notifications - CloudFormation Template"
 ---
 
 

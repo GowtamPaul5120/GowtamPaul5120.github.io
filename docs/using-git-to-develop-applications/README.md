@@ -1,5 +1,5 @@
 ---
-title: Using Git to Develop Applications
+title: "Using Git to Develop Applications"
 ---
 
 

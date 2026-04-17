@@ -1,5 +1,5 @@
 ---
-title: Using Variables in Activities
+title: "Using Variables in Activities"
 ---
 
 
