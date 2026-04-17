@@ -19,14 +19,10 @@ collections:
     format: frontmatter
     nested:
       depth: 10
-      summary: "{{title}}"
-    meta:
-      path:
-        widget: string
-        label: "File Path"
-        index_file: "index"
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: Description, name: description, widget: text, required: false }
+      - { label: Icon, name: icon, widget: string, required: false }
       - { label: Body, name: body, widget: markdown }
 
   - name: blog
