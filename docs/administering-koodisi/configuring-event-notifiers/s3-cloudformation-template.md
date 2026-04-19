@@ -1,5 +1,6 @@
 ---
 title: "S3 Event Notifications - CloudFormation Template"
+sidebar_position: 1
 ---
 
 

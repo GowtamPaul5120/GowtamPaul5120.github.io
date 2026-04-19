@@ -1,5 +1,6 @@
 ---
 title: "Data Table Insert"
+sidebar_position: 2
 ---
 
 

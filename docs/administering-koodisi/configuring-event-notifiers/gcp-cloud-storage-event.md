@@ -1,5 +1,6 @@
 ---
 title: "GCP Cloud Storage Event"
+sidebar_position: 3
 ---
 
 

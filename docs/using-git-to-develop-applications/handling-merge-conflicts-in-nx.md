@@ -1,5 +1,6 @@
 ---
 title: "Handling Merge Conflicts in NX"
+sidebar_position: 12
 description: >-
   NX does not support resolving merge conflicts directly inside the application.
   If a conflict happens while pulling or pushing changes, follow the steps below

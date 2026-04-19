@@ -1,5 +1,6 @@
 ---
 title: "Create Your First Workflow"
+sidebar_position: 2
 ---
 
 

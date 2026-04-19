@@ -1,5 +1,6 @@
 ---
 title: "Managing Members"
+sidebar_position: 1
 ---
 
 

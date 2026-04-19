@@ -1,5 +1,6 @@
 ---
 title: "Configuring Single Sign-On Access"
+sidebar_position: 4
 ---
 
 

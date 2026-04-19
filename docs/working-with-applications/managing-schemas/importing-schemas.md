@@ -1,5 +1,6 @@
 ---
 title: "Importing Schemas"
+sidebar_position: 2
 ---
 
 

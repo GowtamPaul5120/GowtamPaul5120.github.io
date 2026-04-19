@@ -1,5 +1,6 @@
 ---
 title: "Deleting a Lookup Table"
+sidebar_position: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Managing Variables"
+sidebar_position: 11
 ---
 
 

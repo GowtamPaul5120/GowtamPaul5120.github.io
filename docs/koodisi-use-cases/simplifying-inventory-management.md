@@ -1,5 +1,6 @@
 ---
 title: "Simplifying Inventory Management"
+sidebar_position: 2
 ---
 
 

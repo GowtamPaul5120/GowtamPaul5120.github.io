@@ -1,5 +1,6 @@
 ---
 title: "Notification Channels & Alert Configuration"
+sidebar_position: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Deactivating Applications"
+sidebar_position: 6
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Renaming an Application"
+sidebar_position: 3
 ---
 
 

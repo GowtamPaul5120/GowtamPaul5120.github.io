@@ -1,5 +1,6 @@
 ---
 title: "Configuring Source Control Settings"
+sidebar_position: 3
 ---
 
 

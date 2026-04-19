@@ -1,5 +1,6 @@
 ---
 title: "Best Practices for Managing Variables"
+sidebar_position: 5
 ---
 
 

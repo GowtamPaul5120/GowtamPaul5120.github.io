@@ -1,5 +1,6 @@
 ---
 title: "AllOf and AnyOf"
+sidebar_position: 1
 ---
 
 

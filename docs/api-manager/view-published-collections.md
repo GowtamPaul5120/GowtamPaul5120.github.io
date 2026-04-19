@@ -1,5 +1,6 @@
 ---
 title: "View Published Collections"
+sidebar_position: 4
 ---
 
 

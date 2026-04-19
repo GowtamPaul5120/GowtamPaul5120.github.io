@@ -1,5 +1,6 @@
 ---
 title: "Adding Attribute Tags to Activities"
+sidebar_position: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Data Table Truncate"
+sidebar_position: 4
 ---
 
 

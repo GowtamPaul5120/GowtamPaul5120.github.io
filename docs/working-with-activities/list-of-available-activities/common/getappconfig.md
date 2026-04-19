@@ -1,5 +1,6 @@
 ---
 title: "Get App Config"
+sidebar_position: 12
 ---
 
 

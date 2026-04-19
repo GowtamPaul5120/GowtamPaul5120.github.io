@@ -1,5 +1,6 @@
 ---
 title: "Using Git with Applications"
+sidebar_position: 6
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Creating a Lookup Table"
+sidebar_position: 1
 ---
 
 

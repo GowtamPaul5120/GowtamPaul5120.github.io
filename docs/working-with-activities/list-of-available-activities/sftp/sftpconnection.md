@@ -1,5 +1,6 @@
 ---
 title: "SFTP Connection"
+sidebar_position: 4
 ---
 
 

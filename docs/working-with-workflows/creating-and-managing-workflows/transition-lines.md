@@ -1,5 +1,6 @@
 ---
 title: "Configuring Transition Lines"
+sidebar_position: 8
 ---
 
 

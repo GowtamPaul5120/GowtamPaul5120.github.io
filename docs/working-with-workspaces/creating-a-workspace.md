@@ -1,5 +1,6 @@
 ---
 title: "Creating a Workspace"
+sidebar_position: 1
 ---
 
 

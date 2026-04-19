@@ -1,5 +1,6 @@
 ---
 title: "Components of an Application"
+sidebar_position: 2
 ---
 
 

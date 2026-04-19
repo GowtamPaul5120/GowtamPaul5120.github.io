@@ -1,5 +1,6 @@
 ---
 title: "Working with Application and Workflow Templates"
+sidebar_position: 14
 ---
 
 

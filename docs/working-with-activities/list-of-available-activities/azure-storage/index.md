@@ -1,5 +1,6 @@
 ---
 title: "Azure Storage"
+sidebar_position: 2
 ---
 
 

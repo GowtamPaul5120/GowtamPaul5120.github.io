@@ -1,5 +1,6 @@
 ---
 title: "Batch Event Trigger"
+sidebar_position: 2
 ---
 
 

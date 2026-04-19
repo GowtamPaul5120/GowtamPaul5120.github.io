@@ -1,5 +1,6 @@
 ---
 title: "Publish, Deploy, and Test the Workflow"
+sidebar_position: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Working with OpenAPI Specs"
+sidebar_position: 1
 ---
 
 

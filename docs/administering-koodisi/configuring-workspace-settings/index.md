@@ -1,5 +1,6 @@
 ---
 title: "Configuring Workspace Settings"
+sidebar_position: 1
 ---
 
 

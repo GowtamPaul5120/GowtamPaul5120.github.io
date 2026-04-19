@@ -1,5 +1,6 @@
 ---
 title: "Cloning Git Applications"
+sidebar_position: 7
 ---
 
 

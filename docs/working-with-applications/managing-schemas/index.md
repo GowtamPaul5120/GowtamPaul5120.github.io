@@ -1,5 +1,6 @@
 ---
 title: "Managing Schemas"
+sidebar_position: 10
 ---
 
 

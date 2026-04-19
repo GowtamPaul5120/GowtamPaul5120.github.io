@@ -1,5 +1,6 @@
 ---
 title: "Editing Teams"
+sidebar_position: 2
 ---
 
 

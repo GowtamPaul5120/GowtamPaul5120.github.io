@@ -1,5 +1,6 @@
 ---
 title: "S3 Delete"
+sidebar_position: 2
 ---
 
 

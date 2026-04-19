@@ -1,5 +1,6 @@
 ---
 title: "Integration Patterns"
+sidebar_position: 13
 ---
 
 

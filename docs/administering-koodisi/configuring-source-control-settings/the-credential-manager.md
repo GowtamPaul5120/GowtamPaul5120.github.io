@@ -1,5 +1,6 @@
 ---
 title: "The Credential Manager"
+sidebar_position: 1
 ---
 
 

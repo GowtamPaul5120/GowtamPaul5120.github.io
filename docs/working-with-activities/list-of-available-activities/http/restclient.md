@@ -1,5 +1,6 @@
 ---
 title: "REST Client"
+sidebar_position: 3
 ---
 
 

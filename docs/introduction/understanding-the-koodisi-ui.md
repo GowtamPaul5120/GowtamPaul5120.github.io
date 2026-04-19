@@ -1,5 +1,6 @@
 ---
 title: "Understanding the Koodisi UI"
+sidebar_position: 8
 ---
 
 

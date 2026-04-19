@@ -1,5 +1,6 @@
 ---
 title: "Before You Start"
+sidebar_position: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Schema References in Koodisi"
+sidebar_position: 3
 ---
 
 

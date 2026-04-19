@@ -1,5 +1,6 @@
 ---
 title: "Renaming a Workflow"
+sidebar_position: 3
 ---
 
 

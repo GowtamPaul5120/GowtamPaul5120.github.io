@@ -1,5 +1,6 @@
 ---
 title: "Editing Schemas"
+sidebar_position: 3
 ---
 
 

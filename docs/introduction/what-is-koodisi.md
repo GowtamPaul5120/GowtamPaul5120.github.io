@@ -1,5 +1,6 @@
 ---
 title: "What is Koodisi?"
+sidebar_position: 1
 ---
 
 

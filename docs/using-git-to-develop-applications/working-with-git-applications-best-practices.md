@@ -1,5 +1,6 @@
 ---
 title: "Working with Git Applications: Best Practices"
+sidebar_position: 9
 ---
 
 

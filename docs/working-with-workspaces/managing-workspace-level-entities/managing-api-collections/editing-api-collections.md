@@ -1,5 +1,6 @@
 ---
 title: "Editing API Collections"
+sidebar_position: 2
 ---
 
 

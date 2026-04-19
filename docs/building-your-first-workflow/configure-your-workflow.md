@@ -1,5 +1,6 @@
 ---
 title: "Configure Your Workflow"
+sidebar_position: 3
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Data Table Upsert"
+sidebar_position: 6
 ---
 
 

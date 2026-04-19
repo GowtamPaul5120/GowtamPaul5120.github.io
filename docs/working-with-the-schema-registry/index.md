@@ -1,5 +1,6 @@
 ---
 title: "Working with the Schema Registry"
+sidebar_position: 13
 ---
 
 

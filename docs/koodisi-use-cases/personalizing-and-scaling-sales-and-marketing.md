@@ -1,5 +1,6 @@
 ---
 title: "Personalizing and Scaling Sales and Marketing"
+sidebar_position: 3
 ---
 
 

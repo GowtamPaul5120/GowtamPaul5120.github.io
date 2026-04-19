@@ -1,5 +1,6 @@
 ---
 title: "Data Table Query"
+sidebar_position: 3
 ---
 
 

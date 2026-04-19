@@ -1,5 +1,6 @@
 ---
 title: "NxAgent - User Guide"
+sidebar_position: 7
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Delete SFTP File"
+sidebar_position: 1
 ---
 
 

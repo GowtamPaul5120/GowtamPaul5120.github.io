@@ -1,5 +1,6 @@
 ---
 title: "Creating, Importing, Exporting, and Publishing Schemas"
+sidebar_position: 1
 ---
 
 

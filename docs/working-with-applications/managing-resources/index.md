@@ -1,5 +1,6 @@
 ---
 title: "Managing Resources"
+sidebar_position: 9
 ---
 
 

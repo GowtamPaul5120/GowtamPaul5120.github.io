@@ -1,5 +1,6 @@
 ---
 title: "Update an API Collection"
+sidebar_position: 3
 ---
 
 

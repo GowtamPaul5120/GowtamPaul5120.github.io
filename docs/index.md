@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Koodisi"
+sidebar_position: 1
 description: >-
   Build and deploy workflows, interconnect systems, and make faster, smarter
   enterprise decisions.

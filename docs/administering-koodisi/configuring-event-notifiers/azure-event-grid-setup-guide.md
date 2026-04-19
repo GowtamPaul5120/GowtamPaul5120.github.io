@@ -1,5 +1,6 @@
 ---
 title: "Azure Event Grid Setup Guide"
+sidebar_position: 2
 ---
 
 

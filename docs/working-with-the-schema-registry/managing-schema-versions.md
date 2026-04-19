@@ -1,5 +1,6 @@
 ---
 title: "Managing Schema Versions"
+sidebar_position: 2
 ---
 
 

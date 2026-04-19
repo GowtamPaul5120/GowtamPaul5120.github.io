@@ -1,5 +1,6 @@
 ---
 title: "Deleting Schemas"
+sidebar_position: 6
 ---
 
 

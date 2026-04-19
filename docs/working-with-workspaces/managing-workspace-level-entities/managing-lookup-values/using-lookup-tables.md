@@ -1,5 +1,6 @@
 ---
 title: "Using Lookup Tables"
+sidebar_position: 2
 ---
 
 

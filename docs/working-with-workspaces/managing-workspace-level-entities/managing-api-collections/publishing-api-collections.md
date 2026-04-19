@@ -1,5 +1,6 @@
 ---
 title: "Publishing API Collections"
+sidebar_position: 3
 ---
 
 

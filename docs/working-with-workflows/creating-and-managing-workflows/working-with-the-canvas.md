@@ -1,5 +1,6 @@
 ---
 title: "Working with the Canvas"
+sidebar_position: 7
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Configuring Event Notifiers"
+sidebar_position: 4
 ---
 
 

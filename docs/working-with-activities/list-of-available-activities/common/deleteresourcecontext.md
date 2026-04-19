@@ -1,5 +1,6 @@
 ---
 title: "Delete Resource Context"
+sidebar_position: 5
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Managing Credentials"
+sidebar_position: 2
 ---
 
 

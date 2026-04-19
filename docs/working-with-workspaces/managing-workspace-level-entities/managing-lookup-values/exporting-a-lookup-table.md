@@ -1,5 +1,6 @@
 ---
 title: "Exporting a Lookup Table"
+sidebar_position: 3
 ---
 
 

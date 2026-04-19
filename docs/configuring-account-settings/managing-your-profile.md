@@ -1,5 +1,6 @@
 ---
 title: "Managing Your Profile"
+sidebar_position: 1
 ---
 
 

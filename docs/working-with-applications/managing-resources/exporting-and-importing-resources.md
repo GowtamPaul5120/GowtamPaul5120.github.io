@@ -1,5 +1,6 @@
 ---
 title: "Exporting and Importing Resources"
+sidebar_position: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Editing a Key or Certificate"
+sidebar_position: 2
 ---
 
 
