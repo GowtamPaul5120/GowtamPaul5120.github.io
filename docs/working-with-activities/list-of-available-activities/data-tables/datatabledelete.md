@@ -1,5 +1,6 @@
 ---
 title: "Data Table Delete"
+sidebar_position: 1
 ---
 
 

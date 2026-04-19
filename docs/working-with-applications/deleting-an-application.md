@@ -1,5 +1,6 @@
 ---
 title: "Deleting an Application"
+sidebar_position: 5
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Deleting a Workspace"
+sidebar_position: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Single vs. Multi-Module Repositories"
+sidebar_position: 3
 ---
 
 

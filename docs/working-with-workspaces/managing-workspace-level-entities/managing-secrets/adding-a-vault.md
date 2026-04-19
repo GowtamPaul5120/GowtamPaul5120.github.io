@@ -1,5 +1,6 @@
 ---
 title: "Adding a Vault"
+sidebar_position: 1
 ---
 
 

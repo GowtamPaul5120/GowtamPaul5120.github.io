@@ -1,5 +1,6 @@
 ---
 title: "Creating a Git-Enabled Application"
+sidebar_position: 4
 ---
 
 

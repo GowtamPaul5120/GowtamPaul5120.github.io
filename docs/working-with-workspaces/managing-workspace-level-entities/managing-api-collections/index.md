@@ -1,5 +1,6 @@
 ---
 title: "Managing API Collections"
+sidebar_position: 2
 ---
 
 

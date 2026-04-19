@@ -1,5 +1,6 @@
 ---
 title: "Creating Client Profiles"
+sidebar_position: 5
 ---
 
 

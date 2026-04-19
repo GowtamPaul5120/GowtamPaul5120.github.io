@@ -1,5 +1,6 @@
 ---
 title: "Configuring Account Settings"
+sidebar_position: 17
 ---
 
 

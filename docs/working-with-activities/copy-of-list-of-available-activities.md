@@ -1,5 +1,6 @@
 ---
 title: "List of Available Activities"
+sidebar_position: 3
 ---
 
 

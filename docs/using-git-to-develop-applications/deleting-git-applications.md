@@ -1,5 +1,6 @@
 ---
 title: "Deleting Git Applications"
+sidebar_position: 8
 ---
 
 

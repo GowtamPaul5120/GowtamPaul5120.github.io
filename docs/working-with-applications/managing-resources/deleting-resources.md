@@ -1,5 +1,6 @@
 ---
 title: "Deleting Resources"
+sidebar_position: 3
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Managing Your User Preferences"
+sidebar_position: 3
 ---
 
 

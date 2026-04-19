@@ -1,5 +1,6 @@
 ---
 title: "Init Batch"
+sidebar_position: 6
 ---
 
 

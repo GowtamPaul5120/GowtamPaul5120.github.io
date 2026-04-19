@@ -1,5 +1,6 @@
 ---
 title: "Creating a Custom Activity"
+sidebar_position: 2
 ---
 
 

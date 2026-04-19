@@ -1,5 +1,6 @@
 ---
 title: "Deprecating Attribute Tags"
+sidebar_position: 2
 ---
 
 

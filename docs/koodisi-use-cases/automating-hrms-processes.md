@@ -1,5 +1,6 @@
 ---
 title: "Automating HRMS Processes"
+sidebar_position: 1
 ---
 
 

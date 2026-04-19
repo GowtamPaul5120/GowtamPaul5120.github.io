@@ -1,5 +1,6 @@
 ---
 title: "Creating a Workflow Template"
+sidebar_position: 2
 ---
 
 

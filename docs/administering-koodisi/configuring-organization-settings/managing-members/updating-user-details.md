@@ -1,5 +1,6 @@
 ---
 title: "Updating User Details"
+sidebar_position: 2
 ---
 
 

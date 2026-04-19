@@ -1,5 +1,6 @@
 ---
 title: "Using Git to Develop Applications"
+sidebar_position: 14
 ---
 
 

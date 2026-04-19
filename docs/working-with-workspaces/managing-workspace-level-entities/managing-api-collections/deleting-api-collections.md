@@ -1,5 +1,6 @@
 ---
 title: "Deleting API Collections"
+sidebar_position: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Using Variables in Activities"
+sidebar_position: 2
 ---
 
 

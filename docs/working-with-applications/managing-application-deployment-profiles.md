@@ -1,5 +1,6 @@
 ---
 title: "Managing Application Deployment Profiles"
+sidebar_position: 12
 ---
 
 

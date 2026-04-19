@@ -1,5 +1,6 @@
 ---
 title: "Data Tables"
+sidebar_position: 8
 ---
 
 

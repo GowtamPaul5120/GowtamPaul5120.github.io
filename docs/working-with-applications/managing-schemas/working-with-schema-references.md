@@ -1,5 +1,6 @@
 ---
 title: "Working with Schema References"
+sidebar_position: 8
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "S3 File Trigger"
+sidebar_position: 3
 ---
 
 

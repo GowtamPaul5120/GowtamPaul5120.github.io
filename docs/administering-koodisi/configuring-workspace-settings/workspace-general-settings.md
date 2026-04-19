@@ -1,5 +1,6 @@
 ---
 title: "Workspace General Settings"
+sidebar_position: 1
 ---
 
 

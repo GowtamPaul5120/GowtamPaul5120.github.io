@@ -1,5 +1,6 @@
 ---
 title: "Importing a Workflow"
+sidebar_position: 5
 ---
 
 

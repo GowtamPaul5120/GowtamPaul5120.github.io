@@ -1,5 +1,6 @@
 ---
 title: "Working with Applications"
+sidebar_position: 8
 ---
 
 

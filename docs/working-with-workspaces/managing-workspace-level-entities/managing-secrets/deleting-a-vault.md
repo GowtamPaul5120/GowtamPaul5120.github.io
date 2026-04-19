@@ -1,5 +1,6 @@
 ---
 title: "Deleting a Vault"
+sidebar_position: 3
 ---
 
 

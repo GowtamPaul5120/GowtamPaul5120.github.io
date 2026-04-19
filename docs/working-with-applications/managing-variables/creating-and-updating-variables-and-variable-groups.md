@@ -1,5 +1,6 @@
 ---
 title: "Creating and Updating Variables and Variable Groups"
+sidebar_position: 1
 ---
 
 

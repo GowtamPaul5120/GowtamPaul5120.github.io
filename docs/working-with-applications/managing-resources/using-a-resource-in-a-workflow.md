@@ -1,5 +1,6 @@
 ---
 title: "Using a Resource in a Workflow"
+sidebar_position: 4
 ---
 
 

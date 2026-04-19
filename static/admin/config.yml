@@ -6,7 +6,6 @@ backend:
   auth_endpoint: /auth
 
 publish_mode: editorial_workflow
-
 media_folder: static/img
 public_folder: /img
 
@@ -21,6 +20,12 @@ collections:
       depth: 10
     fields:
       - { label: Title, name: title, widget: string }
+      - {
+          label: Sidebar Position,
+          name: sidebar_position,
+          widget: number,
+          required: false,
+        }
       - { label: Description, name: description, widget: text, required: false }
       - { label: Icon, name: icon, widget: string, required: false }
       - { label: Body, name: body, widget: markdown }

@@ -1,5 +1,6 @@
 ---
 title: "Editing a Vault"
+sidebar_position: 2
 ---
 
 

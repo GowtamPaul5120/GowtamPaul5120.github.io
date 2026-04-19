@@ -1,5 +1,6 @@
 ---
 title: "Editing Workflow Properties"
+sidebar_position: 6
 ---
 
 

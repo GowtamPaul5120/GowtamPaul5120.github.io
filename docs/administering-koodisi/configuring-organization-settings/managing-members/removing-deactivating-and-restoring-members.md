@@ -1,5 +1,6 @@
 ---
 title: "Removing, Deactivating, and Restoring Members"
+sidebar_position: 4
 ---
 
 

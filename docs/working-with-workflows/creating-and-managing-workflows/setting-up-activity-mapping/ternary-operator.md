@@ -1,5 +1,6 @@
 ---
 title: "Ternary Operator"
+sidebar_position: 5
 ---
 
 

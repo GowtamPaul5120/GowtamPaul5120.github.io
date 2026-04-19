@@ -1,5 +1,6 @@
 ---
 title: "Table Diff"
+sidebar_position: 2
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "What are Git-enabled applications?"
+sidebar_position: 2
 ---
 
 

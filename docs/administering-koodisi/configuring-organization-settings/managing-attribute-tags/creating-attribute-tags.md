@@ -1,5 +1,6 @@
 ---
 title: "Creating Attribute Tags"
+sidebar_position: 1
 ---
 
 

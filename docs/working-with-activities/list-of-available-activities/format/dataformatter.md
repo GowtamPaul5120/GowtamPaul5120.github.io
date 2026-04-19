@@ -1,5 +1,6 @@
 ---
 title: "Data Formatter"
+sidebar_position: 2
 ---
 
 

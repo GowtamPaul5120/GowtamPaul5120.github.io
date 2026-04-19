@@ -1,5 +1,6 @@
 ---
 title: "Managing Secrets"
+sidebar_position: 3
 ---
 
 

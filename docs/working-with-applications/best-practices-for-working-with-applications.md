@@ -1,5 +1,6 @@
 ---
 title: "Best Practices for Working with Applications"
+sidebar_position: 8
 ---
 
 

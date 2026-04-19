@@ -1,5 +1,6 @@
 ---
 title: "Receive Message"
+sidebar_position: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Delete Batch"
+sidebar_position: 5
 ---
 
 

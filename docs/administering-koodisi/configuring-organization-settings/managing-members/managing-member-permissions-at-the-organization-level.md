@@ -1,5 +1,6 @@
 ---
 title: "Managing Member Permissions at the Organization Level"
+sidebar_position: 3
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Importing Artifacts into an Application"
+sidebar_position: 7
 ---
 
 

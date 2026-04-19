@@ -1,5 +1,6 @@
 ---
 title: "Compression"
+sidebar_position: 6
 ---
 
 

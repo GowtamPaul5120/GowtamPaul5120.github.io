@@ -1,5 +1,6 @@
 ---
 title: "Working with Workspaces"
+sidebar_position: 6
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Batch Iterator"
+sidebar_position: 3
 ---
 
 

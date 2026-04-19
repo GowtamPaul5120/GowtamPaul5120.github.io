@@ -1,5 +1,6 @@
 ---
 title: "Managing Workspace-Level Entities"
+sidebar_position: 3
 ---
 
 

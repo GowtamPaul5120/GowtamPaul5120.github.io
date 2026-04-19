@@ -1,5 +1,6 @@
 ---
 title: "Batch Integration vs Messaging Integration"
+sidebar_position: 15
 ---
 
 

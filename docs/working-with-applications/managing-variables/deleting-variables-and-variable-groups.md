@@ -1,5 +1,6 @@
 ---
 title: "Deleting Variables and Variable Groups"
+sidebar_position: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Setting up Activity Mapping"
+sidebar_position: 9
 ---
 
 

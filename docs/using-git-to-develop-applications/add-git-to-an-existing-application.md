@@ -1,5 +1,6 @@
 ---
 title: "Add Git to an Existing Application"
+sidebar_position: 5
 ---
 
 

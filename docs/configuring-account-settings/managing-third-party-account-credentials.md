@@ -1,5 +1,6 @@
 ---
 title: "Managing Third-Party Account Credentials"
+sidebar_position: 2
 ---
 
 

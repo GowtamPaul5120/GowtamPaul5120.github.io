@@ -1,5 +1,6 @@
 ---
 title: "Write SFTP File"
+sidebar_position: 6
 ---
 
 

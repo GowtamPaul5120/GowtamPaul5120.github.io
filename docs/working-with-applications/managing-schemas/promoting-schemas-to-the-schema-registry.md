@@ -1,5 +1,6 @@
 ---
 title: "Promoting Schemas to the Schema Registry"
+sidebar_position: 5
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Creating Teams"
+sidebar_position: 1
 ---
 
 

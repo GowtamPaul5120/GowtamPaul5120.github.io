@@ -1,5 +1,6 @@
 ---
 title: "Delete File"
+sidebar_position: 2
 ---
 
 

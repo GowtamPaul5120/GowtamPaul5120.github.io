@@ -1,5 +1,6 @@
 ---
 title: "Terminology"
+sidebar_position: 7
 ---
 
 

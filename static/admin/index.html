@@ -5,8 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
     <meta name="algolia-site-verification" content="E96C57BD169CC212" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/infima/dist/css/default/default.css"
+    />
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      // Absolute path — served from the root of your deployed site
+      // custom.css lives at src/css/custom.css but Docusaurus copies it to /
+      // Use the path as it appears in your built/served site, not the source tree.
+      CMS.registerPreviewStyle("/css/custom.css");
+
+      // Preview template: mirrors Docusaurus doc page structure
+      var DocsPreview = createClass({
+        render: function () {
+          var entry = this.props.entry;
+          var body = this.props.widgetFor("body");
+          return h(
+            "div",
+            { className: "theme-doc-markdown markdown" },
+            h("h1", {}, entry.getIn(["data", "title"])),
+            entry.getIn(["data", "description"])
+              ? h(
+                  "p",
+                  { className: "subtitle" },
+                  entry.getIn(["data", "description"]),
+                )
+              : null,
+            h("div", {}, body),
+          );
+        },
+      });
+
+      CMS.registerPreviewTemplate("docs", DocsPreview);
+    </script>
   </body>
 </html>

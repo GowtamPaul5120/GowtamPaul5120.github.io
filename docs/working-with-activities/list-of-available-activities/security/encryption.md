@@ -1,5 +1,6 @@
 ---
 title: "Encryption"
+sidebar_position: 1
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Managing Keys and Certificates"
+sidebar_position: 4
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Creating and Renaming Resources"
+sidebar_position: 1
 ---
 
 

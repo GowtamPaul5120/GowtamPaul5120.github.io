@@ -1,5 +1,6 @@
 ---
 title: "Configuring Organization Settings"
+sidebar_position: 2
 ---
 
 

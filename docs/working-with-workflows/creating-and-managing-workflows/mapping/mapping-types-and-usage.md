@@ -1,5 +1,6 @@
 ---
 title: "Mapping Types and Usage"
+sidebar_position: 3
 ---
 
 

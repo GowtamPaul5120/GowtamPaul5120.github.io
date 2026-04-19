@@ -1,5 +1,6 @@
 ---
 title: "Deleting a Key or Certificate"
+sidebar_position: 3
 ---
 
 

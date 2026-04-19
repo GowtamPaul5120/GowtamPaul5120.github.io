@@ -1,5 +1,6 @@
 ---
 title: "Creating and Managing Definitions"
+sidebar_position: 7
 ---
 
 
