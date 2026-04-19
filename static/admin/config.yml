@@ -18,17 +18,28 @@ collections:
     format: frontmatter
     nested:
       depth: 10
+      summary: "{{title}}"
+    meta:
+      path:
+        label: "File Path"
+        widget: string
+        index_file: index
     fields:
-      - { label: Title, name: title, widget: string }
+      - { label: "Title", name: title, widget: string }
       - {
-          label: Sidebar Position,
+          label: "Sidebar Position",
           name: sidebar_position,
           widget: number,
           required: false,
         }
-      - { label: Description, name: description, widget: text, required: false }
-      - { label: Icon, name: icon, widget: string, required: false }
-      - { label: Body, name: body, widget: markdown }
+      - {
+          label: "Description",
+          name: description,
+          widget: text,
+          required: false,
+        }
+      - { label: "Icon", name: icon, widget: string, required: false }
+      - { label: "Body", name: body, widget: markdown }
 
   - name: blog
     label: Blog
@@ -37,7 +48,7 @@ collections:
     extension: md
     format: frontmatter
     fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Authors, name: authors, widget: string, required: false }
-      - { label: Tags, name: tags, widget: list, required: false }
-      - { label: Body, name: body, widget: markdown }
+      - { label: "Title", name: title, widget: string }
+      - { label: "Authors", name: authors, widget: string, required: false }
+      - { label: "Tags", name: tags, widget: list, required: false }
+      - { label: "Body", name: body, widget: markdown }
