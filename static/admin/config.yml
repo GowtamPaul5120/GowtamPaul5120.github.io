@@ -4,6 +4,7 @@ backend:
   branch: development
   base_url: https://platformnx-cms-auth.gowtampaul16.workers.dev
   auth_endpoint: /auth
+  squash_merges: true
 
 publish_mode: editorial_workflow
 media_folder: static/img
