@@ -10,86 +10,47 @@
     />
   </head>
   <body>
+    <script src="https://gc.staticcms.org/v4/static-cms.umd.js"></script>
     <script>
-      // Patch fetch to log the exact git/trees calls and responses
-      const _fetch = window.fetch;
-      window.fetch = async function (...args) {
-        const url = args[0]?.toString() || "";
-        const res = await _fetch(...args);
-        if (url.includes("git/trees") && url.includes("docs")) {
-          const clone = res.clone();
-          clone
-            .json()
-            .then((data) => {
-              if (data.tree) {
-                const blobs = data.tree.filter((f) => f.type === "blob");
-                const byDepth = blobs.reduce((a, f) => {
-                  const d = f.path.split("/").length;
-                  a[d] = (a[d] || 0) + 1;
-                  return a;
-                }, {});
-                console.log("=== GIT TREE FETCH ===");
-                console.log("URL:", url);
-                console.log("Total tree items:", data.tree.length);
-                console.log("Blobs only:", blobs.length);
-                console.log("Blob depth distribution:", byDepth);
-                console.log(
-                  "After depth filter (<=2):",
-                  blobs.filter((f) => f.path.split("/").length <= 2).length,
-                );
-                console.log(
-                  "After depth filter (<=10):",
-                  blobs.filter((f) => f.path.split("/").length <= 10).length,
-                );
-              }
-            })
-            .catch(() => {});
-        }
-        return res;
-      };
-    </script>
-    <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
-    <script>
-      CMS.registerPreviewStyle(
+      StaticCMS.registerPreviewStyle(
         "https://unpkg.com/infima/dist/css/default/default.css",
       );
-      CMS.registerPreviewStyle("/css/custom.css");
+      StaticCMS.registerPreviewStyle("/css/custom.css");
 
-      var DocsPreview = createClass({
-        render: function () {
-          var entry = this.props.entry;
-          var body = this.props.widgetFor("body");
-          return h(
-            "div",
-            {
-              style: {
-                padding: "2rem",
-                fontFamily: "var(--ifm-font-family-base, system-ui)",
-                maxWidth: "860px",
-                margin: "0 auto",
-              },
+      var DocsPreview = StaticCMS.definePreviewComponent(function (props) {
+        return StaticCMS.h(
+          "div",
+          {
+            style: {
+              padding: "2rem",
+              fontFamily: "var(--ifm-font-family-base, system-ui)",
+              maxWidth: "860px",
+              margin: "0 auto",
             },
-            h(
-              "article",
-              { className: "theme-doc-markdown markdown" },
-              h(
-                "header",
-                {},
-                h("h1", {}, entry.getIn(["data", "title"])),
-                entry.getIn(["data", "description"])
-                  ? h(
-                      "p",
-                      { className: "theme-doc-markdown markdown" },
-                      entry.getIn(["data", "description"]),
-                    )
-                  : null,
-              ),
-              h("div", { className: "markdown" }, body),
+          },
+          StaticCMS.h(
+            "article",
+            { className: "theme-doc-markdown markdown" },
+            StaticCMS.h(
+              "header",
+              {},
+              StaticCMS.h("h1", {}, props.entry.data.title),
+              props.entry.data.description
+                ? StaticCMS.h("p", {}, props.entry.data.description)
+                : null,
             ),
-          );
-        },
+            StaticCMS.h(
+              "div",
+              { className: "markdown" },
+              props.widgetFor("body"),
+            ),
+          ),
+        );
       });
-      CMS.registerPreviewTemplate("docs", DocsPreview);
+
+      StaticCMS.registerPreviewTemplate("docs", DocsPreview);
+
+      StaticCMS.init();
     </script>
   </body>
 </html>

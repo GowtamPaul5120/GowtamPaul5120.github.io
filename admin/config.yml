@@ -4,7 +4,6 @@ backend:
   branch: development
   base_url: https://platformnx-cms-auth.gowtampaul16.workers.dev
   auth_endpoint: /auth
-  open_authoring: false
 
 media_folder: static/img
 public_folder: /img
@@ -20,7 +19,6 @@ collections:
     nested:
       depth: 10
       summary: "{{title}}"
-      subfolders: true
     meta:
       path:
         label: "File Path"
