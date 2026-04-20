@@ -15,14 +15,13 @@ collections:
     create: true
     extension: md
     format: frontmatter
-    summary: "{{title}}"
     nested:
-      depth: 10
+      depth: 100
       summary: "{{title}}"
     meta:
       path:
-        label: "File Path"
         widget: string
+        label: Path
         index_file: index
     fields:
       - { label: "Title", name: title, widget: string }
