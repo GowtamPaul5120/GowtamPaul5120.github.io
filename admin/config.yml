@@ -6,7 +6,6 @@ backend:
   auth_endpoint: /auth
   open_authoring: false
 
-# DELETE the publish_mode line entirely
 media_folder: static/img
 public_folder: /img
 
@@ -21,6 +20,7 @@ collections:
     nested:
       depth: 10
       summary: "{{title}}"
+      subfolders: true
     meta:
       path:
         label: "File Path"
