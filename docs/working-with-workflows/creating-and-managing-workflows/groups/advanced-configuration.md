@@ -3,14 +3,13 @@ title: "Advanced Configuration"
 sidebar_position: 4
 ---
 
-
 **Output Step**: Select the Activity within the group whose output will be considered the result of the loop.
 
 **Accumulate Output**: If checked the output from each iteration of the chosen Output Step will be accumulated and made available as an array to subsequent activities. For Example,
 
-### Use Cases&#x20;
+### Use Cases
 
-#### How to make a Group&#x20;
+#### How to make a Group
 
 Select the activities to group.
 

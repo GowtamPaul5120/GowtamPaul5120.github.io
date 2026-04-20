@@ -3,7 +3,6 @@ title: "Creating a Lookup Table"
 sidebar_position: 1
 ---
 
-
 Click the **Lookup Tables** menu item to access the Lookup Tables panel.
 
 Koodisi enables you to create lookup tables in two ways, from a blank table and by uploading a CSV file.
@@ -65,7 +64,7 @@ Here's a sample CSV file that you can download, update as appropriate, and impor
 
 Download sample CSV file: [Pay Rates.csv](../../../../assets/images/Pay Rates.csv)
 
-## &#x20;Adding Values to Lookup Tables
+## Adding Values to Lookup Tables
 
 Once your lookup table is created, you can now add values to it whenever you're ready. Click **Add new row** to start adding lookup values. For details on the fields available, see [#creating-a-lookup-table-using-a-blank-table](creating-a-lookup-table.md#creating-a-lookup-table-using-a-blank-table "mention").
 
@@ -97,7 +96,7 @@ To rename a lookup table:
 
 1. Click on the lookup table in the Lookup Tables panel.\
    Details of that lookup table appear.
-2. Hover over the Name of the Lookup Table in the main section of the page and select the **Edit** icon that appears.&#x20;
+2. Hover over the Name of the Lookup Table in the main section of the page and select the **Edit** icon that appears.
 3. Update the name and press \<Enter>.
 
 :::info

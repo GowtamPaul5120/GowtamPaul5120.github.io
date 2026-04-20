@@ -3,11 +3,10 @@ title: "Publish, Deploy, and Test the Workflow"
 sidebar_position: 4
 ---
 
-
 Publishing, deploying, and testing are the final steps to make your workflows and applications ready for use.
 
-1. Publishing saves a version of the workflow and prepares it for deployment.&#x20;
-2. Deployment moves the workflow to a specific environment, such as Development or Production.&#x20;
+1. Publishing saves a version of the workflow and prepares it for deployment.
+2. Deployment moves the workflow to a specific environment, such as Development or Production.
 3. Testing checks that the workflow works correctly before others start using it.
 
 ## **Publish Your Workflow**

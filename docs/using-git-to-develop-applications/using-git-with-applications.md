@@ -3,7 +3,6 @@ title: "Using Git with Applications"
 sidebar_position: 6
 ---
 
-
 This topic offers guidance on how you can perform key Git-related tasks while working with applications in Koodisi.
 
 :::info
@@ -33,9 +32,9 @@ This section offers the following key controls:
 
 ### Updating Git Credentials
 
-Since multiple users access the same application, it's crucial to allow them to **switch to their individual Git credentials** at the start of their work session.&#x20;
+Since multiple users access the same application, it's crucial to allow them to **switch to their individual Git credentials** at the start of their work session.
 
-To update the Git credentials that you want to use to work with a specific application:&#x20;
+To update the Git credentials that you want to use to work with a specific application:
 
 1. Click the **Credentials** icon adjacent to the Version Control section.\
    The Update Git Credentials modal appears.
@@ -44,9 +43,9 @@ To update the Git credentials that you want to use to work with a specific appli
 
 ## The Changes Tab
 
-After you create your Git-enabled application, you can work with it as usual, adding workflows, schemas, and resources, as required.&#x20;
+After you create your Git-enabled application, you can work with it as usual, adding workflows, schemas, and resources, as required.
 
-Every change you make, however, gets listed in the Changes tab of the Git side panel.&#x20;
+Every change you make, however, gets listed in the Changes tab of the Git side panel.
 
 1. Once you're ready to push your changes into your Git repository, click the **Changes** tab in the Git side panel to review the updates you've made.
 2. Select the changes that you want to push and click the **Stage All Changes** (**+)** icon adjacent to the Changes node to stage them before they're committed. To stage all your changes, select the Changes node and click **Stage All Changes**.
@@ -110,7 +109,7 @@ Your changes are now stashed, and you can view them in the Stash tab. Also, you 
 
 ### Applying Stashes
 
-Whenever you're ready to resume work on your stashed changes, navigate to the **Stash** tab, click the **Ellipsis** icon adjacent to your stash, and select **Apply**. This creates a copy of your stashed changes and pushes them back to Stage.&#x20;
+Whenever you're ready to resume work on your stashed changes, navigate to the **Stash** tab, click the **Ellipsis** icon adjacent to your stash, and select **Apply**. This creates a copy of your stashed changes and pushes them back to Stage.
 
 Instead of applying the stash, you can also choose to **Apply and Delete**. This moves your stashed changes to Stage and deletes your stash.
 

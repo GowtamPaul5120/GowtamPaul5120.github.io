@@ -3,7 +3,6 @@ title: "NxAgent - User Guide"
 sidebar_position: 7
 ---
 
-
 > **NxAgent** is Koodisi's built-in AI assistant. Tell it what you want to build, investigate, or understand — it handles the rest. Chat. Design. Build.
 
 ---
@@ -200,7 +199,7 @@ NxAgent has three modes. Select from the **mode dropdown** in the bottom-left of
 
 **Q: Can I edit a message I already sent?** A: Yes. Hover over any past message and click the **edit icon**. The conversation rolls back to that point so you can revise and resend.
 
-**Q: How do I make NxAgent aware of my organization's internal systems?** A: Your Organization Administrator can upload **AI Skills** under **Settings → Organization → AI Skills**. See the&#x20;
+**Q: How do I make NxAgent aware of my organization's internal systems?** A: Your Organization Administrator can upload **AI Skills** under **Settings → Organization → AI Skills**. See the
 
 ![](https://vscode-file/vscode-app/Applications/Antigravity.app/Contents/Resources/app/extensions/theme-symbols/src/icons/files/markdown.svg)
 

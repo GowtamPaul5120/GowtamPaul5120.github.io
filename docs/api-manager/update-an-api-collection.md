@@ -3,8 +3,7 @@ title: "Update an API Collection"
 sidebar_position: 3
 ---
 
-
-&#x20;Update the Collection&#x20;
+Update the Collection
 
 To update the collection, click the Edit button, make the necessary changes, and click Update.
 

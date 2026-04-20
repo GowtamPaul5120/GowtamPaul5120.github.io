@@ -3,7 +3,6 @@ title: "Creating Schemas"
 sidebar_position: 1
 ---
 
-
 To create a schema:
 
 1. Navigate to the **Schemas** section in the application.
@@ -14,7 +13,7 @@ To create a schema:
       1. Click **Upload** to browse for the schema you want to import from your system.
       2. Select the schema file that you want to import and click **Open**.\
          The file is now imported.
-      3. Click **Import**.&#x20;
+      3. Click **Import**.
    2. **Paste schema content into a new schema.**
       1. Click **Paste in Editor** to copy the contents of your schema and paste it directly into a file in Koodisi.\
          The NewSchema page appears.

@@ -3,7 +3,6 @@ title: "Managing Your Profile"
 sidebar_position: 1
 ---
 
-
 To view or update your profile, navigate to the Settings > Account > Profile page.
 
 The Profile page comprises three tabs: General, Permissions, and Team. Click on each to review or update related details.
@@ -24,7 +23,7 @@ In the General tab:
 
 ## Reviewing your Permissions
 
-Click the **Permissions** tab to review your access privileges.&#x20;
+Click the **Permissions** tab to review your access privileges.
 
 The Permissions tab is divided into two sections: Organization and Workspace. Select each subtab to see the permissions you have at the corresponding level.
 

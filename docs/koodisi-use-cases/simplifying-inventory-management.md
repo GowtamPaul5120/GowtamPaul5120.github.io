@@ -3,10 +3,9 @@ title: "Simplifying Inventory Management"
 sidebar_position: 2
 ---
 
-
 Automating inventory management provides real-time visibility into stock levels, allowing businesses to optimize their inventory and minimize carrying costs. This optimization prevents stockouts that can lead to lost sales and ensures that capital isn't tied up in excess inventory, both of which contribute to a healthier bottom line and greater organizational success.
 
-Here are a few instances of the direct gains that inventory management automation with Koodisi can offer.&#x20;
+Here are a few instances of the direct gains that inventory management automation with Koodisi can offer.
 
 1. **Accurate Stock Tracking**
    - Automate updates for stock levels across multiple sales and warehouse systems.

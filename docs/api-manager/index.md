@@ -3,14 +3,13 @@ title: "API Manager"
 sidebar_position: 12
 ---
 
-
 The **API Manager** is a centralized tool for managing and distributing API collections across workspaces. It provides features for creating, publishing, and managing APIs, ensuring efficient access control, enhanced security, and streamlined client interactions.
 
 ### 1.Create & Publish API Collections
 
 1. **Create an API Collection**
 
-&#x20;• Navigate to Settings from the left sidebar and click on Create Collections.
+• Navigate to Settings from the left sidebar and click on Create Collections.
 
 <img src={require('../../assets/images/image (36).png').default} />
 
@@ -28,9 +27,9 @@ The created collection will appear on the API Collections page. Click on the col
 
 <img src={require('../../assets/images/image (39).png').default} />
 
-3\. Update the Collection&#x20;
+3\. Update the Collection
 
-&#x20; To update the collection, click the Edit button, make the necessary changes, and click Update.
+To update the collection, click the Edit button, make the necessary changes, and click Update.
 
 <img src={require('../../assets/images/image (40).png').default} />
 
@@ -50,7 +49,7 @@ Published collections are accessible on the API Collections page within the API 
 
 2\. Create and Invite Clients
 
-&#x20; To create a new client, navigate to the Clients page in the API Manager and click Create Client.
+To create a new client, navigate to the Clients page in the API Manager and click Create Client.
 
 <img src={require('../../assets/images/image (43).png').default} />
 
@@ -64,7 +63,7 @@ Published collections are accessible on the API Collections page within the API 
 
 #### 2. Create Access Profile
 
-&#x20; To create an access profile, click on the client name and navigate to the Create Access Profiles page.
+To create an access profile, click on the client name and navigate to the Create Access Profiles page.
 
 <img src={require('../../assets/images/image (46).png').default} />
 
@@ -76,9 +75,9 @@ Published collections are accessible on the API Collections page within the API 
 
 <img src={require('../../assets/images/image (48).png').default} />
 
-#### &#x20; 3. Generate Access Tokens
+#### 3. Generate Access Tokens
 
-&#x20; Access the Create Access Profiles page to view and manage tokens.
+Access the Create Access Profiles page to view and manage tokens.
 
 <img src={require('../../assets/images/image (49).png').default} />
 

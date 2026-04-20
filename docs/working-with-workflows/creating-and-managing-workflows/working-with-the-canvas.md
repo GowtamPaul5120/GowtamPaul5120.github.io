@@ -3,8 +3,7 @@ title: "Working with the Canvas"
 sidebar_position: 7
 ---
 
-
-Use the canvas to design your workflow.&#x20;
+Use the canvas to design your workflow.
 
 ## Adding Activities
 

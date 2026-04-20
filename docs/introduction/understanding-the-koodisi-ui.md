@@ -3,15 +3,14 @@ title: "Understanding the Koodisi UI"
 sidebar_position: 8
 ---
 
-
 Here's a graphic that illustrates key components of the Koodisi UI.
 
 <img src={require('../../assets/images/Koodisi_UI_Components (3).png').default} />
 
-## 1. The Application Header&#x20;
+## 1. The Application Header
 
-- Displays breadcrumbs to help you easily track your location within the Koodisi component structure.&#x20;
-- The right side of the header contains a toolbar that enables you to perform deployment-related tasks on workflows.&#x20;
+- Displays breadcrumbs to help you easily track your location within the Koodisi component structure.
+- The right side of the header contains a toolbar that enables you to perform deployment-related tasks on workflows.
 - The header's right corner displays the current workflow. Click it to switch workflows.
 
 ## 2. The Main Menu

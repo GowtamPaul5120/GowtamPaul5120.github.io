@@ -2,11 +2,10 @@
 title: "VerifySignature"
 ---
 
-
 ## Description
 
 Confirms whether content hasn’t been tampered with and comes
-&#x20;from a trusted source.
+from a trusted source.
 
 ## Configuration
 

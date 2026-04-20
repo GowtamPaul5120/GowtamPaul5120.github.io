@@ -3,16 +3,15 @@ title: "Components of an Application"
 sidebar_position: 2
 ---
 
-
 Here's a graphic that illustrates the key components that make Koodisi work.
 
 <div data-full-width="true"><img src={require('../../assets/images/Koodisi components.png').default} /></div>
 
 ## Organization
 
-An organization represents the business entity within which you've deployed Koodisi and is the highest-level component in the application.&#x20;
+An organization represents the business entity within which you've deployed Koodisi and is the highest-level component in the application.
 
-Depending on the scale of your enterprise and your need to segregate processes and portfolios across departments or regions, you may want to deploy separate instances of Koodisi across your enterprise.&#x20;
+Depending on the scale of your enterprise and your need to segregate processes and portfolios across departments or regions, you may want to deploy separate instances of Koodisi across your enterprise.
 
 :::info
 Only an administrator can manage organizations.
@@ -44,13 +43,13 @@ Workflows define the sequence of operations or processes within an application, 
 
 For more information on workflows, see [working-with-workflows](/docs/working-with-workflows).
 
-## **Activities**&#x20;
+## **Activities**
 
 Activities are the core tasks or functions in a workflow, such as sending a request, processing data, or triggering an event.
 
 ## Mappings
 
-Mappings are configurations within activities that identify the data that is transferred from one step to another. They link output values from the previous activity to the input fields of the next one in the workflow.&#x20;
+Mappings are configurations within activities that identify the data that is transferred from one step to another. They link output values from the previous activity to the input fields of the next one in the workflow.
 
 - **Transition Lines**\
   Transition lines visually connect activities, showing the logical flow and sequence of operations in the workflow.

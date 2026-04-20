@@ -3,7 +3,6 @@ title: "Creating API Collections"
 sidebar_position: 1
 ---
 
-
 To create an API collection:
 
 1. Navigate to the Settings > Workspace > API Collections page and click **Create Collection**.\
@@ -16,4 +15,4 @@ To create an API collection:
 To copy the path to an application or workflow API that you added to the collection, hover over the API and click the **Copy Path** icon.
 :::
 
-4. Click **Create**.&#x20;
+4. Click **Create**.

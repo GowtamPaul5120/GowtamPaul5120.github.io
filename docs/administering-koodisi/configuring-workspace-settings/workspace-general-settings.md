@@ -3,7 +3,6 @@ title: "Workspace General Settings"
 sidebar_position: 1
 ---
 
-
 The Workspace General Settings section enables you to:
 
 - [Make the workspace you are in your default](workspace-general-settings.md#workspace-settings)
@@ -13,25 +12,25 @@ The Workspace General Settings section enables you to:
 
 ## Setting a Workspace as Your Default <a href="#workspace-settings" id="workspace-settings"></a>
 
-It's a good idea to set a default workspace, so you can quickly resume work upon signing in.&#x20;
+It's a good idea to set a default workspace, so you can quickly resume work upon signing in.
 
 To make a workspace your default, go to Workspace Settings and turn on **Set as default workspace**.
 
-## Setting a Workspace as Private or Public&#x20;
+## Setting a Workspace as Private or Public
 
 :::info
 Only administrators can enable private workspaces and manage workspace team members.
 :::
 
-When a workspace is private, it is accessible only to organization administrators, who have complete access to it, and workspace members, who have specific permissions granted by the administrator.&#x20;
+When a workspace is private, it is accessible only to organization administrators, who have complete access to it, and workspace members, who have specific permissions granted by the administrator.
 
-If a workspace is public, it is accessible to anyone with appropriate permissions.&#x20;
+If a workspace is public, it is accessible to anyone with appropriate permissions.
 
 By default, workspaces are public. To make a workspace private:
 
-1. Go to Workspace Settings and toggle the **Private** switch on.&#x20;
+1. Go to Workspace Settings and toggle the **Private** switch on.
 2. Review the warning message that appears and click **Confirm**.\
-   The toggle is set to Private, and the Collaboration tab appears. Use it to manage teams and users who must have access to the workspace. &#x20;
+   The toggle is set to Private, and the Collaboration tab appears. Use it to manage teams and users who must have access to the workspace.
 
 ## **Managing Workspace Teams and Team Members**
 
@@ -61,7 +60,7 @@ You must assign team members at least one permission before you can save your ch
 :::
 
 4. Click **Save**.\
-   Your team updates are saved, and the Collaboration tab reappears.&#x20;
+   Your team updates are saved, and the Collaboration tab reappears.
 
 #### Modifying Team Member Permissions
 
@@ -78,7 +77,7 @@ To remove a team member from a workspace, click the **Remove** icon adjacent to 
 
 ### Managing Workspace Teams
 
-The Collaboration > **Teams** subtab displays all the teams currently associated with a workspace.&#x20;
+The Collaboration > **Teams** subtab displays all the teams currently associated with a workspace.
 
 #### Adding Teams to a Workspace
 
@@ -96,7 +95,7 @@ You must assign a team at least one permission before you can save your changes.
 :::
 
 4. Click **Save**.\
-   Your team updates are saved, and the Collaboration tab reappears.&#x20;
+   Your team updates are saved, and the Collaboration tab reappears.
 
 #### Modifying Team Permissions
 
@@ -128,11 +127,11 @@ To add a deployment approver:
 1. Click **Manage Approvers** in the Workspace General Settings page.\
    The Manage Approvers side panel appears.
 2. Use the **Add Approvers** field to search and add team members in your workspace who must have the ability to review and approve deployments.
-3. Click **Save**.&#x20;
+3. Click **Save**.
 
 ### Removing Deployment Approvers
 
-To remove a team member from the list of deployment approvers:&#x20;
+To remove a team member from the list of deployment approvers:
 
 1. Click **Manage Approvers** in the Workspace General Settings page.\
    The Manage Approvers side panel appears.

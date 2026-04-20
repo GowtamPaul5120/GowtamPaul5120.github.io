@@ -3,10 +3,9 @@ title: "Deleting Git Applications"
 sidebar_position: 8
 ---
 
+The steps involved and implications of deleting Git applications can vary depending on whether the application belongs to a single-module or multi-module repository.
 
-The steps involved and implications of deleting Git applications can vary depending on whether the application belongs to a single-module or multi-module repository.&#x20;
-
-- In single-module applications, deletion removes the application only from the workspace.&#x20;
+- In single-module applications, deletion removes the application only from the workspace.
 - In multi-module repositories, deletion can impact the entire repository, potentially removing tracked files and affecting other linked applications. Users are given two options: **Remove** (non-destructive) and **Delete** (destructive). Therefore, understanding the repository structure is essential before proceeding.
 - There's no Remove option available to single-module repositories because there are no repository-level dependencies between applications.
 

@@ -3,7 +3,6 @@ title: "Creating and Updating Variables and Variable Groups"
 sidebar_position: 1
 ---
 
-
 ## Creating Variable Groups
 
 To create a variable group:
@@ -13,7 +12,7 @@ To create a variable group:
    The Variables side panel appears.
 3. Click the + icon and select **Create Group** from the options that appear. The application saves variables in groups, enabling you to store related variables together. \
    A new row appears in your list of variable groups.
-4. &#x20; Enter a clear and descriptive name for your variable group and press **\<Enter>**. (Examples: `UserDetails`, `OrderManagement`).\
+4. Enter a clear and descriptive name for your variable group and press **\<Enter>**. (Examples: `UserDetails`, `OrderManagement`).\
    Your group is now created.
 
 ## Adding a Variable to a Variable Group
@@ -27,7 +26,7 @@ To add a variable to an existing group:
 4. Click the **Add Variable** link.\
    A row gets added to your existing list of variables.
 5. Click the **Scope** icon to view and update the scope of the variable. By default, variables are available at the application level, but you can customize specific variables to be available to a specific deployment or client.
-   1. **Scope: Application**: The variable will be available to all users  with access to the application, who can reference these variables in workflows in the application.
+   1. **Scope: Application**: The variable will be available to all users with access to the application, who can reference these variables in workflows in the application.
    2. **Scope: Deployment**: The variable will be available during deployment and continue to pass appropriate values whenever related workflows are triggered post-deployment.
    3. **Scope: Client**: The variable will be available to authorized client team members, who can manage the variable securely, while users can continue to reference the variable without needing to understand the details it retrieves.
 6. Click the **Data Type** icon and select the data type to which your variable belongs. By default, this is set to _String_.
