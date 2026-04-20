@@ -30,7 +30,7 @@ Enables you to write content to a specific file in an Amazon S3 bucket.
 | Append                         | Optional | If checked (True) and a file with the specified File Path and File Name already exists, the new content will be added to the end of the existing file. If unchecked (False), the behavior will depend on whether "Overwrite" is checked. This option is typically useful for logging or accumulating data over time within a single file.                                           | True                                                                                                                                                                                                                                                                                                                                      |
 | Write New Line                 | Optional | <p>This option is relevant when the "Append" option is checked or when writing plain text files. </p><p>If checked (True), the system will automatically add a newline character (\n) to the end of the content being written. </p><p>This ensures that subsequent appends start on a new line, making the file more readable, especially for log files or line-delimited data.</p> | True                                                                                                                                                                                                                                                                                                                                      |
 
-![S3Write Configuration](../../../../../assets/images/S3Write-Configuration.png)
+
 
 ## Input
 

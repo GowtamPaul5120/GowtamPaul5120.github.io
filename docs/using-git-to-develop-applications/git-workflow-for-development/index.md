@@ -74,7 +74,7 @@ After a subflow is successfully merged:
 
 · This keeps the workspace clean and avoids confusion about which branches are still active.
 
-<img src={require('../../../assets/images/image.png').default} />
+
 
 ### 3. Best Practices to Avoid Merge Conflicts
 

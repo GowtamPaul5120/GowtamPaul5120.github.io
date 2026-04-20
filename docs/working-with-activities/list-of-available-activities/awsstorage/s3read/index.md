@@ -27,7 +27,7 @@ Enables you to read a file in an Amazon S3 bucket.
 | Compression Type | Optional | The type of compression applied to the file. This is necessary to decompress the file content after reading it from S3.                                                                                                                                                                                                 | ZIP                                                                                                                                                                                                                                                                                                                                               |
 | Buffer Size      | Optional | The size of the buffer (in Bytes) to use when reading the file from S3. This can impact performance, especially for large files. A larger buffer might improve read speeds but consume more memory.                                                                                                                     | 8192                                                                                                                                                                                                                                                                                                                                              |
 
-![S3Read Configuration](../../../../../assets/images/S3Read-Configuration.png)
+
 
 ## Input
 

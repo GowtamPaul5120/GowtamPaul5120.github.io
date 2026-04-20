@@ -45,7 +45,7 @@ Displays aggregated data for all applications within a selected user workspace.
 - **Filters:** Search by application name, environment (Development/Production), or time range.
 - **Pagination and Sorting:** Customize the display with pagination options (10–100 rows per page) and sort by key metrics.
 
-<img src="../assets/images/Metrics-Application.gif" alt=""/>
+
 
 ---
 
@@ -66,7 +66,7 @@ Provides workflow-specific metrics within an application.
 - **Filters:** Filter workflows by name, environment, or time range.
 - **Pagination and Sorting:** Options to paginate and sort by metrics like Error Count or Latency.
 
-<img src="../assets/images/Metrics-Workflow.gif" alt=""/>
+
 
 ---
 
@@ -86,7 +86,7 @@ Details execution traces for selected workflows.
 - **Filters:** Narrow down results by environment or time range.
 - **Sorting:** Arrange data by workflow version, start time, or duration.
 
-<img src="../assets/images/Metrics-workflow-Execution.gif" alt=""/>
+
 
 ---
 
@@ -101,7 +101,7 @@ Provides an in-depth view of a single workflow execution.
 - **Activity Details:** Execution time, input/output data, and subflow links.
 - **Error Analysis:** Displays error details for debugging and optimization.
 
-<img src="../assets/images/Metrics-ExecutionTraces.gif" alt=""/>
+
 
 ### Searching Traces in Koodisi
 
@@ -112,7 +112,7 @@ Koodisi allows users to search and filter traces for deeper insights into workfl
 - Navigate to the Metrics section from the main menu.
 - Switch to the Traces tab.
 
-<img src="../assets/images/A screenshot of a computer__Description automatically generated.png" alt=""/>
+
 
 #### 2. Click on Search using query to open the query builder.
 

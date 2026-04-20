@@ -17,8 +17,8 @@ The For Each loop iterates over variables in an array. The array to iterate over
 
 #### Configuration Example
 
-![For Each Loop Configuration](../../../../../../assets/images/image (28).png)
+.png)
 
 #### Mapping Example
 
-![For Each Loop Mapping](../../../../../../assets/images/image (29).png)
+.png)

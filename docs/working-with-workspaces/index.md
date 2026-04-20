@@ -36,6 +36,6 @@ You can also access workspaces from the Koodisi main page.
    The Workspaces page appears.
 3. **Search** for and click on the workspace to which you want to navigate..
 
-![Workspace Overview](pathname://../../../assets/images/Workspace-Overview.gif)
+
 
 This illustrates how users can access workspaces.

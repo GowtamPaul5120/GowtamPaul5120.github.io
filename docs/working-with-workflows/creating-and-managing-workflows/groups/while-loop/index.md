@@ -18,4 +18,4 @@ Condition Field: Set the condition that controls the loop execution.
 
 #### Configuration Example <a href="#id-2.3_repeat_until" id="id-2.3_repeat_until"></a>
 
-![While Loop Configuration](../../../../../assets/images/image (30).png)
+.png)

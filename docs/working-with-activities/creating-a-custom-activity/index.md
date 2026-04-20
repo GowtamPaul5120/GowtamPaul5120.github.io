@@ -3,7 +3,6 @@ title: "Creating a Custom Activity"
 sidebar_position: 2
 ---
 
-
 The **Custom Activity** feature allows you to create reusable activities tailored to your specific business needs. These activities can encapsulate custom logic, integrations, or data transformations, enabling efficient workflows and enhanced productivity. Custom activities can be simple or involve advanced integrations like subflows, resources, and lookups.
 
 ---
@@ -17,8 +16,6 @@ Follow these steps to create and configure a custom activity in Koodisi
 - Create a new workspace dedicated to managing your bundle applications.
 - Inside this workspace, create a **Bundle type application**, which is required for managing custom activities.
 
-  _(Add a screenshot or GIF showing the creation of a Bundle application.)_
-
 ### **2. Build or Import Workflow**
 
 - Design or import the workflow that includes the activity you want to save as a custom activity.
@@ -31,8 +28,6 @@ Follow these steps to create and configure a custom activity in Koodisi
 
 - Right-click on the activity in your workflow that you wish to save and select **Save as Custom Activity**.
 
-  _(Include a screenshot or GIF showing this step.)_
-
 ### **5. Add Custom Activity Details**
 
 - Fill in the following details
@@ -42,15 +37,11 @@ Follow these steps to create and configure a custom activity in Koodisi
   - **Access Level:** By default, activities are accessible across the organization.
   - **Icon:** Choose from existing icons or upload a custom SVG file (only SVG format is supported).
 
-  _(Insert a screenshot or GIF of the form for entering these details.)_
-
 ### **6. Configure Layout**
 
 - In the **Configuration** step
   - All fields are hidden by default. Use the layout builder to drag and drop necessary fields for user customization.
   - **Note:** Input and Output tabs are mandatory and cannot be hidden.
-
-  _(Add a screenshot or GIF of the layout builder in action.)_
 
 ### **7. Review and Save**
 
@@ -72,8 +63,6 @@ For advanced configurations, you can create custom activities using subflows and
 - Use the activity builder to configure the custom activity
   - Hide unnecessary fields from the end-user.
   - Include resource fields by dragging them into the layout. These fields must be configured by the user.
-
-  _(Insert a screenshot or GIF showing how to configure fields.)_
 
 ### **3. Review and Save**
 

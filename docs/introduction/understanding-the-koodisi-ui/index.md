@@ -5,7 +5,7 @@ sidebar_position: 8
 
 Here's a graphic that illustrates key components of the Koodisi UI.
 
-<img src={require('../../../assets/images/Koodisi_UI_Components (3).png').default} />
+
 
 ## 1. The Application Header
 

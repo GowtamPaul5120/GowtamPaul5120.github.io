@@ -32,7 +32,7 @@ The ReadABSFile Configuration panel has four tabs: Configuration, Advanced, Inpu
 | Compression Type    | Optional                                   | The compression type used on the file.                                                                                                                                                                                                                                                                                | ZIP                                                                                                                                                                                                                                                                                                                                                         |
 | Buffer Size         | Optional                                   | The amount of data that must be read from ABS into memory at one time before being read. Enter this value in KB.                                                                                                                                                                                                      | 10240                                                                                                                                                                                                                                                                                                                                                       |
 
-![ReadABSFile Configuration](../../../../../assets/images/ReadABSFile.png)
+
 
 ### Input
 

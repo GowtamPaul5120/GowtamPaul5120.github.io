@@ -15,7 +15,7 @@ Deployment Profiles offer a structured and repeatable approach to application de
 To create a deplyment profile for an application:
 
 1. Navigate to the application for which you want to create a deployment profile.
-2. Click the **Profiles** ![](../../../assets/images/Profiles-Icon.png) icon.\
+2. Click the **Profiles**  icon.\
    The Profiles side panel appears.
 3. Click **Create Profile**.\
    The Profile modal

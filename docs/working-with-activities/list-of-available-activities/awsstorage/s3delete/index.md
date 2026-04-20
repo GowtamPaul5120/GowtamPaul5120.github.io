@@ -23,7 +23,7 @@ Enables users to delete a specific file from an Amazon S3 bucket from within a w
 | File Path   | Required | <p>The path within the specified S3 bucket that leads to the folder containing the file to be deleted.</p><p></p><p><strong>Note</strong></p><p><em>While entering the path, only include the virtual directories without adding the bucket name, because the buck name is already specified (see Bucket Name, above).</em></p> | <p>For example, consider the following complete path:</p><p><code>production-logs-s3/instance-a/2025/03/28/</code></p><p>In this complete path:</p><ul><li><code>production-logs-s3</code> is the bucket that contains the file that you want to delete.</li><li><code>instance-a/2025/03/28</code> is the path to the file.</li></ul> |
 | File Name   | Required | The name of the file(s) that you want to delete.                                                                                                                                                                                                                                                                                | access_log\_\*.gz                                                                                                                                                                                                                                                                                                                      |
 
-![S3Delete Configuration](../../../../../assets/images/S3Delete-Configuration.png)
+
 
 ## Input > Target
 

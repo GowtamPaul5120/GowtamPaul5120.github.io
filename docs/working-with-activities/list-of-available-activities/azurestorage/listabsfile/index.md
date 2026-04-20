@@ -31,7 +31,7 @@ The ListABSFile Configuration panel has four tabs: Configuration, Advanced, Inpu
 | Recursive      | Optional | Instructs the application to retrieve matching blobs recursively from child folders.                                                                                                                                                                                                                                        | Deselected                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Descending     | Optional | Instructs the application to display results in alphabetically descending order.                                                                                                                                                                                                                                            | Deselected                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-![ListABSFiles Configuration](../../../../../assets/images/ListABSFiles.png)
+
 
 See the Advanced Configuration section below for more details.
 

@@ -86,7 +86,7 @@ If you want to export/download a particular version:
 
 The Publication History side panel enables you to view the various versions of a schema. You can also perform specific tasks on each.
 
-To view the publication history of a schema, click the **Publication History** (![](../../../assets/images/Publication_History.png)) icon in the toolbar.
+To view the publication history of a schema, click the **Publication History** () icon in the toolbar.
 
 The Publication History side panel enables you to perform the following tasks:
 
@@ -98,7 +98,7 @@ The Publication History side panel enables you to perform the following tasks:
 
 To preview the contents of a schema version, click the ellipsis icon adjacent to it and, from the drop-down list that appears, select **Preview**. A read-only display of the contents of the schema version appears.
 
-Click the Collapse (![](../../../assets/images/Preview-Collapse.png)) icon in the top-right corner of the preview to close it.
+Click the Collapse () icon in the top-right corner of the preview to close it.
 
 ### Copying the Link to a Schema Version
 

@@ -201,7 +201,7 @@ NxAgent has three modes. Select from the **mode dropdown** in the bottom-left of
 
 **Q: How do I make NxAgent aware of my organization's internal systems?** A: Your Organization Administrator can upload **AI Skills** under **Settings → Organization → AI Skills**. See the
 
-![](https://vscode-file/vscode-app/Applications/Antigravity.app/Contents/Resources/app/extensions/theme-symbols/src/icons/files/markdown.svg)
+
 
 NxAgent AI Skills Guide for details.
 

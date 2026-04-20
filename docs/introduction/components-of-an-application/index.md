@@ -5,7 +5,7 @@ sidebar_position: 2
 
 Here's a graphic that illustrates the key components that make Koodisi work.
 
-<div data-full-width="true"><img src={require('../../../assets/images/Koodisi components.png').default} /></div>
+<div data-full-width="true"></div>
 
 ## Organization
 

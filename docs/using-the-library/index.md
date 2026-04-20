@@ -12,7 +12,7 @@ The **Library** is a centralized feature designed to manage and utilize reusable
 
 - Open the **Library** option from the side menu of the platform.
 
-<img src="../assets/images/activities-Access.gif" alt=""/>
+
 
 ### **2. Installing Activities**
 
@@ -20,14 +20,14 @@ The **Library** is a centralized feature designed to manage and utilize reusable
 - Search for the desired activity using the search bar.
 - Click the **Install** button next to the activity to add it to your environment.
 
-<img src="../assets/images/Activities-Installing.gif" alt=""/>
+
 
 ### **3. Updating Activities**
 
 - If an installed activity has a newer version available, the system will display an **Update** option.
 - Click **Update** to replace the current version with the latest one.
 
-<img src="../assets/images/Activities-Update.gif" alt=""/>
+
 
 ### **4. Creating New Custom Activities**
 

@@ -26,4 +26,4 @@ To create a schema:
       2. Click **Import**.
 4. After your schema is imported, the system displays its contents, and you can update and save the schema as required. For details on working with the Schema Editor, see Editing Schemas.
 
-You can also include definitions (reusable schema-blocks or sub-schemas) in your schema. To view and update (depending on your permissions) the list of definitions created in Koodisi, click the **Definitions** ![](../../../../assets/images/definitions-icon (1).png>) icon. For guidance on working with definitions, see [Creating and Managing Definitions](/docs/working-with-applications/managing-schemas/creating-and-managing-definitions).
+You can also include definitions (reusable schema-blocks or sub-schemas) in your schema. To view and update (depending on your permissions) the list of definitions created in Koodisi, click the **Definitions** .png>) icon. For guidance on working with definitions, see [Creating and Managing Definitions](/docs/working-with-applications/managing-schemas/creating-and-managing-definitions).

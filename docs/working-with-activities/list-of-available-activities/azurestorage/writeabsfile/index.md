@@ -34,7 +34,7 @@ The WriteABSFile Configuration panel has four tabs: Configuration, Advanced, Inp
 | Overwrite                      | Optional | Instructs the application to overwrite the existing file.                                                                                                                                                                                                                                                                | Deselected                                                                                                                                                                                                                                                                                                                                                             |
 | Append                         | Optional | Instructs the application to append the blob content to the blob file already present in ABS.                                                                                                                                                                                                                            | Deselected                                                                                                                                                                                                                                                                                                                                                             |
 
-![WriteABSFile Configuration](../../../../../assets/images/WriteABSFile.png)
+
 
 ### Advanced
 
@@ -46,7 +46,7 @@ The WriteABSFile Configuration panel has four tabs: Configuration, Advanced, Inp
 | Overwrite if Blob Exists       | Optional                          | If selected, overwrites the blob if one with the same name already exists.                                                                                                                     | Deselected        |
 | Append to Blob                 | Optional                          | If selected, appends the file content to an existing blob rather than overwriting it.                                                                                                          | Deselected        |
 
-![WriteABSFile Advanced Configuration](../../../../../assets/images/WriteABSFile_Advanced.png)
+
 
 ### Input
 

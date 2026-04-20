@@ -18,8 +18,6 @@ The **Test** feature enables users to
 2. **Select the Workflow Version**
    - Identify the workflow to test and click the **Test** button next to it.
 
-![Test Access](../../../../assets/images/Test-Access.gif)
-
 ---
 
 ### **2. Steps to Test a Workflow**
@@ -30,12 +28,8 @@ The **Test** feature enables users to
   1. Click the **Refresh Token** button in the **Test Panel**.
   2. A new authentication token is generated and applied automatically for secure testing.
 
-![Test Secure API](../../../../assets/images/Test-Secure.gif)
-
 - For **Public API** workflows
   - Authentication is not required. Proceed directly to defining the request details.
-
-![Test Public API](../../../../assets/images/Test-Public.gif)
 
 **Step 2: Define Request Details**
 
@@ -57,13 +51,9 @@ The **Test** feature enables users to
      }
      ```
 
-![Test Configuration](../../../../assets/images/Test-Config.gif)
-
 **Step 3: Execute the Test**
 
 - Click the Send button to send the request to the selected workflow version.
-
-![Test Execution](../../../../assets/images/Test-Use (1).gif)
 
 **Step 4: Analyze the Results**
 

@@ -18,4 +18,4 @@ Condition Field: Define the condition that breaks the loop.
 
 #### Configuration Example
 
-![Repeat Until True Loop Configuration](../../../../../assets/images/image (31).png)
+.png)
