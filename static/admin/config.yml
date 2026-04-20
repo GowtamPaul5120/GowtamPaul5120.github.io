@@ -6,7 +6,7 @@ backend:
   auth_endpoint: /auth
   open_authoring: false
 
-publish_mode: editorial_workflow
+# DELETE the publish_mode line entirely
 media_folder: static/img
 public_folder: /img
 
