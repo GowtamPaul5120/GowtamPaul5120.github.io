@@ -3,6 +3,7 @@
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
+  display: none;
 }
 
 .search-input-wrapper {
@@ -48,8 +49,12 @@
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 .search-results {
@@ -110,12 +115,12 @@
 }
 
 /* Dark mode adjustments */
-html[data-theme='dark'] .search-results {
+html[data-theme="dark"] .search-results {
   background: var(--ifm-background-surface-color);
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
 }
 
-html[data-theme='dark'] .search-result-item:hover {
+html[data-theme="dark"] .search-result-item:hover {
   background: var(--ifm-color-emphasis-100);
 }
 
@@ -125,7 +130,7 @@ html[data-theme='dark'] .search-result-item:hover {
     max-width: 100%;
     margin: 0 16px;
   }
-  
+
   .search-results {
     max-height: 300px;
   }
