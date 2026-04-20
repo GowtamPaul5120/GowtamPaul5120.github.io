@@ -1,0 +1,104 @@
+---
+title: "Publishing Workflows"
+sidebar_position: 11
+---
+
+### **1. Publish**
+
+**What is Publishing?**
+
+- Publishing locks a workflow into a specific, immutable version.
+- Published versions provide version control, allowing users to track changes and restore prior versions when needed.
+
+**Steps to Publish a Workflow**
+
+1. **Access the Publish Sidebar**
+   - Click the **Publish** button in the **header menu** to open the **Publish sidebar**.
+2. **Open the Publish Popup**
+   - Click the **+ icon** in the sidebar to start the publishing process.
+3. **Provide Version Details**
+   - Add a comment summarizing the changes in this version.\
+     Example: "Enhanced API validation and updated response schema."
+4. **Confirm and Publish**
+   - Click the **Publish** button to finalize. The workflow version is now locked and available for deployment.
+
+![Publish Workflow](../../../../assets/images/Publish.gif)
+
+---
+
+### **2. Deploy**
+
+**What is Deployment?**
+
+- Deployment executes a published version of a workflow in a target environment.
+- Users can deploy workflows as a **Secured API** or **Public API** in the **Development** environment by default.
+
+**Deployment Options**
+
+1. **Secured API**\
+   Provides restricted access to the workflow, requiring authentication such as API keys or tokens.
+2. **Public API**\
+   Offers open access to the workflow without authentication, ideal for public-facing use cases.
+
+**Steps to Deploy a Workflow**
+
+1. **Access the Deployment Page**
+   - Navigate to the **Deploy Page** via the workflow interface.
+2. **Select Deployment API Type**
+   - Choose **Secured API** or **Public API** based on the workflow’s access requirements.
+
+![Deploy Public API](../../../../assets/images/Deploy-Public.gif)
+
+![Deploy Secure API](../../../../assets/images/Deploy-Secure.gif)
+
+**Initiate Deployment**
+
+- Click the **Deploy** button. The most recently published version is automatically selected.
+
+---
+
+### **3. Promote**
+
+**What is Promotion?**
+
+- Promotion transitions a deployed workflow from the **Development** environment to the **Production** environment.
+- This process is managed through the **Promote** button on the **Deploy Page** and requires approval from designated approvers.
+
+**Steps to Promote a Workflow**
+
+1. **Access the Promote Option**
+   - Navigate to the **Deploy Page** and locate the deployed workflow.
+   - Click the **Promote** button next to the workflow.
+2. **Request Approval**
+   - Clicking **Promote** sends an approval request to designated users.
+   - Approvers review the workflow and either approve or reject the request.
+3. **Complete Promotion**
+   - Upon receiving all necessary approvals, the workflow is promoted to the **Production** environment.
+
+![Promote Workflow](../../../../assets/images/Promote.gif)
+
+---
+
+### **4. Rollback**
+
+**What is Rollback?**
+
+- Rollback allows users to restore a previously deployed workflow version in case the current version exhibits issues or errors.
+- This feature ensures business continuity by reverting to a stable state.
+
+**Steps to Rollback a Deployed Workflow**
+
+1. **Access the Deployment Page**
+   - Navigate to the **Deploy Page** where all deployed versions are listed.
+2. **Select the Version to Rollback**
+   - Locate the workflow version you wish to restore from the version history.
+3. **Initiate Rollback**
+   - Click the **Rollback** button associated with the selected version.
+   - Confirm the rollback action.
+
+![Rollback Workflow](../../../../assets/images/Rollback.gif)
+
+**Rollback Use Cases**
+
+- Resolving issues in the current workflow version that impact functionality.
+- Quickly restoring operations to a previously validated state.
