@@ -3,7 +3,6 @@ title: "Creating and Managing Definitions"
 sidebar_position: 7
 ---
 
-
 ## What are definitions?
 
 Definitions allow you to define common schema structures once and then reference them throughout your schemas, avoiding redundancy and simplifying maintenance.
@@ -50,7 +49,7 @@ To create a schema definition:
 
 1. Open a schema in Edit mode and click the **Definitions** ![](<../../../assets/images/definitions-icon (1).png>) icon.\
    The Definitions pane appears.
-2. Click the **+** icon at the top of the Definitions pane and enter a name for the definition you want to create.&#x20;
+2. Click the **+** icon at the top of the Definitions pane and enter a name for the definition you want to create.
 3. Click the definition to edit its details.\
    The Schema Editor appears.
 4. You can now directly create the schema using the Code View, or you can construct the schema using the Editor controls provided. See [#editing-schema-details-using-the-editor](editing-schemas.md#editing-schema-details-using-the-editor "mention") for more information.

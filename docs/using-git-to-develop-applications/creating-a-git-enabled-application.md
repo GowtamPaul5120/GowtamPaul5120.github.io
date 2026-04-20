@@ -3,7 +3,6 @@ title: "Creating a Git-Enabled Application"
 sidebar_position: 4
 ---
 
-
 You can create a Git-enabled application by:
 
 - Creating one application per repository, or
@@ -20,7 +19,7 @@ To create a single Git-enabled application:
 2. Click **New Application** to start from scratch.\
    If you wish to import an existing application from a Git repository, click **Clone from Git**.\
    \
-   For guidance on cloning applications from your Git account, see Cloning Applications from Git.&#x20;
+   For guidance on cloning applications from your Git account, see Cloning Applications from Git.
 3. Enter the **Name** and, optionally, click the **Use template** drop-down list to select the template you want to use to create it.
 4. Since you're creating a Git-enabled application, the Application Type must be _Orchestration_, which is also the default value. Leave this field unchanged.
 5. Enter a **Description** for your application.
@@ -29,7 +28,7 @@ To create a single Git-enabled application:
 7. Enter the **Remote URL** to your Git repository.
 8. Because you're creating a single Git-enabled application, leave the **Multi-Module Repository** check box deselected.
 9. You now need to provide the credentials required to log into your Git repository.
-   1. **Use existing credentials.**&#x20;
+   1. **Use existing credentials.**
       1. Click **Use Existing Credentials** if you've already saved your Git credentials and want to reuse them.
       2. Click the **Credential Name** field and, from the drop-down list that appears, select the credential you want to use.\
          The associated Username appears automatically.\
@@ -39,7 +38,7 @@ To create a single Git-enabled application:
       1. Click **New Credentials** to create a new set of Git credentials.
       2. Enter the **Credential Name**. This is the name that will be used to save the credential in the Credential Manager, which ties your user details with your account, making it unavailable for other users.
       3. Click and select the **Git Provider** where you've hosted your repository.
-      4. &#x20;Enter the **Username** and **Personal Access Token** in the fields provided.
+      4. Enter the **Username** and **Personal Access Token** in the fields provided.
    3. **Continue without credentials**. Choose this option if you do not want to save your credentials in Koodisi. You will be asked to enter your credentials manually every time you run any Git command.
 10. Click **Create**.
 
@@ -63,5 +62,5 @@ To create an application within a multi-module repository:
 You can now start working on the new application; the new application with all your updates will appear as an application under your multi-module repository.
 
 :::info
-&#x20;If you're creating a multi-module application, ensure that the name you provide for the application in Koodisi matches the application's name in the remote repository.
+If you're creating a multi-module application, ensure that the name you provide for the application in Koodisi matches the application's name in the remote repository.
 :::

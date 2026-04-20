@@ -3,7 +3,6 @@ title: "Editing Teams"
 sidebar_position: 2
 ---
 
-
 To update the details associated with a team:
 
 1. Navigate to the Settings > Organization > Teams page.
@@ -17,6 +16,6 @@ When you edit a team, you can update all its details, including its name, descri
 
 To remove a team member from a team:
 
-1. Edit the team to display the Edit Team page.&#x20;
+1. Edit the team to display the Edit Team page.
 2. Click the **Delete** icon adjacent to the user in the Edit Team page.
 3. Click **Delete Member** in the warning message that appears.

@@ -3,8 +3,7 @@ title: "Add Git to an Existing Application"
 sidebar_position: 5
 ---
 
-
-Say you've been working on an application and you want to bring in other team members. The Add Application to Git feature helps you do just that. Once your application is in Git, you can collaborate effectively with your team, start tracking all changes to your code, and easily revert to previous versions if something goes wrong.&#x20;
+Say you've been working on an application and you want to bring in other team members. The Add Application to Git feature helps you do just that. Once your application is in Git, you can collaborate effectively with your team, start tracking all changes to your code, and easily revert to previous versions if something goes wrong.
 
 To add an existing application to Git:
 

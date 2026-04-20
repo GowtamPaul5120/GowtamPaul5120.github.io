@@ -3,8 +3,7 @@ title: "Schema References in Koodisi"
 sidebar_position: 3
 ---
 
-
-Schema references (or definitions) allow you to modularize and reuse JSON schema components within and across integrations in Koodisi.&#x20;
+Schema references (or definitions) allow you to modularize and reuse JSON schema components within and across integrations in Koodisi.
 
 For guidance on working with definitions, see [creating-and-managing-definitions.md](/docs/working-with-applications/managing-schemas/creating-and-managing-definitions) . For details on using definitions in schemas, see [working-with-schema-references.md](/docs/working-with-applications/managing-schemas/working-with-schema-references).
 
@@ -48,23 +47,24 @@ To deploy mapped values:
 
 #### Schema Draft Syntax
 
-*   **Draft 4–7**:
+- **Draft 4–7**:
 
-    ```
-    #/definitions/<name>
-    ```
-*   **Draft 2019–2020**:
+  ```
+  #/definitions/<name>
+  ```
 
-    ```
-    #/$defs/<name>
-    ```
+- **Draft 2019–2020**:
+
+  ```
+  #/$defs/<name>
+  ```
 
 ### Recommendations
 
-* Modularize common schemas and reuse them across integrations.
-* Avoid deeply nested or cyclic references.
-* Use unique names across schemas to prevent mapping collisions.
-* Always test schemas and mappings before production deployment.
+- Modularize common schemas and reuse them across integrations.
+- Avoid deeply nested or cyclic references.
+- Use unique names across schemas to prevent mapping collisions.
+- Always test schemas and mappings before production deployment.
 
 ## External Ref Considerations
 

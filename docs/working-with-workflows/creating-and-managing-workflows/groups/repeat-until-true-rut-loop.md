@@ -3,12 +3,11 @@ title: "Repeat Until True (RUT) Loop"
 sidebar_position: 3
 ---
 
-
 Similar to the While loop, the Repeat Until True loop executes at least once and continues until a specified true condition is met. This loop can also use outputs from activities within the group to evaluate the condition.
 
 > Usage: This loop is useful when the group of activities needs to be executed at least once and may continue based on a dynamic condition checked after each iteration.
 
-#### &#x20;Configuration Options
+#### Configuration Options
 
 Condition Field: Define the condition that breaks the loop.
 

@@ -4,9 +4,9 @@ sidebar_position: 5
 ---
 
 
-&#x20; Create and Invite Clients
+ Create and Invite Clients
 
-&#x20; To create a new client, navigate to the Clients page in the API Manager and click Create Client.
+ To create a new client, navigate to the Clients page in the API Manager and click Create Client.
 
 <img src={require('../../assets/images/image (43).png').default} />
 
@@ -20,7 +20,7 @@ sidebar_position: 5
 
 #### 2. Create Access Profile
 
-&#x20; To create an access profile, click on the client name and navigate to the Create Access Profiles page.
+ To create an access profile, click on the client name and navigate to the Create Access Profiles page.
 
 <img src={require('../../assets/images/image (46).png').default} />
 
@@ -32,9 +32,9 @@ sidebar_position: 5
 
 <img src={require('../../assets/images/image (48).png').default} />
 
-#### &#x20; 3. Generate Access Tokens
+####  3. Generate Access Tokens
 
-&#x20; Access the Create Access Profiles page to view and manage tokens.
+ Access the Create Access Profiles page to view and manage tokens.
 
 <img src={require('../../assets/images/image (49).png').default} />
 

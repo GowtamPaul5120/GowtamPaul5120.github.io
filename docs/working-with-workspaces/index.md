@@ -3,10 +3,9 @@ title: "Working with Workspaces"
 sidebar_position: 6
 ---
 
-
 ## What is a workspace?
 
-Workspaces facilitate seamless collaboration and efficient management of shared applications and workflows. Use workspaces to organize resources, control access, and collaborate effectively within shared spaces.&#x20;
+Workspaces facilitate seamless collaboration and efficient management of shared applications and workflows. Use workspaces to organize resources, control access, and collaborate effectively within shared spaces.
 
 :::info
 Only an administrator can create workspaces.
@@ -14,7 +13,7 @@ Only an administrator can create workspaces.
 
 ## Public and Private Workspaces
 
-You can create two types of workspaces, public and private.&#x20;
+You can create two types of workspaces, public and private.
 
 ### Public Workspaces
 
@@ -28,9 +27,9 @@ Use private workspaces to ensure that only designated team members have access t
 
 The name of the workspace in which you're working is displayed in the top-right corner of the Koodisi header. To access a workspace, click the workspace name in the header and, from the list of available workspace, select the workspace to which you want to navigate.
 
-To view all workspaces, click **View All Workspaces**.&#x20;
+To view all workspaces, click **View All Workspaces**.
 
-You can also access workspaces from the Koodisi main page.&#x20;
+You can also access workspaces from the Koodisi main page.
 
 1. Click **Home** in the main menu to navigate to the Koodisi main page.
 2. In the Workspace card, click **View workspaces**. \

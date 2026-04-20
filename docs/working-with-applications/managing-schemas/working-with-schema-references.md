@@ -3,7 +3,6 @@ title: "Working with Schema References"
 sidebar_position: 8
 ---
 
-
 In Koodisi, schemas help define the structure and format of data that flows within workflows. Schema references are pointers to these schema definitions, ensuring that data handled across different activities and components follows the same consistent structure and format. This helps maintain data integrity and validation throughout your workflows.
 
 You can create schema references to locally managed schema definitions or to published schemas within or outside the Koodisi Schema Registry.
@@ -70,7 +69,7 @@ An external schema reference is any reference that isn't part of the schema. The
    1. Display the Property modal associated with the schema property that you want to associate with the schema to be reused.
    2. Paste the URL you copied into the **Reference** field.\
       \
-      Example: `https://schemas.koodisi.com/v1/address-schema.json`&#x20;
+      Example: `https://schemas.koodisi.com/v1/address-schema.json`
    3. Click **Apply**.
 
 :::info

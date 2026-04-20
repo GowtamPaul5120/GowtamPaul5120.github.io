@@ -3,7 +3,6 @@ title: "Cloning Git Applications"
 sidebar_position: 7
 ---
 
-
 To clone a Git-enabled application:
 
 1. Navigate to the Applications panel and click the **Create or Import Application** icon. From the options that appear, select **Create**.\
@@ -12,9 +11,9 @@ To clone a Git-enabled application:
    The Clone and Application modal appears.
 3. Enter a **Name** for the imported application.
 4. Navigate to your Git application, copy the URL of the remote application, and paste it in the **Remote URL** field.
-5. &#x20;Specify the Git-related details required.\
+5. Specify the Git-related details required.\
    For guidance on these details, see [creating-a-git-enabled-application.md](/docs/using-git-to-develop-applications/creating-a-git-enabled-application).
-6. Click **Create**.&#x20;
+6. Click **Create**.
 
 :::info
 Merge conflict resolution isn't supported in Koodisi at this time. However, here are a few best practices to avoid merge conflict situations:

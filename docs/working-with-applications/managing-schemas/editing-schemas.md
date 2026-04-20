@@ -3,7 +3,6 @@ title: "Editing Schemas"
 sidebar_position: 3
 ---
 
-
 To edit a schema:
 
 1. Navigate to the Schemas folder of the application that contains the schema you want to edit.
@@ -31,25 +30,25 @@ Published schemas can only be modified in the Schema Registry.
 
 The Schema Editor toolbar appears above the Schema Editor and offers the following controls:
 
-| Field           | Description                                                                                                                                                                                                               |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Undo            | Reverts the last change made to the schema. Useful for correcting mistakes.                                                                                                                                               |
-| Redo            | Re-applies an action that was previously undone.                                                                                                                                                                          |
+| Field           | Description                                                                                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Undo            | Reverts the last change made to the schema. Useful for correcting mistakes.                                                                                                                                                                                   |
+| Redo            | Re-applies an action that was previously undone.                                                                                                                                                                                                              |
 | Definitions     | Opens the Schema Definitions modal where you can view and edit shared components or reusable definitions. See [creating-and-managing-definitions.md](/docs/working-with-applications/managing-schemas/creating-and-managing-definitions)for more information. |
-| Discard         | Discards all unsaved changes made to the current schema.                                                                                                                                                                  |
-| Export          | Downloads the current schema in JSON format.                                                                                                                                                                              |
-| Code View       | Switches the editor to display raw schema code in JSON.                                                                                                                                                                   |
-| UI View         | Toggles the visual UI editor, offering a form-based way to edit the schema.                                                                                                                                               |
-| Save            | Saves the current schema. This typically updates the stored or working version.                                                                                                                                           |
-| Generate Schema | Automatically generates a schema based on defined prompts.                                                                                                                                                                |
-| Close           | Closes the schema.                                                                                                                                                                                                        |
+| Discard         | Discards all unsaved changes made to the current schema.                                                                                                                                                                                                      |
+| Export          | Downloads the current schema in JSON format.                                                                                                                                                                                                                  |
+| Code View       | Switches the editor to display raw schema code in JSON.                                                                                                                                                                                                       |
+| UI View         | Toggles the visual UI editor, offering a form-based way to edit the schema.                                                                                                                                                                                   |
+| Save            | Saves the current schema. This typically updates the stored or working version.                                                                                                                                                                               |
+| Generate Schema | Automatically generates a schema based on defined prompts.                                                                                                                                                                                                    |
+| Close           | Closes the schema.                                                                                                                                                                                                                                            |
 
 ### The Schema Editor
 
-Each row in the Editor refers to a schema element.&#x20;
+Each row in the Editor refers to a schema element.
 
 - At the top of the schema, you can see the root element.
-- If the element is a node, the Editor displays controls that enable you to expand or collapse the node.&#x20;
+- If the element is a node, the Editor displays controls that enable you to expand or collapse the node.
 - Similarly, if the element is an array, you can see the Array icon adjacent to it, and an items placeholder appears under the array node, which you can update with values as required. You can also define the data type of items in the array using the data type icons listed in the **Select Type** field-set.
 
 Select the **Required** check box adjacent to an element to indicate that it's mandatory.

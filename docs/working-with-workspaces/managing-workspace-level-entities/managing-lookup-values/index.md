@@ -18,7 +18,7 @@ In Koodisi, lookup tables, vaults, workspaces, and environments work together to
 - [**Workspaces**](/docs/working-with-workspaces) organize applications, workflows, and resources in a shared space. They help teams manage related applications and control access.
 - [**Lookup Tables** ](/docs/working-with-workspaces/managing-workspace-level-entities/managing-lookup-values)store reusable key-value data. All applications in a workspace can access this data to build workflows.
 - [**Vaults**](/docs/working-with-workspaces/managing-workspace-level-entities/managing-secrets) securely store sensitive information, such as passwords and tokens. Workflows can access this data without exposing it.
-- Environments manage configuration settings for different stages (Development, Production).&#x20;
+- Environments manage configuration settings for different stages (Development, Production).
 
 ## Accessing Lookup Tables
 

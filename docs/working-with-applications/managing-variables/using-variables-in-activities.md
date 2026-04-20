@@ -3,18 +3,17 @@ title: "Using Variables in Activities"
 sidebar_position: 2
 ---
 
-
 Use variables to specify reusable data in the following situations:
 
-* When defining connection resources
-* When adding header details for activities
-* When adding headers to REST activities
+- When defining connection resources
+- When adding header details for activities
+- When adding headers to REST activities
 
 ## Using Variables When Configuring Connection Resources
 
-To use variables when you configure a connection resource, such as an Azure Blob Storage account:&#x20;
+To use variables when you configure a connection resource, such as an Azure Blob Storage account:
 
-1. &#x20;Create a resource or click on an existing resource to view its details.
+1. Create a resource or click on an existing resource to view its details.
 2. Open the Variables side panel.
 3. Click on the handle adjacent to the variable that you want to use and drag it onto a field that holds data that can be reused. Example: Account Name.
 4. Click **Save**.
@@ -26,7 +25,7 @@ Using variables in headers offers enhanced flexibility and dynamic behavior in a
 To use variables in a header associated with an activity:
 
 1. Add the activity to your workflow and click on it to view its configuration details.
-2. Click the **Input** tab. If the Input tab of the activity configuration has a **gv** node, it means it supports variables.&#x20;
+2. Click the **Input** tab. If the Input tab of the activity configuration has a **gv** node, it means it supports variables.
 3. Expand the **gv** node to view your variable groups. Expand the variable group that contains the variable you want to use.
 4. Expand the target node that contains the attribute to which you want to map your variable.
 5. To connect a variable to a target attribute, click and drag the desired variable directly onto the target field.\

@@ -3,7 +3,6 @@ title: "Saving an Application as an Application Template"
 sidebar_position: 13
 ---
 
-
 ## What's an application template?
 
 An application template contains all the workflows, related resources, and schemas that were used to create the source application.
@@ -29,4 +28,4 @@ To create an application template:
 6. Click **Next**.\
    The Publish page appears.
 7. Review the details associated with your application template, and click **Publish** when ready.\
-   Your application template is now created, and you can view it in the Artifacts Library.&#x20;
+   Your application template is now created, and you can view it in the Artifacts Library.

@@ -3,12 +3,11 @@ title: "Managing Application Data"
 sidebar_position: 3
 ---
 
-
 :::info
 This is a very rarely used and highly restricted feature. We recommend only senior administrators be allowed access to this task.
 :::
 
-Use the Local Datastore (**Settings > Git Settings > Local Datastore**) to perform advanced troubleshooting and data handling.&#x20;
+Use the Local Datastore (**Settings > Git Settings > Local Datastore**) to perform advanced troubleshooting and data handling.
 
 Click **Open Local Datastore** to access the tool. The Local Datastore appears as a side panel.
 

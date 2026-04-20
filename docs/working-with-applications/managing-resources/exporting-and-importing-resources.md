@@ -3,7 +3,6 @@ title: "Exporting and Importing Resources"
 sidebar_position: 2
 ---
 
-
 ## Exporting a Resource
 
 To export a resource, right-click it and select **Export Resource**. The resource is downloaded into your system.
@@ -20,7 +19,7 @@ To import a resource:
 Ensure the resource file matches your platform environment to avoid compatibility issues.
 :::
 
-3. Specify whether you want to import the resource into an **Existing Application**, or as a **New Application** by selecting the appropriate option. &#x20;
+3. Specify whether you want to import the resource into an **Existing Application**, or as a **New Application** by selecting the appropriate option.
 4. If you want to import the resource into an existing application, click the **Select Application** field and choose the application into which you want to import the resource from the options that appear.\
    \
    If you want to import the resource as a new application, enter the **Application Name** in the field provided.

@@ -3,7 +3,6 @@ title: "The Metrics Dashboard"
 sidebar_position: 15
 ---
 
-
 The Metrics Dashboard provides a centralized interface for monitoring and analyzing workflow executions and traces. It offers an aggregated view of execution metrics, including total requests, average duration, error counts, and latency percentiles. This tool enables users to ensure operational efficiency and traceability at the application, workflow, and execution levels through advanced visualizations and actionable insights.
 
 ### 1.Adding Metrics
@@ -104,67 +103,61 @@ Provides an in-depth view of a single workflow execution.
 
 <img src="../assets/images/Metrics-ExecutionTraces.gif" alt=""/>
 
-### Searching Traces in Koodisi &#x20;
+### Searching Traces in Koodisi
 
 Koodisi allows users to search and filter traces for deeper insights into workflow execution and performance.
 
 #### Steps to Search Traces 1. Access the Metrics Feature
 
-- Navigate to the Metrics section from the main menu.&#x20;
-- Switch to the Traces tab.&#x20;
+- Navigate to the Metrics section from the main menu.
+- Switch to the Traces tab.
 
 <img src="../assets/images/A screenshot of a computer__Description automatically generated.png" alt=""/>
 
-#### 2. Click on Search using query to open the query builder.&#x20;
+#### 2. Click on Search using query to open the query builder.
 
-&#x20; Select from the available preset attributes to define custom filters
+Select from the available preset attributes to define custom filters
 
-- Application Name&#x20;
-- Workflow Name&#x20;
-- Workflow ID&#x20;
-- Workflow Version&#x20;
+- Application Name
+- Workflow Name
+- Workflow ID
+- Workflow Version
 
-### Available Operators for Metrics Searchability&#x20;
+### Available Operators for Metrics Searchability
 
 The following operators can be used to filter metrics. Each operator behaves as follows
 
-&#x20;
-
 1. EQUALS
 
-- Retrieves records where the selected attribute exactly matches the specified value.&#x20;
-- Example: If attribute tag = status and search item = active, it returns records with status = active.&#x20;
+- Retrieves records where the selected attribute exactly matches the specified value.
+- Example: If attribute tag = status and search item = active, it returns records with status = active.
 
 2. NOT EQUALS
 
-- Retrieves records where the selected attribute does not match the specified value.&#x20;
-- Example: If attribute tag = status and search item = inactive, it excludes records where status = inactive.&#x20;
+- Retrieves records where the selected attribute does not match the specified value.
+- Example: If attribute tag = status and search item = inactive, it excludes records where status = inactive.
 
 3. IN
 
-- Retrieves records where the selected attribute matches any value from a list.&#x20;
-- Example: If attribute tag = status and search item = \[active, pending], it returns records with status = active or status = pending.&#x20;
+- Retrieves records where the selected attribute matches any value from a list.
+- Example: If attribute tag = status and search item = \[active, pending], it returns records with status = active or status = pending.
 
 4. NOT IN
 
-- Retrieves records where the selected attribute does not match any value from a list.&#x20;
-- Example: If attribute tag = status and search item = \[inactive, archived], it excludes records with status = inactive or status = archived.&#x20;
+- Retrieves records where the selected attribute does not match any value from a list.
+- Example: If attribute tag = status and search item = \[inactive, archived], it excludes records with status = inactive or status = archived.
 
 5. EXISTS
 
-- Retrieves records where the selected attribute is present, regardless of its value.&#x20;
-- Example: If attribute tag = status, it returns all records where status is defined.&#x20;
+- Retrieves records where the selected attribute is present, regardless of its value.
+- Example: If attribute tag = status, it returns all records where status is defined.
 
-6. NOT EXISTS&#x20;
+6. NOT EXISTS
 
-- Retrieves records where the selected attribute is absent or undefined.&#x20;
-- Example: If attribute tag = status, it returns all records where status is not present.&#x20;
-
-&#x20;
+- Retrieves records where the selected attribute is absent or undefined.
+- Example: If attribute tag = status, it returns all records where status is not present.
 
 #### 3. View Results
 
-- Click Search to display traces matching your defined criteria.&#x20;
-- Analyze trace details such as Application Name, Workflow Name, Workflow Version, Start Time, and Duration (ms)&#x20;
-
-&#x20;
+- Click Search to display traces matching your defined criteria.
+- Analyze trace details such as Application Name, Workflow Name, Workflow Version, Start Time, and Duration (ms)

@@ -3,7 +3,6 @@ title: "Managing Application Deployment Profiles"
 sidebar_position: 12
 ---
 
-
 Deployment Profiles offer a structured and repeatable approach to application deployment across environments. These profiles act as configuration blueprints, encapsulating environment-specific settings, deployment methods, and pre/post-deployment actions. By leveraging profiles, teams can:
 
 - Ensure consistent and automated deployments.
@@ -19,7 +18,7 @@ To create a deplyment profile for an application:
 2. Click the **Profiles** ![](../../assets/images/Profiles-Icon.png) icon.\
    The Profiles side panel appears.
 3. Click **Create Profile**.\
-   The Profile modal&#x20;
+   The Profile modal
 
 #### **1. Navigate to Deployment Profiles**
 

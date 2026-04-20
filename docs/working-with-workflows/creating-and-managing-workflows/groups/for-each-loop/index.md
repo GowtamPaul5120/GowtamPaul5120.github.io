@@ -3,14 +3,13 @@ title: "For Each Loop"
 sidebar_position: 1
 ---
 
-
 The For Each loop iterates over variables in an array. The array to iterate over is specified in the 'Iterate On' field of the group configuration and can be sourced from any activity’s output prior to the start of the loop. This loop is ideal for operations where each item in a collection needs to be processed individually.
 
 > Usage: Use the For Each loop when you need to execute a block of activities for each variable in a specified array.
 
 #### Configuration Options
 
-- Variable Naming: Assign a name to each variable within the array to be used in subsequent activities.&#x20;
+- Variable Naming: Assign a name to each variable within the array to be used in subsequent activities.
 
 #### Configuration Table
 

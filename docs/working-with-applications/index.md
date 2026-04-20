@@ -3,10 +3,9 @@ title: "Working with Applications"
 sidebar_position: 8
 ---
 
-
 ## What's an application?
 
-An application is an organized collection of workflows and everything else that a workflow needs to function. Applications enable you to streamline and automate workflows.&#x20;
+An application is an organized collection of workflows and everything else that a workflow needs to function. Applications enable you to streamline and automate workflows.
 
 ## What does an application contain?
 

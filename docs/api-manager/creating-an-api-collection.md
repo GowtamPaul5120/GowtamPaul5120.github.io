@@ -3,10 +3,9 @@ title: "Creating an API Collection"
 sidebar_position: 1
 ---
 
-
 **Create an API Collection**
 
-&#x20;• Navigate to Settings from the left sidebar and click on Create Collections.
+• Navigate to Settings from the left sidebar and click on Create Collections.
 
 <img src={require('../../assets/images/image (36).png').default} />
 

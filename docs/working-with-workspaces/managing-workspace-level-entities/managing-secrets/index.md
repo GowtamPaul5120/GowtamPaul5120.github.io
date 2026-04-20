@@ -3,8 +3,7 @@ title: "Managing Secrets"
 sidebar_position: 3
 ---
 
-
-Use the Secret Manager to safeguard sensitive information (such as API keys, passwords, and certificates) and ensure secure controlled access.&#x20;
+Use the Secret Manager to safeguard sensitive information (such as API keys, passwords, and certificates) and ensure secure controlled access.
 
 The Secret Manager uses vaults to store secrets at the workspace level, and only users with specific permissions can configure them and control access to them.
 

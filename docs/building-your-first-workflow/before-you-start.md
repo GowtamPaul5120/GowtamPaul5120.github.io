@@ -3,11 +3,10 @@ title: "Before You Start"
 sidebar_position: 1
 ---
 
-
 When you log in, you automatically join a public workspace, where you can practice creating applications and workflows.
 
 :::info
-You can create your first workflow even in an existing application, but we recommend you create your own application, just to ensure you don't modify the work of other users.&#x20;
+You can create your first workflow even in an existing application, but we recommend you create your own application, just to ensure you don't modify the work of other users.
 :::
 
 ## Create Your Application

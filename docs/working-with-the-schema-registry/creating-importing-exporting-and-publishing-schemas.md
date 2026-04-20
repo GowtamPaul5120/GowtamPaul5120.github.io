@@ -3,7 +3,6 @@ title: "Creating, Importing, Exporting, and Publishing Schemas"
 sidebar_position: 1
 ---
 
-
 Koodisi organizes your schemas into schema collections to better organize, manage, and reuse data schemas across multiple applications or modules.
 
 ## Creating Schema Collections
@@ -22,7 +21,7 @@ To create a schema in the Schema Registry:
 
 1. Navigate to the collection in which you want to create the schema and click **Upload a Schema**. \
    The Import Schema modal appears.
-2. **Select a collection** using the drop-down list provided.&#x20;
+2. **Select a collection** using the drop-down list provided.
 3. Use the **Add to folder** drop-down list to select a child folder, if you created them earlier.
 4. Specify how you want to upload the schema:
    1. **Upload a schema from your system.**
@@ -41,7 +40,7 @@ To export a schema from an application or the Schema Registry, open it and click
 
 ## Publishing a Schema
 
-Until you publish a schema, it remains available only to you. Once you're happy with its contents and structure, publish it as the initial version.&#x20;
+Until you publish a schema, it remains available only to you. Once you're happy with its contents and structure, publish it as the initial version.
 
 To publish a schema:
 
