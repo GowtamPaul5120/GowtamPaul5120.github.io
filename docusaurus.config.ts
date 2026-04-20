@@ -14,8 +14,8 @@ const config: Config = {
   url: "https://gowtampaul5120.github.io",
   baseUrl: "/",
 
-  organizationName: "GowtamPaul5120",
-  projectName: "GowtamPaul5120.github.io",
+  organizationName: "Koodisi",
+  projectName: "Koodisi Documentation",
 
   deploymentBranch: "gh-pages",
   trailingSlash: false,
@@ -87,13 +87,13 @@ const config: Config = {
     },
 
     algolia: {
-      appId: "YOUR_APP_ID",
-      apiKey: "YOUR_SEARCH_API_KEY",
-      indexName: "YOUR_INDEX_NAME",
+      appId: "YCCE1SPXJ2",
+      apiKey: "a6c4159cd603a50384988196665294a2",
+      indexName: "PlatformNX Documentation",
       contextualSearch: true,
       searchParameters: {},
       askAi: {
-        assistantId: "YOUR_ASSISTANT_ID",
+        assistantId: "823b9f23-2bd5-4ddc-b233-c387303b0989",
       },
     },
   } satisfies Preset.ThemeConfig,
