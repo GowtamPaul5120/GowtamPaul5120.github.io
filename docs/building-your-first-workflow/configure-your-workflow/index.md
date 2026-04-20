@@ -25,12 +25,12 @@ Configuring this workflow involves the following tasks:
 3. In the RESTService Configuration panel, click **Configure It Yourself**.\
    The RESTService Configuration options appear.
 
-<figure><img src="../../../assets/images/Restservice.gif" alt=""/><figcaption></figcaption></figure>
+
 
 5. In the Configuration tab, enter the **Path** of the REST service as _/Hello_. Leave the other fields unchanged.
 6. Click **Save**.
 
-<figure><img src={require('../../../assets/images/Screenshot 2024-11-19 185612.png').default} /><figcaption></figcaption></figure>
+
 
 You've now added a REST service to your workflow and specified the path to the service. You must now add a Response activity to your workflow, so it can automatically respond in a predictable manner when it receives an input from the REST source.
 
@@ -46,7 +46,7 @@ To add the Response activity:
 5. Click on the **Input** tab of the Response activity to configure it.
 
 :::info
-You may want to click the **Full-Screen View** <img src={require('../../../assets/images/Fullscreen_Icon.png').default} data-size="original"/> icon in the top-right corner of the configuration options panel, to ensure you have enough space to perform the tasks that follow.
+You may want to click the **Full-Screen View**  icon in the top-right corner of the configuration options panel, to ensure you have enough space to perform the tasks that follow.
 :::
 
 In the Source panel, scroll down to the RestService > body node, and you can see that this node is empty. In the simplest of terms, this means that the `body` element in the REST service output is empty. We shall now configure the Response activity to add a text message to the body, so that the workflow can output the message in response to the trigger from the Rest service.

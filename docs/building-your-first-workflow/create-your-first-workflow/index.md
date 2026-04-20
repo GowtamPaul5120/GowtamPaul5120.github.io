@@ -11,4 +11,4 @@ To add a workflow to your application
 2. In the Configuration panel in the lower half of the page, enter _HelloWorld_ as the **Name** of your workflow.
 3. Click **Save**. Your workflow is now created, and you can start [configuring it](configure-your-workflow.md).
 
-<figure><img src="../../../assets/images/Workflow.gif" alt=""/><figcaption></figcaption></figure>
+

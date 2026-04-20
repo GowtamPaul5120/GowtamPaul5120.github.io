@@ -27,7 +27,7 @@ Enables you to list files in an Amazon S3 bucket.
 | Recursive   | Optional | Instructs the application to retrieve matching files recursively from subdirectories.                                                                                                                                                                                                                                               | Deselected                                                                                                                                                                                                                                                                                                              |
 | Descending  | Optional | Instructs the application to display results in alphabetically descending order.                                                                                                                                                                                                                                                    | Deselected                                                                                                                                                                                                                                                                                                              |
 
-![S3List Configuration](../../../../../assets/images/S3List-Configuration.png)
+
 
 ## Input
 

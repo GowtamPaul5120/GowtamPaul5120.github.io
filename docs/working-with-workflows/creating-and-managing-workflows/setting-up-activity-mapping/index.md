@@ -14,14 +14,14 @@ Mapping facilitates the seamless transfer of data from a **source** (e.g., activ
 - **Mapping is available in every activity’s input configuration tab.**\
   This ensures that users can define how data flows into an activity during workflow execution.
 
-![Mapping Input](../../../../assets/images/Mapping-Input.gif)
+
 
 **Source and Target**
 
 - **Source:** The origin of the data, such as an activity output or an external system.
 - **Target:** The destination for the data, typically defined in the activity’s input configuration or schema.
 
-![Mapping Source and Target](../../../../assets/images/Mapping-Source and Target.gif)
+
 
 **Schema Extension**
 
@@ -30,13 +30,13 @@ Mapping facilitates the seamless transfer of data from a **source** (e.g., activ
     1. In the target area of the activity, click the **three dots** (kebab menu).
     2. Select the **Extend** option to add additional fields or modify the schema as per requirements.
 
-![Mapping Schema Extension](../../../../assets/images/Mapping-SchemaExtension.gif)
+
 
 **Drag-and-Drop Mapping**
 
 - Users can map fields by dragging a source field and dropping it onto the corresponding target field, simplifying the mapping process.
 
-![Mapping Drag and Drop](../../../../assets/images/Mapping-drag and drop.gif)
+
 
 ---
 
@@ -57,7 +57,7 @@ Mapping facilitates the seamless transfer of data from a **source** (e.g., activ
   - Schema mismatches or conflicts.
   - Invalid syntax in expressions.
 
-![Mapping Error Handling](../../../../assets/images/Mapping-ErrorHandling.gif)
+
 
 ---
 
@@ -68,17 +68,17 @@ The mapping interface includes **three toggle views** to help users manage mappi
 - **Default View**
   - Displays all fields, both mapped and unmapped.
 
-![Mapping Default View](../../../../assets/images/Mapping-defaultView.gif)
+
 
 - **Mapped View**
   - Shows only the fields that have been successfully mapped.
 
-![Mapping Mapped View](../../../../assets/images/Mapping-MappedView.gif)
+
 
 - **Unmapped View**
   - Highlights unmapped fields, allowing users to focus on completing their mappings.
 
-![Mapping Unmapped View](../../../../assets/images/Mapping-UnmappedView.gif)
+
 
 ---
 
@@ -125,7 +125,7 @@ Mapping expressions allow dynamic data handling by referencing fields and applyi
 
     Provides a default value (`0`) if `Discount` is null.
 
-![Mapping Concat](../../../../assets/images/Mapping-Concat.gif)
+
 
 ---
 

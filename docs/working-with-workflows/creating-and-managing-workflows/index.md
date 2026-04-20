@@ -7,7 +7,7 @@ sidebar_position: 1
 
 If you’re new to creating workflows, refer to the [**Build Your First Workflow**](../../building-your-first-workflow/#steps-to-create-your-first-hello-world-workflow) guide for a detailed walkthrough on setting up workflows from scratch.
 
-![Create Workflow](../../../assets/images/Create-Workflow.gif)
+
 
 ## Update
 
@@ -24,7 +24,7 @@ Renaming a workflow updates its name across the platform, ensuring consistency a
 
 **Note:** Renaming automatically updates the workflow’s name wherever it is referenced. This does not impact functionality but improves clarity and organization.
 
-![Renaming Workflow](../../../assets/images/Renaming-Workflow.gif)
+
 
 ### **3. Delete a Workflow**
 
@@ -37,4 +37,4 @@ Deleting a workflow permanently removes it from the platform along with all its 
 
 **Note:** This action is irreversible. Ensure the workflow is no longer needed, or export it before deleting to avoid data loss.
 
-![Delete Workflow](../../../assets/images/Delete-Workflow.gif)
+

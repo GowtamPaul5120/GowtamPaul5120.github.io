@@ -47,7 +47,7 @@ JSON
 
 To create a schema definition:
 
-1. Open a schema in Edit mode and click the **Definitions** ![](../../../../assets/images/definitions-icon (1).png>) icon.\
+1. Open a schema in Edit mode and click the **Definitions** .png>) icon.\
    The Definitions pane appears.
 2. Click the **+** icon at the top of the Definitions pane and enter a name for the definition you want to create.
 3. Click the definition to edit its details.\
@@ -61,7 +61,7 @@ You can now include the schema definition in other schemas to expand their scope
 
 To edit a schema definition:
 
-1. Open a schema in Edit mode and click the **Definitions** ![](../../../../assets/images/definitions-icon (1).png>) icon.\
+1. Open a schema in Edit mode and click the **Definitions** .png>) icon.\
    The Definitions pane appears.
 2. Click the definition you want to edit to view its details in the Schema Editor.
 3. You can now directly create the schema using the Code View, or you can construct the schema using the Editor controls provided. See [#editing-schema-details-using-the-editor](editing-schemas.md#editing-schema-details-using-the-editor "mention") for more information.
@@ -71,8 +71,8 @@ To edit a schema definition:
 
 Syntactically, a definition is just another property of a schema. Therefore, to add a definition to a schema:
 
-1. Open the schema in Edit mode and click the **Definitions** ![](../../../../assets/images/definitions-icon (1).png>) icon to display the Definitions panel.
-2. Click the **Add** button in the Schema Editor to add the definition as a new property. To update an existing property in the schema, select it and click the **Properties** ![](../../../../assets/images/Schema-Properties-Icon.png) icon in the toolbar associated with the property.
+1. Open the schema in Edit mode and click the **Definitions** .png>) icon to display the Definitions panel.
+2. Click the **Add** button in the Schema Editor to add the definition as a new property. To update an existing property in the schema, select it and click the **Properties**  icon in the toolbar associated with the property.
 3. In the modal that appears, click the **Reference** tab.
 4. Enter the **Name** of the definition in the schema.
 5. Click and drag to the **Reference** field the definition that you want to associate with the schema property. The field is now updated to display the reference in the following syntax: `#/$defs/<definition_name>`. \

@@ -27,7 +27,7 @@ Lists all blob files under a virtual directory using specified sorting and name 
 | Recursive      | Optional | Instructs the application to retrieve matching blobs recursively from child folders.                                                                                                                                                                                                                                        | Deselected                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Descending     | Optional | Instructs the application to display results in alphabetically descending order.                                                                                                                                                                                                                                            | Deselected                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-![ListSFTPFile Configuration](../../../../../assets/images/ListABSFiles.png)
+
 
 ## Input
 

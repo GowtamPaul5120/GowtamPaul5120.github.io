@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Here's a graphic that illustrates the high-level flow that typical deployments of Koodisi follow. Review the content under the graphic for more details on the tasks outlined.
 
-<div align="left"><img src={require('../../../assets/images/Koodisi High-Level Flow-1.png').default} /></div>
+<div align="left"></div>
 
 When you work with Koodisi, you primarily perform the following tasks:
 

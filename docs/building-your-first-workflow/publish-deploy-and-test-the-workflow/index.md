@@ -28,7 +28,7 @@ Publishing, deploying, and testing are the final steps to make your workflows an
 
 You are now ready to test your workflow.
 
-<figure><img src="../../../assets/images/Publish &#x26; Deploy.gif" alt=""/><figcaption></figcaption></figure>
+
 
 ## **Test the Workflow**
 
@@ -49,7 +49,7 @@ A quick review of the contents of your test case tells you what your workflow do
 
 5. Click **Send** to trigger the test and send the GET request to the Azure endpoint. If your workflow is configured correctly, you must see a Status of 200 (meaning that your request succeeded) and the Message returned as `Hello World`.
 
-<figure><img src="../../../assets/images/Test.gif" alt=""/><figcaption></figcaption></figure>
+
 
 Congratulations! You've just created, published, deployed and tested your first workflow. Review the following sections for more information on managing workflows.
 

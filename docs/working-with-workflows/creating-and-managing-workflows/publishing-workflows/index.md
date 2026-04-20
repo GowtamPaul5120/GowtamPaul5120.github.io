@@ -22,7 +22,7 @@ sidebar_position: 11
 4. **Confirm and Publish**
    - Click the **Publish** button to finalize. The workflow version is now locked and available for deployment.
 
-![Publish Workflow](../../../../assets/images/Publish.gif)
+
 
 ---
 
@@ -47,9 +47,9 @@ sidebar_position: 11
 2. **Select Deployment API Type**
    - Choose **Secured API** or **Public API** based on the workflow’s access requirements.
 
-![Deploy Public API](../../../../assets/images/Deploy-Public.gif)
 
-![Deploy Secure API](../../../../assets/images/Deploy-Secure.gif)
+
+
 
 **Initiate Deployment**
 
@@ -75,7 +75,7 @@ sidebar_position: 11
 3. **Complete Promotion**
    - Upon receiving all necessary approvals, the workflow is promoted to the **Production** environment.
 
-![Promote Workflow](../../../../assets/images/Promote.gif)
+
 
 ---
 
@@ -96,7 +96,7 @@ sidebar_position: 11
    - Click the **Rollback** button associated with the selected version.
    - Confirm the rollback action.
 
-![Rollback Workflow](../../../../assets/images/Rollback.gif)
+
 
 **Rollback Use Cases**
 

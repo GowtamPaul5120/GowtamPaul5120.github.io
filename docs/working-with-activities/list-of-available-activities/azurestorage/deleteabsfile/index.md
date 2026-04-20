@@ -27,7 +27,7 @@ The DeleteABSFile Configuration panel has four tabs: [Configuration](deleteabsfi
 | File Path      | Required | <p>The location of the virtual directory that contains the blob that you want to delete.</p><p><strong>Note</strong></p><p><em>While entering the path, only include the virtual directories without adding the container name, because the container name is already specified (see Container Name, above).</em></p> | <p>For example, consider the following complete path:</p><p><code>temp-processing/image-processing/temp/</code></p><p>In this complete path:</p><ul><li><code>temp-processing</code> is the blob container.</li><li><code>temp</code> is the virtual directory that contains the blob you want to update.</li><li><code>image-processing/temp</code> is the path to the blob.</li></ul> |
 | File Name      | Required | The name of the blob file that you want to delete.                                                                                                                                                                                                                                                                    | job-123-original.jpg.tmp                                                                                                                                                                                                                                                                                                                                                                |
 
-![DeleteABSFile Configuration](../../../../../assets/images/DeleteABSFile.png)
+
 
 See the Advanced Configuration section below for more details.
 

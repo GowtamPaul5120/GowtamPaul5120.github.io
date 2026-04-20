@@ -42,7 +42,7 @@ To create a single Git-enabled application:
    3. **Continue without credentials**. Choose this option if you do not want to save your credentials in Koodisi. You will be asked to enter your credentials manually every time you run any Git command.
 10. Click **Create**.
 
-Your application is now created, and an additional Git icon ![](../../../assets/images/Git-Icon.png) appears. Click this icon to view the Git side panel, which contains controls that enable you to manage the local and remote versions of your application data. For more information on using Git with applications, see [using-git-with-applications.md](/docs/using-git-to-develop-applications/using-git-with-applications).
+Your application is now created, and an additional Git icon  appears. Click this icon to view the Git side panel, which contains controls that enable you to manage the local and remote versions of your application data. For more information on using Git with applications, see [using-git-with-applications.md](/docs/using-git-to-develop-applications/using-git-with-applications).
 
 ## Creating a Multi-Module Application
 

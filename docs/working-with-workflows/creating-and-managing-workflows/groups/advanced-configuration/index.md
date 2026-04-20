@@ -13,18 +13,18 @@ sidebar_position: 4
 
 Select the activities to group.
 
-![Advanced Configuration Select](../../../../../assets/images/image (32).png)
+.png)
 
 Click on the group icon from the tool grid in the canvas area.
 
-![Group Icon](../../../../../assets/images/image (33).png)
+.png)
 
 #### Output of group after Using Accumulate or without Accumulate
 
 Case 1. If you use accumulate, it provides data in an array that contains all outputs from each iteration
 
-![Accumulate Output](../../../../../assets/images/image (34).png)
+.png)
 
 Click on the group icon from the tool grid in the canvas area.
 
-![Non-Accumulate Output](../../../../../assets/images/image (35).png)
+.png)
