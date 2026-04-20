@@ -4,6 +4,7 @@ backend:
   branch: development
   base_url: https://platformnx-cms-auth.gowtampaul16.workers.dev
   auth_endpoint: /auth
+  open_authoring: false
 
 publish_mode: editorial_workflow
 media_folder: static/img
@@ -16,6 +17,7 @@ collections:
     create: true
     extension: md
     format: frontmatter
+    summary: "{{title}}"
     nested:
       depth: 10
       summary: "{{title}}"
@@ -24,13 +26,6 @@ collections:
         label: "File Path"
         widget: string
         index_file: index
-    view_filters:
-      - label: "All Docs"
-        field: title
-        pattern: ""
-    view_groups:
-      - label: "By Folder"
-        field: path
     fields:
       - { label: "Title", name: title, widget: string }
       - {
