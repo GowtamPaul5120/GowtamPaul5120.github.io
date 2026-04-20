@@ -5,6 +5,7 @@
   border: 1px solid var(--koodisi-sidebar-border);
   border-radius: 8px;
   transition: all 0.2s ease;
+  display: none;
 }
 
 .koodisi-edit-this-page:hover {
@@ -59,11 +60,11 @@
 }
 
 /* Dark mode adjustments */
-html[data-theme='dark'] .koodisi-edit-this-page {
+html[data-theme="dark"] .koodisi-edit-this-page {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
-html[data-theme='dark'] .koodisi-edit-this-page:hover {
+html[data-theme="dark"] .koodisi-edit-this-page:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
@@ -75,7 +76,7 @@ html[data-theme='dark'] .koodisi-edit-this-page:hover {
     border-left: none;
     border-right: none;
   }
-  
+
   .edit-button {
     width: 100%;
     justify-content: center;

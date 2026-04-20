@@ -61,6 +61,21 @@ html[data-theme="dark"] {
   border-right: 1px solid var(--koodisi-sidebar-border);
 }
 
+nav.menu.thin-scrollbar {
+  padding: 20px;
+}
+.menu__link--active:not(.menu__link--sublist),
+.menu__list-item-collapsible--active {
+  background-color: transparent !important;
+}
+.menu__link--active:not(.menu__link--sublist):hover,
+.menu__list-item-collapsible--active:hover {
+  background-color: var(--ifm-menu-color-background-hover) !important;
+}
+button.clean-btn.menu__caret {
+  opacity: 0.4;
+}
+
 .sidebar-item-title {
   font-weight: 600;
   color: var(--ifm-color-emphasis-900);
